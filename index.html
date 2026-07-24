@@ -181,6 +181,23 @@
   }
   @media (max-width: 900px) {
     .columns { grid-template-columns: 1fr; }
+    .panel { max-height: none; overflow: visible; }
+    .agenda-list { overflow-y: visible; }
+    .task-table-wrap { overflow-y: visible; }
+    .day-head { position: static; }
+    .task-table thead th { position: static; }
+  }
+  @media (max-width: 480px) {
+    .page { padding: 18px 14px 40px; gap: 16px; }
+    .topbar { gap: 10px; }
+    .brand-logo { height: 36px; }
+    h1 { font-size: 18px; }
+    .stats { grid-template-columns: repeat(2, 1fr); }
+    .stat-tile { padding: 12px 14px; }
+    .stat-tile .n { font-size: 22px; }
+    #taskSearch, #listFilter { flex: 1 1 100%; }
+    .modal-backdrop { padding: 12px; }
+    .cal-nav-btn, .modal-close { width: 32px; height: 32px; }
   }
 
   .panel {
@@ -253,7 +270,7 @@
   #taskSearch { flex: 1; min-width: 140px; }
 
   .task-table-wrap { overflow: auto; padding: 0 18px 18px; }
-  table.task-table { width: 100%; border-collapse: collapse; font-size: 12.8px; }
+  table.task-table { width: 100%; min-width: 540px; border-collapse: collapse; font-size: 12.8px; }
   .task-table thead th {
     position: sticky; top: 0; background: var(--surface-raised);
     text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em;
