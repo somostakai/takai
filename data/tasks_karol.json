@@ -721,34 +721,19 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbd62jx",
-      "name": "criar kit para novos clientes",
-      "status": "não iniciado",
-      "url": "https://app.clickup.com/t/wdwmbd62jx",
+      "id": "wdwmbd977v",
+      "name": "[vídeos e fotos] @guilherme henrique",
+      "status": "proposta",
+      "url": "https://app.clickup.com/t/wdwmbd977v",
       "priority": "high",
       "assignees": [
         "Karol"
       ],
-      "tags": [],
-      "due_date": "1784617200000",
-      "list": "tarefas"
-    },
-    {
-      "id": "86ahmcy8w",
-      "name": "[branding de marca] @tatiana simionato",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86ahmcy8w",
-      "priority": "urgent",
-      "assignees": [
-        "Talita Dovigo",
-        "Tainara Nogueira",
-        "Karol"
-      ],
       "tags": [
-        "identidade"
+        "comercial"
       ],
-      "due_date": "1784790000000",
-      "list": "branding de marca"
+      "due_date": "1784876400000",
+      "list": "crm"
     },
     {
       "id": "wdwmbd8ett",
@@ -812,6 +797,23 @@
       "list": "estudos"
     },
     {
+      "id": "86ahmcy8w",
+      "name": "[branding de marca] @tatiana simionato",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86ahmcy8w",
+      "priority": "urgent",
+      "assignees": [
+        "Talita Dovigo",
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "identidade"
+      ],
+      "due_date": "1784876400000",
+      "list": "branding de marca"
+    },
+    {
       "id": "86af46ztv",
       "name": "atualizar planilha financeira",
       "status": "priorizado",
@@ -820,21 +822,6 @@
       "assignees": [
         "Karol",
         "Tainara Nogueira"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1784876400000",
-      "list": "tarefas"
-    },
-    {
-      "id": "86af46nxr",
-      "name": "refinamento quinzenal do backlog",
-      "status": "não iniciado",
-      "url": "https://app.clickup.com/t/86af46nxr",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
       ],
       "tags": [
         "organização"
@@ -856,21 +843,6 @@
       ],
       "due_date": "1784876400000",
       "list": "mentorias"
-    },
-    {
-      "id": "wdwmbd977v",
-      "name": "[vídeos e fotos] @guilherme henrique",
-      "status": "triagem",
-      "url": "https://app.clickup.com/t/wdwmbd977v",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1785135600000",
-      "list": "crm"
     },
     {
       "id": "wdwmbd976q",
@@ -1361,6 +1333,21 @@
       "list": "tarefas"
     },
     {
+      "id": "86af46nxr",
+      "name": "refinamento quinzenal do backlog",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/86af46nxr",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1786086000000",
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbd9gcw",
       "name": "[branding da marca] @takai",
       "status": "backlog",
@@ -1436,6 +1423,19 @@
       "list": "samuel thobias"
     },
     {
+      "id": "wdwmbd62kt",
+      "name": "mapear quanto pagamos em cada aplicativo",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbd62kt",
+      "priority": null,
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": null,
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbd62kr",
       "name": "listar todos os aplicativos e saas utilizados",
       "status": "não iniciado",
@@ -1454,6 +1454,19 @@
       "status": "não iniciado",
       "url": "https://app.clickup.com/t/wdwmbd62kn",
       "priority": null,
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbd62jx",
+      "name": "criar kit para novos clientes",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbd62jx",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
