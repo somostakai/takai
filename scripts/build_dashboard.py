@@ -45,7 +45,7 @@ def parse_dt(value):
     return datetime.fromisoformat(value)
 
 
-def process_events(raw_events, now):
+def process_events(raw_events):
     out = []
     for ev in raw_events:
         start = parse_dt(ev["start"])
@@ -62,7 +62,7 @@ def process_events(raw_events, now):
             "weekday": WEEKDAYS_PT[start.weekday()],
             "dateLabel": f"{start.day:02d} {MONTHS_PT[start.month - 1]}",
             "allDay": bool(ev.get("allDay")),
-            "timeLabel": "dia inteiro" if ev.get("allDay") else f"{start.strftime('%H:%M')}–{end.strftime('%H:%M')}" if end else start.strftime("%H:%M"),
+            "timeLabel": "dia inteiro" if ev.get("allDay") else f"{start.strftime('%H:%M')}-{end.strftime('%H:%M')}" if end else start.strftime("%H:%M"),
             "startIso": ev["start"],
             "location": ev.get("location"),
             "attendeeCount": len(external),
@@ -70,14 +70,13 @@ def process_events(raw_events, now):
             "isRoutine": is_routine,
             "isMeeting": is_meeting,
             "htmlLink": ev.get("htmlLink"),
-            "isPast": (end or start) < now,
         })
     out.sort(key=lambda e: e["startIso"])
     return out
 
 
 PRIORITY_RANK = {"urgent": 0, "high": 1, "normal": 2, "low": 3, None: 4}
-PRIORITY_LABEL = {"urgent": "urgente", "high": "alta", "normal": "normal", "low": "baixa", None: "—"}
+PRIORITY_LABEL = {"urgent": "urgente", "high": "alta", "normal": "normal", "low": "baixa", None: "sem prioridade"}
 
 
 def process_tasks(raw_tasks, now):
@@ -97,9 +96,9 @@ def process_tasks(raw_tasks, now):
             "url": t["url"],
             "status": status,
             "priority": t.get("priority"),
-            "priorityLabel": PRIORITY_LABEL.get(t.get("priority"), t.get("priority") or "—"),
+            "priorityLabel": PRIORITY_LABEL.get(t.get("priority"), t.get("priority") or "sem prioridade"),
             "priorityRank": PRIORITY_RANK.get(t.get("priority"), 4),
-            "list": t.get("list") or "—",
+            "list": t.get("list") or "sem lista",
             "tags": t.get("tags") or [],
             "assignees": t.get("assignees") or [],
             "extraAssignees": [a for a in (t.get("assignees") or []) if a != "Karol"],
@@ -116,7 +115,7 @@ def process_tasks(raw_tasks, now):
 def build_stats(events, tasks, now):
     today_key = now.date().isoformat()
     week_key = (now + timedelta(days=7)).date().isoformat()
-    upcoming = [e for e in events if not e["isPast"] and not e["isRoutine"]]
+    upcoming = [e for e in events if e["dateKey"] >= today_key and not e["isRoutine"]]
     open_tasks = [t for t in tasks if not t["isDone"]]
     overdue_tasks = [t for t in open_tasks if t["overdue"]]
     due_soon_tasks = [t for t in open_tasks if t["dueSoon"]]
@@ -137,7 +136,7 @@ def main():
     raw_events = load("events_raw.json")
     raw_tasks = load("tasks_karol.json")["tasks"]
 
-    events = process_events(raw_events, now)
+    events = process_events(raw_events)
     tasks = process_tasks(raw_tasks, now)
     stats = build_stats(events, tasks, now)
 
@@ -158,7 +157,7 @@ def main():
     )
 
     (ROOT / "index.html").write_text(html)
-    print(f"index.html gerado — {len(events)} eventos, {len(tasks)} tarefas.")
+    print(f"index.html gerado: {len(events)} eventos, {len(tasks)} tarefas.")
 
 
 if __name__ == "__main__":

@@ -1,5 +1,49 @@
 [
   {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-07-23T13:00:00-03:00",
+    "end": "2026-07-23T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjNUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": " [mentoria] @daniel — transição de carreira",
+    "start": "2026-07-23T15:00:00-03:00",
+    "end": "2026-07-23T16:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "danielmodesto1000@gmail.com",
+      "takai@somostakai.com.br"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MW4yOXBhcnM2dm5jbWNyaWNsNDFlczV1MWVfMjAyNjA3MjNUMTgwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[reunião] takai <> joão",
+    "start": "2026-07-23T16:00:00-03:00",
+    "end": "2026-07-23T16:45:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "drjoaovitorabreu@gmail.com",
+      "takai@somostakai.com.br",
+      "tainara.nog@gmail.com",
+      "kaaoay@gmail.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=bWl2am5zY28ybWJxcTlsZ3ZkdGpjbTM1dTggdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-07-23T18:00:00-03:00",
+    "end": "2026-07-23T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjNUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
     "summary": "creative day",
     "start": "2026-07-24T00:00:00-03:00",
     "end": "2026-07-25T00:00:00-03:00",
@@ -208,7 +252,7 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=MXF0bzBjNWtrcDFpYmJtcmlrYmUxZjk3NDYgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
   },
   {
-    "summary": "[gravação oto] @samu",
+    "summary": "[gravação oto] @dr. samuel",
     "start": "2026-07-29T09:30:00-03:00",
     "end": "2026-07-29T12:30:00-03:00",
     "allDay": false,
@@ -218,8 +262,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-07-29T12:00:00-03:00",
-    "end": "2026-07-29T14:00:00-03:00",
+    "start": "2026-07-29T12:30:00-03:00",
+    "end": "2026-07-29T13:45:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -235,14 +279,16 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjlUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
   },
   {
-    "summary": "takai (Talita Belfiore)",
+    "summary": "[reunião] takai <> talita belfiore",
     "start": "2026-07-30T10:00:00-03:00",
     "end": "2026-07-30T10:45:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [
       "takai@somostakai.com.br",
-      "talitabelfiore17@gmail.com"
+      "talitabelfiore17@gmail.com",
+      "tainara.nog@gmail.com",
+      "talitadovigo@hotmail.com"
     ],
     "htmlLink": "https://www.google.com/calendar/event?eid=dWJwNXQ0MWMwbnFjZmRkYzUxZ210ODExYmMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
   },
@@ -304,15 +350,6 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA3MzFUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
   },
   {
-    "summary": " [preparação] pré-mentoria",
-    "start": "2026-07-31T18:00:00-03:00",
-    "end": "2026-07-31T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=M2pjNjJlbzNwM2ZubnZvNDJtMDJnZGtjZHUgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
-  },
-  {
     "summary": "☕️ café da tarde",
     "start": "2026-07-31T18:00:00-03:00",
     "end": "2026-07-31T18:30:00-03:00",
@@ -335,31 +372,13 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=MTdwNmp2MHFkam01MHVxZDRwZXM2aXMycm1fMjAyNjA3MDNUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
   },
   {
-    "summary": "[atualização do plano] pós-mentoria",
-    "start": "2026-07-31T19:30:00-03:00",
-    "end": "2026-07-31T20:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MmEwazZlZTBqMThwNDVoZWYzazQ3bm04YWggdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
-  },
-  {
     "summary": "[workshop] claude do zero",
     "start": "2026-08-01T10:00:00-03:00",
-    "end": "2026-08-01T17:00:00-03:00",
+    "end": "2026-08-01T18:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=NGVpdGhrZmNrMmc0ZHVnc3ZvcTNtMTBhb2kgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
-  },
-  {
-    "summary": "[produção de vídeo renauguração] @bellacasa",
-    "start": "2026-08-01T14:30:00-03:00",
-    "end": "2026-08-01T16:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MG8ydDdlMWlnM2k0ZzR2aXE1OWs5a3ZwOTYgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
   },
   {
     "summary": "[workshop] claude do zero",

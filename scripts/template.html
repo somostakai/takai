@@ -6,17 +6,17 @@
 <title>Painel takai</title>
 <style>
   :root {
-    --surface: #f3f5f4;
-    --surface-raised: #ffffff;
-    --surface-sunken: #eaeeed;
-    --ink: #12181c;
-    --ink-secondary: #48545a;
-    --ink-muted: #7c8890;
-    --border: #dde3e2;
-    --accent-agenda: #0f8f76;
-    --accent-agenda-tint: #e2f3ef;
-    --accent-tasks: #5b4b9e;
-    --accent-tasks-tint: #ece7f8;
+    --surface: #f2ece0;
+    --surface-raised: #fbf8f2;
+    --surface-sunken: #ddd7c8;
+    --ink: #18181a;
+    --ink-secondary: #4c4b45;
+    --ink-muted: #7d7a70;
+    --border: #ddd6c6;
+    --accent-agenda: #5f6b52;
+    --accent-agenda-tint: #e4e6da;
+    --accent-tasks: #b56f49;
+    --accent-tasks-tint: #f5e5d8;
     --status-critical: #c0392b;
     --status-critical-tint: #fbe7e4;
     --status-warning: #a8721f;
@@ -34,17 +34,17 @@
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --surface: #12161a;
-      --surface-raised: #1a2126;
-      --surface-sunken: #0d1114;
-      --ink: #eaedee;
-      --ink-secondary: #aeb8bc;
-      --ink-muted: #7c8890;
-      --border: #2a3238;
-      --accent-agenda: #1fa98d;
-      --accent-agenda-tint: rgba(31, 169, 141, 0.16);
-      --accent-tasks: #8a6fe8;
-      --accent-tasks-tint: rgba(138, 111, 232, 0.18);
+      --surface: #131311;
+      --surface-raised: #1c1c1a;
+      --surface-sunken: #0e0e0d;
+      --ink: #f3efe6;
+      --ink-secondary: #c7c0b2;
+      --ink-muted: #8c8778;
+      --border: #2c2b26;
+      --accent-agenda: #9cae87;
+      --accent-agenda-tint: rgba(156, 174, 135, 0.18);
+      --accent-tasks: #e0987a;
+      --accent-tasks-tint: rgba(224, 152, 122, 0.2);
       --status-critical: #ff8770;
       --status-critical-tint: rgba(255, 135, 112, 0.16);
       --status-warning: #e3a83e;
@@ -62,17 +62,17 @@
     }
   }
   :root[data-theme="dark"] {
-    --surface: #12161a;
-    --surface-raised: #1a2126;
-    --surface-sunken: #0d1114;
-    --ink: #eaedee;
-    --ink-secondary: #aeb8bc;
-    --ink-muted: #7c8890;
-    --border: #2a3238;
-    --accent-agenda: #1fa98d;
-    --accent-agenda-tint: rgba(31, 169, 141, 0.16);
-    --accent-tasks: #8a6fe8;
-    --accent-tasks-tint: rgba(138, 111, 232, 0.18);
+    --surface: #131311;
+    --surface-raised: #1c1c1a;
+    --surface-sunken: #0e0e0d;
+    --ink: #f3efe6;
+    --ink-secondary: #c7c0b2;
+    --ink-muted: #8c8778;
+    --border: #2c2b26;
+    --accent-agenda: #9cae87;
+    --accent-agenda-tint: rgba(156, 174, 135, 0.18);
+    --accent-tasks: #e0987a;
+    --accent-tasks-tint: rgba(224, 152, 122, 0.2);
     --status-critical: #ff8770;
     --status-critical-tint: rgba(255, 135, 112, 0.16);
     --status-warning: #e3a83e;
@@ -88,17 +88,17 @@
     color-scheme: dark;
   }
   :root[data-theme="light"] {
-    --surface: #f3f5f4;
-    --surface-raised: #ffffff;
-    --surface-sunken: #eaeeed;
-    --ink: #12181c;
-    --ink-secondary: #48545a;
-    --ink-muted: #7c8890;
-    --border: #dde3e2;
-    --accent-agenda: #0f8f76;
-    --accent-agenda-tint: #e2f3ef;
-    --accent-tasks: #5b4b9e;
-    --accent-tasks-tint: #ece7f8;
+    --surface: #f2ece0;
+    --surface-raised: #fbf8f2;
+    --surface-sunken: #ddd7c8;
+    --ink: #18181a;
+    --ink-secondary: #4c4b45;
+    --ink-muted: #7d7a70;
+    --border: #ddd6c6;
+    --accent-agenda: #5f6b52;
+    --accent-agenda-tint: #e4e6da;
+    --accent-tasks: #b56f49;
+    --accent-tasks-tint: #f5e5d8;
     --status-critical: #c0392b;
     --status-critical-tint: #fbe7e4;
     --status-warning: #a8721f;
@@ -139,14 +139,8 @@
     flex-wrap: wrap;
   }
   .brand { display: flex; align-items: center; gap: 14px; }
-  .brand-mark {
-    width: 42px; height: 42px; border-radius: 11px;
-    background: linear-gradient(155deg, var(--accent-agenda), var(--accent-tasks));
-    color: #fff;
-    display: flex; align-items: center; justify-content: center;
-    font-weight: 700; font-size: 14px; letter-spacing: 0.02em;
-    flex-shrink: 0;
-  }
+  .brand-mark { width: 52px; height: 40px; flex-shrink: 0; }
+  .brand-mark svg { width: 100%; height: 100%; display: block; }
   h1 { margin: 0; font-size: 21px; font-weight: 700; letter-spacing: -0.01em; }
   .subtitle { margin: 2px 0 0; color: var(--ink-secondary); font-size: 13.5px; }
   .meta { text-align: right; display: flex; flex-direction: column; gap: 3px; }
@@ -286,7 +280,14 @@
   <div class="page">
     <header class="topbar">
       <div class="brand">
-        <span class="brand-mark">TK</span>
+        <span class="brand-mark" aria-hidden="true">
+          <svg viewBox="0 0 120 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="32" cy="34" r="25" fill="var(--accent-tasks)" />
+            <path d="M0,74 C16,74 22,42 38,42 C47,42 45,55 55,55 C67,55 68,17 94,17 C105,17 111,47 120,47"
+                  stroke="var(--accent-agenda)" stroke-width="7" stroke-linecap="round" fill="none" />
+            <circle cx="113" cy="63" r="5.5" fill="var(--accent-tasks)" />
+          </svg>
+        </span>
         <div>
           <h1>Painel takai</h1>
           <p class="subtitle">Agenda da takai + tarefas da Karol no ClickUp</p>
@@ -314,7 +315,7 @@
 
       <section class="panel" aria-labelledby="tasksTitle">
         <div class="panel-head">
-          <h2 id="tasksTitle"><span class="dot dot-tasks"></span>Tarefas — Karol</h2>
+          <h2 id="tasksTitle"><span class="dot dot-tasks"></span>Tarefas de Karol</h2>
         </div>
         <div class="filters">
           <div class="chips" id="dueChips"></div>
@@ -351,9 +352,9 @@
 
   // ---- Stats ----
   const statTiles = [
-    { n: STATS.commitmentsToday, l: 'Compromissos na agenda — hoje', cls: 'agenda' },
-    { n: STATS.commitments7d, l: 'Compromissos na agenda — 7 dias', cls: 'agenda' },
-    { n: STATS.commitments30d, l: 'Compromissos na agenda — 30 dias', cls: 'agenda' },
+    { n: STATS.commitmentsToday, l: 'Compromissos na agenda hoje', cls: 'agenda' },
+    { n: STATS.commitments7d, l: 'Compromissos na agenda em 7 dias', cls: 'agenda' },
+    { n: STATS.commitments30d, l: 'Compromissos na agenda em 30 dias', cls: 'agenda' },
     { n: STATS.openTasks, l: 'Tarefas abertas da Karol', cls: 'tasks' },
     { n: STATS.overdueTasks, l: 'Tarefas atrasadas', cls: 'critical' },
     { n: STATS.dueSoonTasks, l: 'Vencem nos próx. 7 dias', cls: 'warning' },
@@ -463,7 +464,7 @@
         </td>
         <td>${esc(t.list)}</td>
         <td><span class="pill ${priorityPillClass(t.priority)}">${esc(t.priorityLabel)}</span></td>
-        <td><span class="pill ${statusPillClass(t.status, t.isDone)}">${esc(t.status || '—')}</span></td>
+        <td><span class="pill ${statusPillClass(t.status, t.isDone)}">${esc(t.status || 'sem status')}</span></td>
       </tr>
     `).join('');
   }
