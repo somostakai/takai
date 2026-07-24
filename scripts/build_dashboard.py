@@ -81,6 +81,7 @@ PRIORITY_LABEL = {"urgent": "urgente", "high": "alta", "normal": "normal", "low"
 
 def process_tasks(raw_tasks, now):
     today_start = datetime(now.year, now.month, now.day, tzinfo=TZ)
+    today_end = today_start + timedelta(days=1)
     week_end = today_start + timedelta(days=7)
     out = []
     for t in raw_tasks:
@@ -89,6 +90,7 @@ def process_tasks(raw_tasks, now):
         status = (t.get("status") or "").strip()
         is_done = status.lower() in STATUS_DONE
         overdue = bool(due_dt and due_dt < today_start and not is_done)
+        due_today = bool(due_dt and today_start <= due_dt < today_end and not is_done)
         due_soon = bool(due_dt and today_start <= due_dt < week_end and not is_done)
         out.append({
             "id": t["id"],
@@ -100,11 +102,11 @@ def process_tasks(raw_tasks, now):
             "priorityRank": PRIORITY_RANK.get(t.get("priority"), 4),
             "list": t.get("list") or "sem lista",
             "tags": t.get("tags") or [],
-            "assignees": t.get("assignees") or [],
-            "extraAssignees": [a for a in (t.get("assignees") or []) if a != "Karol"],
             "dueMs": due_ms and int(due_ms),
+            "dueDateKey": due_dt.date().isoformat() if due_dt else None,
             "dueLabel": f"{due_dt.day:02d}/{due_dt.month:02d}/{due_dt.year}" if due_dt else "sem prazo",
             "overdue": overdue,
+            "dueToday": due_today,
             "dueSoon": due_soon,
             "isDone": is_done,
         })
@@ -118,6 +120,7 @@ def build_stats(events, tasks, now):
     upcoming = [e for e in events if e["dateKey"] >= today_key and not e["isRoutine"]]
     open_tasks = [t for t in tasks if not t["isDone"]]
     overdue_tasks = [t for t in open_tasks if t["overdue"]]
+    due_today_tasks = [t for t in open_tasks if t["dueToday"]]
     due_soon_tasks = [t for t in open_tasks if t["dueSoon"]]
     no_due_tasks = [t for t in open_tasks if t["dueMs"] is None]
     return {
@@ -126,6 +129,7 @@ def build_stats(events, tasks, now):
         "commitments30d": len(upcoming),
         "openTasks": len(open_tasks),
         "overdueTasks": len(overdue_tasks),
+        "dueTodayTasks": len(due_today_tasks),
         "dueSoonTasks": len(due_soon_tasks),
         "noDueTasks": len(no_due_tasks),
     }

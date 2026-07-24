@@ -227,6 +227,13 @@
   .badge-meeting { background: var(--accent-agenda-tint); color: var(--accent-agenda); }
   .badge-internal { background: var(--surface-sunken); color: var(--ink-muted); }
 
+  .view-toggle { display: flex; gap: 2px; background: var(--surface-sunken); border-radius: 8px; padding: 2px; }
+  .view-btn {
+    font: inherit; font-size: 11.5px; font-weight: 600; padding: 5px 10px; border-radius: 6px;
+    border: none; background: transparent; color: var(--ink-secondary); cursor: pointer;
+  }
+  .view-btn.active { background: var(--surface-raised); color: var(--ink); box-shadow: var(--shadow); }
+
   .filters { display: flex; gap: 8px; padding: 0 18px 12px; flex-wrap: wrap; align-items: center; }
   .chips { display: flex; gap: 6px; flex-wrap: wrap; }
   .chip {
@@ -256,7 +263,6 @@
   tr.overdue .due-cell { color: var(--status-critical); font-weight: 700; }
   tr.due-soon .due-cell { color: var(--status-warning); font-weight: 700; }
   .task-name { font-weight: 500; color: var(--ink); }
-  .task-extra { color: var(--ink-muted); font-size: 11px; margin-top: 2px; }
   .pill { display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 100px; white-space: nowrap; }
   .pill-urgent { background: var(--status-critical-tint); color: var(--status-critical); }
   .pill-high { background: var(--status-warning-tint); color: var(--status-warning); }
@@ -269,6 +275,37 @@
   .status-pill.wf-done { background: var(--surface-sunken); color: var(--ink-muted); text-decoration: line-through; }
 
   .empty { padding: 0 18px 18px; color: var(--ink-muted); font-size: 13px; }
+
+  .cal-wrap { padding: 0 18px 18px; overflow: auto; }
+  .cal-header { display: flex; align-items: center; justify-content: space-between; padding-bottom: 10px; }
+  .cal-month-label { font-size: 13px; font-weight: 700; }
+  .cal-nav-btn {
+    width: 26px; height: 26px; border-radius: 7px; border: 1px solid var(--border);
+    background: var(--surface-sunken); color: var(--ink-secondary); font-size: 15px; line-height: 1;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+  }
+  .cal-grid {
+    display: grid; grid-template-columns: repeat(7, minmax(0, 1fr)); gap: 1px;
+    background: var(--border); border: 1px solid var(--border); border-radius: 10px; overflow: hidden;
+  }
+  .cal-weekday {
+    background: var(--surface-sunken); text-align: center; font-size: 10px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.04em; color: var(--ink-muted); padding: 6px 0;
+  }
+  .cal-cell { background: var(--surface-raised); min-height: 84px; padding: 5px; display: flex; flex-direction: column; gap: 3px; }
+  .cal-cell.empty-cell { background: var(--surface); }
+  .cal-cell.is-today { box-shadow: inset 0 0 0 2px var(--accent-tasks); }
+  .cal-daynum { font-size: 10.5px; font-weight: 600; color: var(--ink-muted); }
+  .cal-cell.is-today .cal-daynum { color: var(--accent-tasks); }
+  .cal-task {
+    font-size: 10px; padding: 2px 5px; border-radius: 5px; white-space: nowrap;
+    overflow: hidden; text-overflow: ellipsis; background: var(--wf-todo-tint); color: var(--ink);
+  }
+  .cal-task.wf-queued { background: var(--wf-queued-tint); }
+  .cal-task.wf-progress { background: var(--wf-progress-tint); }
+  .cal-task.wf-blocked { background: var(--wf-blocked-tint); }
+  .cal-task.is-overdue { background: var(--status-critical-tint); color: var(--status-critical); font-weight: 600; }
+  .cal-more { font-size: 9.5px; color: var(--ink-muted); }
 
   .footer { color: var(--ink-muted); font-size: 11.5px; text-align: center; padding-top: 6px; }
 
@@ -316,19 +353,31 @@
       <section class="panel" aria-labelledby="tasksTitle">
         <div class="panel-head">
           <h2 id="tasksTitle"><span class="dot dot-tasks"></span>Tarefas de Karol</h2>
+          <div class="view-toggle" id="taskViewToggle">
+            <button type="button" class="view-btn active" data-view="list">Lista</button>
+            <button type="button" class="view-btn" data-view="calendar">Calendário</button>
+          </div>
         </div>
-        <div class="filters">
+        <div class="filters" id="taskFilters">
           <div class="chips" id="dueChips"></div>
           <input type="search" id="taskSearch" placeholder="Buscar tarefa, lista ou tag…" />
           <select id="listFilter"></select>
         </div>
-        <div class="task-table-wrap">
+        <div class="task-table-wrap" id="taskListView">
           <table class="task-table">
             <thead><tr><th>Prazo</th><th>Tarefa</th><th>Lista</th><th>Prioridade</th><th>Status</th></tr></thead>
             <tbody id="taskRows"></tbody>
           </table>
+          <p class="empty" id="taskEmpty" hidden>Nenhuma tarefa encontrada.</p>
         </div>
-        <p class="empty" id="taskEmpty" hidden>Nenhuma tarefa encontrada.</p>
+        <div class="cal-wrap" id="taskCalendarView" hidden>
+          <div class="cal-header">
+            <button type="button" class="cal-nav-btn" id="calPrev" aria-label="Mês anterior">‹</button>
+            <div class="cal-month-label" id="calMonthLabel"></div>
+            <button type="button" class="cal-nav-btn" id="calNext" aria-label="Próximo mês">›</button>
+          </div>
+          <div class="cal-grid" id="calGrid"></div>
+        </div>
       </section>
     </main>
 
@@ -403,12 +452,14 @@
 
   // ---- Tasks ----
   let dueFilter = 'all';
+  let taskView = 'list';
   const listFilterEl = document.getElementById('listFilter');
   listFilterEl.innerHTML = '<option value="">Todas as listas</option>' + LISTS.map(l => `<option value="${esc(l)}">${esc(l)}</option>`).join('');
 
   const chipDefs = [
     { key: 'all', label: `Todas (${TASKS.filter(t => !t.isDone).length})` },
     { key: 'overdue', label: `Atrasadas (${STATS.overdueTasks})` },
+    { key: 'today', label: `Hoje (${STATS.dueTodayTasks})` },
     { key: 'soon', label: `Próx. 7 dias (${STATS.dueSoonTasks})` },
     { key: 'nodue', label: `Sem prazo (${STATS.noDueTasks})` },
   ];
@@ -431,43 +482,114 @@
   const STATUS_QUEUED = ['priorizado', 'proposta', 'follow-up'];
   const STATUS_PROGRESS = ['em progresso', 'em andamento'];
   const STATUS_DONE_SET = ['perdido', 'concluído', 'concluido', 'fechado', 'cancelado'];
-  function statusPillClass(status, isDone) {
+  function statusBucket(status, isDone) {
     const s = (status || '').toLowerCase();
-    if (isDone || STATUS_DONE_SET.includes(s)) return 'status-pill wf-done';
-    if (s === 'bloqueado') return 'status-pill wf-blocked';
-    if (STATUS_PROGRESS.includes(s)) return 'status-pill wf-progress';
-    if (STATUS_QUEUED.includes(s)) return 'status-pill wf-queued';
-    return 'status-pill wf-todo';
+    if (isDone || STATUS_DONE_SET.includes(s)) return 'wf-done';
+    if (s === 'bloqueado') return 'wf-blocked';
+    if (STATUS_PROGRESS.includes(s)) return 'wf-progress';
+    if (STATUS_QUEUED.includes(s)) return 'wf-queued';
+    return 'wf-todo';
   }
 
-  function renderTasks() {
+  function baseFilteredTasks() {
     const q = document.getElementById('taskSearch').value.trim().toLowerCase();
     const listSel = listFilterEl.value;
     let rows = TASKS.filter(t => !t.isDone);
-    if (dueFilter === 'overdue') rows = rows.filter(t => t.overdue);
-    if (dueFilter === 'soon') rows = rows.filter(t => t.dueSoon);
-    if (dueFilter === 'nodue') rows = rows.filter(t => t.dueMs === null);
     if (listSel) rows = rows.filter(t => t.list === listSel);
     if (q) rows = rows.filter(t =>
       t.name.toLowerCase().includes(q) ||
       t.list.toLowerCase().includes(q) ||
       t.tags.join(' ').toLowerCase().includes(q)
     );
+    return rows;
+  }
+
+  function renderTaskList() {
+    let rows = baseFilteredTasks();
+    if (dueFilter === 'overdue') rows = rows.filter(t => t.overdue);
+    if (dueFilter === 'today') rows = rows.filter(t => t.dueToday);
+    if (dueFilter === 'soon') rows = rows.filter(t => t.dueSoon);
+    if (dueFilter === 'nodue') rows = rows.filter(t => t.dueMs === null);
 
     document.getElementById('taskEmpty').hidden = rows.length !== 0;
     document.getElementById('taskRows').innerHTML = rows.map(t => `
       <tr class="${t.overdue ? 'overdue' : t.dueSoon ? 'due-soon' : ''}">
         <td class="due-cell">${esc(t.dueLabel)}</td>
-        <td class="task-name">
-          ${esc(t.name)}
-          ${t.extraAssignees.length ? `<div class="task-extra">com ${esc(t.extraAssignees.join(', '))}</div>` : ''}
-        </td>
+        <td class="task-name">${esc(t.name)}</td>
         <td>${esc(t.list)}</td>
         <td><span class="pill ${priorityPillClass(t.priority)}">${esc(t.priorityLabel)}</span></td>
-        <td><span class="pill ${statusPillClass(t.status, t.isDone)}">${esc(t.status || 'sem status')}</span></td>
+        <td><span class="pill status-pill ${statusBucket(t.status, t.isDone)}">${esc(t.status || 'sem status')}</span></td>
       </tr>
     `).join('');
   }
+
+  // ---- Task calendar ----
+  const WEEKDAY_LABELS = ['DOM', 'SEG', 'TER', 'QUA', 'QUI', 'SEX', 'SÁB'];
+  const today = new Date();
+  const todayKey = today.toISOString().slice(0, 10);
+  let calCursor = new Date(today.getFullYear(), today.getMonth(), 1);
+
+  function pad2(n) { return String(n).padStart(2, '0'); }
+
+  function renderCalendar() {
+    const base = baseFilteredTasks().filter(t => t.dueDateKey);
+    const byDate = {};
+    base.forEach(t => { (byDate[t.dueDateKey] = byDate[t.dueDateKey] || []).push(t); });
+
+    const year = calCursor.getFullYear();
+    const month = calCursor.getMonth();
+    const rawLabel = calCursor.toLocaleDateString('pt-BR', { month: 'long', year: 'numeric' });
+    document.getElementById('calMonthLabel').textContent = rawLabel.charAt(0).toUpperCase() + rawLabel.slice(1);
+
+    const firstWeekday = new Date(year, month, 1).getDay();
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+    const cells = [];
+    for (let i = 0; i < firstWeekday; i++) cells.push(null);
+    for (let d = 1; d <= daysInMonth; d++) cells.push(d);
+    while (cells.length % 7 !== 0) cells.push(null);
+
+    const weekdayHtml = WEEKDAY_LABELS.map(w => `<div class="cal-weekday">${w}</div>`).join('');
+    const cellsHtml = cells.map(d => {
+      if (d === null) return '<div class="cal-cell empty-cell"></div>';
+      const dateKey = `${year}-${pad2(month + 1)}-${pad2(d)}`;
+      const dayTasks = (byDate[dateKey] || []);
+      const isToday = dateKey === todayKey;
+      const shown = dayTasks.slice(0, 3);
+      const extra = dayTasks.length - shown.length;
+      const taskHtml = shown.map(t => `<div class="cal-task ${t.overdue ? 'is-overdue' : statusBucket(t.status, t.isDone)}" title="${esc(t.name)}">${esc(t.name)}</div>`).join('');
+      return `<div class="cal-cell ${isToday ? 'is-today' : ''}">
+        <div class="cal-daynum">${d}</div>
+        ${taskHtml}
+        ${extra > 0 ? `<div class="cal-more">+${extra} mais</div>` : ''}
+      </div>`;
+    }).join('');
+
+    document.getElementById('calGrid').innerHTML = weekdayHtml + cellsHtml;
+  }
+
+  document.getElementById('calPrev').addEventListener('click', () => {
+    calCursor = new Date(calCursor.getFullYear(), calCursor.getMonth() - 1, 1);
+    renderCalendar();
+  });
+  document.getElementById('calNext').addEventListener('click', () => {
+    calCursor = new Date(calCursor.getFullYear(), calCursor.getMonth() + 1, 1);
+    renderCalendar();
+  });
+
+  function renderTasks() {
+    if (taskView === 'list') renderTaskList(); else renderCalendar();
+  }
+
+  document.getElementById('taskViewToggle').addEventListener('click', (e) => {
+    const btn = e.target.closest('.view-btn');
+    if (!btn) return;
+    taskView = btn.dataset.view;
+    document.querySelectorAll('#taskViewToggle .view-btn').forEach(b => b.classList.toggle('active', b === btn));
+    document.getElementById('taskListView').hidden = taskView !== 'list';
+    document.getElementById('taskCalendarView').hidden = taskView !== 'calendar';
+    document.getElementById('dueChips').style.display = taskView === 'list' ? '' : 'none';
+    renderTasks();
+  });
 
   document.getElementById('taskSearch').addEventListener('input', renderTasks);
   listFilterEl.addEventListener('change', renderTasks);
