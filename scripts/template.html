@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Painel Takai</title>
+<title>Painel takai</title>
 <style>
   :root {
     --surface: #f3f5f4;
@@ -21,6 +21,14 @@
     --status-critical-tint: #fbe7e4;
     --status-warning: #a8721f;
     --status-warning-tint: #f7ecd8;
+    --wf-todo: #57646b;
+    --wf-todo-tint: #eaeeed;
+    --wf-queued: #c99a2e;
+    --wf-queued-tint: #f6eeda;
+    --wf-progress: #2e6fbe;
+    --wf-progress-tint: #e4edf9;
+    --wf-blocked: #c0392b;
+    --wf-blocked-tint: #fbe7e4;
     --shadow: 0 1px 2px rgba(18, 24, 28, 0.06), 0 8px 24px -12px rgba(18, 24, 28, 0.18);
     color-scheme: light;
   }
@@ -41,6 +49,14 @@
       --status-critical-tint: rgba(255, 135, 112, 0.16);
       --status-warning: #e3a83e;
       --status-warning-tint: rgba(227, 168, 62, 0.16);
+      --wf-todo: #9aa5aa;
+      --wf-todo-tint: rgba(154, 165, 170, 0.16);
+      --wf-queued: #b4862d;
+      --wf-queued-tint: rgba(180, 134, 45, 0.2);
+      --wf-progress: #3e7fd1;
+      --wf-progress-tint: rgba(62, 127, 209, 0.2);
+      --wf-blocked: #a83a28;
+      --wf-blocked-tint: rgba(168, 58, 40, 0.22);
       --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
       color-scheme: dark;
     }
@@ -61,6 +77,14 @@
     --status-critical-tint: rgba(255, 135, 112, 0.16);
     --status-warning: #e3a83e;
     --status-warning-tint: rgba(227, 168, 62, 0.16);
+    --wf-todo: #9aa5aa;
+    --wf-todo-tint: rgba(154, 165, 170, 0.16);
+    --wf-queued: #b4862d;
+    --wf-queued-tint: rgba(180, 134, 45, 0.2);
+    --wf-progress: #3e7fd1;
+    --wf-progress-tint: rgba(62, 127, 209, 0.2);
+    --wf-blocked: #a83a28;
+    --wf-blocked-tint: rgba(168, 58, 40, 0.22);
     color-scheme: dark;
   }
   :root[data-theme="light"] {
@@ -79,6 +103,14 @@
     --status-critical-tint: #fbe7e4;
     --status-warning: #a8721f;
     --status-warning-tint: #f7ecd8;
+    --wf-todo: #57646b;
+    --wf-todo-tint: #eaeeed;
+    --wf-queued: #c99a2e;
+    --wf-queued-tint: #f6eeda;
+    --wf-progress: #2e6fbe;
+    --wf-progress-tint: #e4edf9;
+    --wf-blocked: #c0392b;
+    --wf-blocked-tint: #fbe7e4;
     color-scheme: light;
   }
 
@@ -192,8 +224,6 @@
   }
   .event-body { flex: 1; min-width: 0; }
   .event-title { font-size: 13.5px; font-weight: 500; color: var(--ink); }
-  .event-title a { color: inherit; text-decoration: none; }
-  .event-title a:hover { text-decoration: underline; }
   .event-tags { margin-top: 3px; display: flex; gap: 6px; flex-wrap: wrap; }
   .badge {
     display: inline-flex; align-items: center; gap: 4px;
@@ -231,17 +261,18 @@
   .due-cell { font-variant-numeric: tabular-nums; white-space: nowrap; }
   tr.overdue .due-cell { color: var(--status-critical); font-weight: 700; }
   tr.due-soon .due-cell { color: var(--status-warning); font-weight: 700; }
-  .task-name a { color: var(--ink); text-decoration: none; font-weight: 500; }
-  .task-name a:hover { text-decoration: underline; }
+  .task-name { font-weight: 500; color: var(--ink); }
   .task-extra { color: var(--ink-muted); font-size: 11px; margin-top: 2px; }
   .pill { display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 100px; white-space: nowrap; }
   .pill-urgent { background: var(--status-critical-tint); color: var(--status-critical); }
   .pill-high { background: var(--status-warning-tint); color: var(--status-warning); }
   .pill-normal { background: var(--surface-sunken); color: var(--ink-secondary); }
   .pill-low { background: var(--surface-sunken); color: var(--ink-muted); }
-  .status-pill { background: var(--accent-tasks-tint); color: var(--accent-tasks); }
-  .status-pill.blocked { background: var(--status-critical-tint); color: var(--status-critical); }
-  .status-pill.done { background: var(--surface-sunken); color: var(--ink-muted); }
+  .status-pill.wf-todo { background: var(--wf-todo-tint); color: var(--wf-todo); }
+  .status-pill.wf-queued { background: var(--wf-queued-tint); color: var(--wf-queued); }
+  .status-pill.wf-progress { background: var(--wf-progress-tint); color: var(--wf-progress); }
+  .status-pill.wf-blocked { background: var(--wf-blocked-tint); color: var(--wf-blocked); }
+  .status-pill.wf-done { background: var(--surface-sunken); color: var(--ink-muted); text-decoration: line-through; }
 
   .empty { padding: 0 18px 18px; color: var(--ink-muted); font-size: 13px; }
 
@@ -257,8 +288,8 @@
       <div class="brand">
         <span class="brand-mark">TK</span>
         <div>
-          <h1>Painel Takai</h1>
-          <p class="subtitle">Agenda da Takai + tarefas da Karol no ClickUp</p>
+          <h1>Painel takai</h1>
+          <p class="subtitle">Agenda da takai + tarefas da Karol no ClickUp</p>
         </div>
       </div>
       <div class="meta">
@@ -320,8 +351,9 @@
 
   // ---- Stats ----
   const statTiles = [
-    { n: STATS.meetings7d, l: 'Reuniões externas (7 dias)', cls: 'agenda' },
-    { n: STATS.commitments30d, l: 'Compromissos na agenda (30 dias)', cls: 'agenda' },
+    { n: STATS.commitmentsToday, l: 'Compromissos na agenda — hoje', cls: 'agenda' },
+    { n: STATS.commitments7d, l: 'Compromissos na agenda — 7 dias', cls: 'agenda' },
+    { n: STATS.commitments30d, l: 'Compromissos na agenda — 30 dias', cls: 'agenda' },
     { n: STATS.openTasks, l: 'Tarefas abertas da Karol', cls: 'tasks' },
     { n: STATS.overdueTasks, l: 'Tarefas atrasadas', cls: 'critical' },
     { n: STATS.dueSoonTasks, l: 'Vencem nos próx. 7 dias', cls: 'warning' },
@@ -355,7 +387,7 @@
         <div class="event-row">
           <div class="event-time">${esc(ev.timeLabel)}</div>
           <div class="event-body">
-            <div class="event-title">${ev.htmlLink ? `<a href="${esc(ev.htmlLink)}" target="_blank" rel="noopener">${esc(ev.summary)}</a>` : esc(ev.summary)}</div>
+            <div class="event-title">${esc(ev.summary)}</div>
             ${!ev.isRoutine ? `<div class="event-tags">
               ${ev.isMeeting ? `<span class="badge badge-meeting">reunião · ${ev.attendeeCount} convidado${ev.attendeeCount === 1 ? '' : 's'}</span>` : `<span class="badge badge-internal">interno</span>`}
             </div>` : ''}
@@ -395,11 +427,16 @@
     if (p === 'low') return 'pill-low';
     return 'pill-normal';
   }
+  const STATUS_QUEUED = ['priorizado', 'proposta', 'follow-up'];
+  const STATUS_PROGRESS = ['em progresso', 'em andamento'];
+  const STATUS_DONE_SET = ['perdido', 'concluído', 'concluido', 'fechado', 'cancelado'];
   function statusPillClass(status, isDone) {
     const s = (status || '').toLowerCase();
-    if (isDone || s === 'perdido') return 'status-pill done';
-    if (s === 'bloqueado') return 'status-pill blocked';
-    return 'status-pill';
+    if (isDone || STATUS_DONE_SET.includes(s)) return 'status-pill wf-done';
+    if (s === 'bloqueado') return 'status-pill wf-blocked';
+    if (STATUS_PROGRESS.includes(s)) return 'status-pill wf-progress';
+    if (STATUS_QUEUED.includes(s)) return 'status-pill wf-queued';
+    return 'status-pill wf-todo';
   }
 
   function renderTasks() {
@@ -421,7 +458,7 @@
       <tr class="${t.overdue ? 'overdue' : t.dueSoon ? 'due-soon' : ''}">
         <td class="due-cell">${esc(t.dueLabel)}</td>
         <td class="task-name">
-          <a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.name)}</a>
+          ${esc(t.name)}
           ${t.extraAssignees.length ? `<div class="task-extra">com ${esc(t.extraAssignees.join(', '))}</div>` : ''}
         </td>
         <td>${esc(t.list)}</td>

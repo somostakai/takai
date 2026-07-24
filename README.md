@@ -1,4 +1,4 @@
-# Painel Takai
+# Painel takai
 
 Painel estático (`index.html`) com dois blocos:
 

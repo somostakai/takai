@@ -114,16 +114,17 @@ def process_tasks(raw_tasks, now):
 
 
 def build_stats(events, tasks, now):
-    in_7d = [e for e in events if not e["isPast"] and e["dateKey"] <= (now + timedelta(days=7)).date().isoformat()]
-    in_30d = [e for e in events if not e["isPast"]]
-    meetings_7d = [e for e in in_7d if e["isMeeting"]]
+    today_key = now.date().isoformat()
+    week_key = (now + timedelta(days=7)).date().isoformat()
+    upcoming = [e for e in events if not e["isPast"] and not e["isRoutine"]]
     open_tasks = [t for t in tasks if not t["isDone"]]
     overdue_tasks = [t for t in open_tasks if t["overdue"]]
     due_soon_tasks = [t for t in open_tasks if t["dueSoon"]]
     no_due_tasks = [t for t in open_tasks if t["dueMs"] is None]
     return {
-        "meetings7d": len(meetings_7d),
-        "commitments30d": len([e for e in in_30d if not e["isRoutine"]]),
+        "commitmentsToday": len([e for e in upcoming if e["dateKey"] == today_key]),
+        "commitments7d": len([e for e in upcoming if e["dateKey"] <= week_key]),
+        "commitments30d": len(upcoming),
         "openTasks": len(open_tasks),
         "overdueTasks": len(overdue_tasks),
         "dueSoonTasks": len(due_soon_tasks),
