@@ -148,7 +148,7 @@ def main():
     lists = sorted({t["list"] for t in tasks})
     statuses = sorted({t["status"] for t in tasks if t["status"]})
 
-    generated_label = now.strftime("%d/%m/%Y às %H:%M")
+    generated_label = now.strftime("%d/%m/%Y")
     logo_bytes = (ROOT / "assets" / "logo-takai.png").read_bytes()
     logo_data_uri = "data:image/png;base64," + base64.b64encode(logo_bytes).decode("ascii")
 
