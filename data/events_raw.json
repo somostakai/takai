@@ -1,0 +1,786 @@
+[
+  {
+    "summary": "creative day",
+    "start": "2026-07-24T00:00:00-03:00",
+    "end": "2026-07-25T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA3MjRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-07-24T12:00:00-03:00",
+    "end": "2026-07-24T13:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-07-24T17:00:00-03:00",
+    "end": "2026-07-24T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA3MjRUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-07-24T18:00:00-03:00",
+    "end": "2026-07-24T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[produção de vídeo renauguração] @bellacasa",
+    "start": "2026-07-25T14:30:00-03:00",
+    "end": "2026-07-25T16:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MnBhYjU0MnVmczgzcHJzNGt0amZhaHNpYmogdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-07-27T00:00:00-03:00",
+    "end": "2026-07-28T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA3MjdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-07-27T12:00:00-03:00",
+    "end": "2026-07-27T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-07-27T18:00:00-03:00",
+    "end": "2026-07-27T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-07-28T12:30:00-03:00",
+    "end": "2026-07-28T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjhUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[mentoria] @guilherme — evolução profissional",
+    "start": "2026-07-28T14:00:00-03:00",
+    "end": "2026-07-28T15:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "guilherme.luz@rdstation.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjhsY2d1aDR2c3FjZXJhOGp1aHVrY3NhNm5fMjAyNjA3MjhUMTcwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-07-28T18:00:00-03:00",
+    "end": "2026-07-28T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjhUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "EBAC | REUNIÃO GERAL - TUTORIA BR ",
+    "start": "2026-07-28T19:00:00-03:00",
+    "end": "2026-07-28T20:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "camilly.moreira@ebaconline.com.br",
+      "marcela.moreira@ebaconline.com.br",
+      "lucas.lisboa@ebaconline.com.br",
+      "rafaela.santos@ebaconline.com.br",
+      "a.carolina.borges@hotmail.com",
+      "ale.will.camargo@gmail.com",
+      "alexandreffreire@gmail.com",
+      "anagdellarosa@gmail.com",
+      "andrea.sinhoretti@gmail.com",
+      "aquilesnetto2002@gmail.com",
+      "awsinvestimento@gmail.com",
+      "brunosaldanhamarinho@gmail.com",
+      "carolmeinerz@gmail.com",
+      "contato.marialuiza@outlook.com",
+      "danieljusti@gmail.com",
+      "darlygoncalves@gmail.com",
+      "dkmilena@gmail.com",
+      "editor.lucasmotta@gmail.com",
+      "eduardo.mendesb@gmail.com",
+      "erikaassisarquiteta@gmail.com",
+      "evandroreis@live.com",
+      "fabiokaia25@gmail.com",
+      "fabioregaleira@gmail.com",
+      "felipecmsanches@gmail.com",
+      "felipetrezza@hotmail.com",
+      "fmfernandomoralez@gmail.com",
+      "gihzanettim@gmail.com",
+      "guidovadoni@gmail.com",
+      "guylerme@gmail.com",
+      "hannakramolisck@gmail.com",
+      "hiromi.dani@gmail.com",
+      "hudsabreu@gmail.com",
+      "hugoneryjose@gmail.com",
+      "izadorarodriguesfoto@gmail.com",
+      "jederson_cunha@hotmail.com",
+      "justmilla@gmail.com",
+      "kalinepolla@gmail.com",
+      "kawabata_pc@hotmail.com",
+      "laizmcarelli@gmail.com",
+      "lchiella@hotmail.com",
+      "leonardofdeamorim@gmail.com",
+      "lillastipp@gmail.com",
+      "lmaia82@hotmail.com",
+      "luis.favilla@outlook.com.br",
+      "marcal.arruda94@gmail.com",
+      "marcelabanduk@gmail.com",
+      "marciabcandido@gmail.com",
+      "mari.mezalira@gmail.com",
+      "mirela.terce@gmail.com",
+      "ms.kulpas@gmail.com",
+      "obrunomarques@gmail.com",
+      "patricia.bernardi@gmail.com",
+      "pedrokirovsky@gmail.com",
+      "rapha.guasta@gmail.com",
+      "rgbrunini@gmail.com",
+      "rodemarckjr@gmail.com",
+      "rodrigomorsil1@gmail.com",
+      "ruallysonfelype@gmail.com",
+      "santos.paulo.rf@gmail.com",
+      "senhoretti@gmail.com",
+      "sjmarcel@gmail.com",
+      "takai@somostakai.com.br",
+      "tamishugcx@gmail.com",
+      "thiago@historiaeroteiro.com",
+      "vanessa.sartorirodi@gmail.com",
+      "velloso.ariel@gmail.com",
+      "vickbcosta1@gmail.com",
+      "vinicius.brunocp@gmail.com",
+      "willen.bernardi@gmail.com",
+      "ysimioni9@gmail.com",
+      "zico.goes@gmail.com",
+      "amanda_carvalheira_1@hotmail.com",
+      "mariana.bucio@ebac.mx",
+      "nazaridebora@gmail.com",
+      "anaprimon@hotmail.com",
+      "elvacijunior+ebac@pm.me",
+      "ffuhro@outlook.com",
+      "gustavofonsecap@hotmail.com",
+      "jan.veneziani@me.com",
+      "matheus_ajl@live.com",
+      "pedro.henryss@hotmail.com",
+      "pedro_ccabral@hotmail.com",
+      "rafaeloliveira@myself.com",
+      "rrubio@rrubio.com.br",
+      "samir_calixto@outlook.com",
+      "samuelbarao@icloud.com",
+      "yunascimento@icloud.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHBtZDFuazBoMjU4cGo4ZWlmNWkzczhzNzIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "aniversário fotografa japa",
+    "start": "2026-07-28T20:00:00-03:00",
+    "end": "2026-07-28T20:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MXF0bzBjNWtrcDFpYmJtcmlrYmUxZjk3NDYgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "[gravação oto] @samu",
+    "start": "2026-07-29T09:30:00-03:00",
+    "end": "2026-07-29T12:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NWNsaTIyMDF2OXY2YjljZHF2dWVkODJ1MXAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-07-29T12:00:00-03:00",
+    "end": "2026-07-29T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjlUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-07-29T18:00:00-03:00",
+    "end": "2026-07-29T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjlUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "takai (Talita Belfiore)",
+    "start": "2026-07-30T10:00:00-03:00",
+    "end": "2026-07-30T10:45:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "talitabelfiore17@gmail.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=dWJwNXQ0MWMwbnFjZmRkYzUxZ210ODExYmMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-07-30T12:00:00-03:00",
+    "end": "2026-07-30T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MzBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": " [mentoria] @daniel — transição de carreira",
+    "start": "2026-07-30T15:00:00-03:00",
+    "end": "2026-07-30T16:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "danielmodesto1000@gmail.com",
+      "takai@somostakai.com.br"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MW4yOXBhcnM2dm5jbWNyaWNsNDFlczV1MWVfMjAyNjA3MTZUMTgwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-07-30T18:00:00-03:00",
+    "end": "2026-07-30T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MzBUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-07-31T00:00:00-03:00",
+    "end": "2026-08-01T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA3MzFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-07-31T12:00:00-03:00",
+    "end": "2026-07-31T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MzFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-07-31T17:00:00-03:00",
+    "end": "2026-07-31T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA3MzFUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": " [preparação] pré-mentoria",
+    "start": "2026-07-31T18:00:00-03:00",
+    "end": "2026-07-31T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=M2pjNjJlbzNwM2ZubnZvNDJtMDJnZGtjZHUgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-07-31T18:00:00-03:00",
+    "end": "2026-07-31T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MzFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[mentoria] @ronan — evolução profissional",
+    "start": "2026-07-31T18:30:00-03:00",
+    "end": "2026-07-31T19:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "turbogames12@gmail.com",
+      "ronan0400@outlook.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MTdwNmp2MHFkam01MHVxZDRwZXM2aXMycm1fMjAyNjA3MDNUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[atualização do plano] pós-mentoria",
+    "start": "2026-07-31T19:30:00-03:00",
+    "end": "2026-07-31T20:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MmEwazZlZTBqMThwNDVoZWYzazQ3bm04YWggdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "[workshop] claude do zero",
+    "start": "2026-08-01T10:00:00-03:00",
+    "end": "2026-08-01T17:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NGVpdGhrZmNrMmc0ZHVnc3ZvcTNtMTBhb2kgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "[produção de vídeo renauguração] @bellacasa",
+    "start": "2026-08-01T14:30:00-03:00",
+    "end": "2026-08-01T16:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MG8ydDdlMWlnM2k0ZzR2aXE1OWs5a3ZwOTYgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "[workshop] claude do zero",
+    "start": "2026-08-02T10:00:00-03:00",
+    "end": "2026-08-02T17:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MGJpNnE5ZjRlZ2l0MmdoZmNrcGdsMjQwcnUgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-08-03T00:00:00-03:00",
+    "end": "2026-08-04T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MDNUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-03T12:00:00-03:00",
+    "end": "2026-08-03T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MDNUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-03T18:00:00-03:00",
+    "end": "2026-08-03T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MDNUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-04T12:00:00-03:00",
+    "end": "2026-08-04T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MDRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[mentoria] @guilherme — evolução profissional",
+    "start": "2026-08-04T14:00:00-03:00",
+    "end": "2026-08-04T15:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "guilherme.luz@rdstation.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjhsY2d1aDR2c3FjZXJhOGp1aHVrY3NhNm5fMjAyNjA3MjFUMTcwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-04T18:00:00-03:00",
+    "end": "2026-08-04T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MDRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[mentoria] @ronan — evolução profissional",
+    "start": "2026-08-04T18:30:00-03:00",
+    "end": "2026-08-04T19:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "turbogames12@gmail.com",
+      "ronan0400@outlook.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=cjJwNzkzNDVwNnQ3dGc5MHQ2NnUzaGc0Z2xfMjAyNjA4MDRUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-05T12:00:00-03:00",
+    "end": "2026-08-05T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MDVUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-05T18:00:00-03:00",
+    "end": "2026-08-05T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MDVUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-06T12:00:00-03:00",
+    "end": "2026-08-06T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MDZUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-06T18:00:00-03:00",
+    "end": "2026-08-06T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MDZUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[mentoria] @aeviles — transição de carreira",
+    "start": "2026-08-06T19:30:00-03:00",
+    "end": "2026-08-06T20:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "aevilesaguiar@gmail.com",
+      "takai@somostakai.com.br"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=cTM4a2M5c2pmNzJoMmxocDd2bDNsbnVxNDZfMjAyNjA4MDZUMjIzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-08-07T00:00:00-03:00",
+    "end": "2026-08-08T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA4MDdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-07T12:00:00-03:00",
+    "end": "2026-08-07T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MDdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-08-07T17:00:00-03:00",
+    "end": "2026-08-07T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA4MDdUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-07T18:00:00-03:00",
+    "end": "2026-08-07T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MDdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-08-10T00:00:00-03:00",
+    "end": "2026-08-11T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MTBUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-10T12:00:00-03:00",
+    "end": "2026-08-10T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-10T18:00:00-03:00",
+    "end": "2026-08-10T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTBUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-11T12:00:00-03:00",
+    "end": "2026-08-11T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-11T18:00:00-03:00",
+    "end": "2026-08-11T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-12T12:00:00-03:00",
+    "end": "2026-08-12T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTJUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-12T18:00:00-03:00",
+    "end": "2026-08-12T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTJUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-13T12:00:00-03:00",
+    "end": "2026-08-13T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTNUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-13T18:00:00-03:00",
+    "end": "2026-08-13T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTNUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-08-14T00:00:00-03:00",
+    "end": "2026-08-15T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA4MTRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-14T12:00:00-03:00",
+    "end": "2026-08-14T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-08-14T17:00:00-03:00",
+    "end": "2026-08-14T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA4MTRUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-14T18:00:00-03:00",
+    "end": "2026-08-14T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-08-17T00:00:00-03:00",
+    "end": "2026-08-18T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MTdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-17T12:00:00-03:00",
+    "end": "2026-08-17T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-17T18:00:00-03:00",
+    "end": "2026-08-17T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-18T12:00:00-03:00",
+    "end": "2026-08-18T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MThUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-18T18:00:00-03:00",
+    "end": "2026-08-18T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MThUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[mentoria] @ronan — evolução profissional",
+    "start": "2026-08-18T18:30:00-03:00",
+    "end": "2026-08-18T19:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "turbogames12@gmail.com",
+      "ronan0400@outlook.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=cjJwNzkzNDVwNnQ3dGc5MHQ2NnUzaGc0Z2xfMjAyNjA4MThUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-19T12:00:00-03:00",
+    "end": "2026-08-19T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTlUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-19T18:00:00-03:00",
+    "end": "2026-08-19T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTlUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-20T12:00:00-03:00",
+    "end": "2026-08-20T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-20T18:00:00-03:00",
+    "end": "2026-08-20T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjBUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[mentoria] @aeviles — transição de carreira",
+    "start": "2026-08-20T19:30:00-03:00",
+    "end": "2026-08-20T20:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "aevilesaguiar@gmail.com",
+      "takai@somostakai.com.br"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=cTM4a2M5c2pmNzJoMmxocDd2bDNsbnVxNDZfMjAyNjA3MDlUMjIzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-08-21T00:00:00-03:00",
+    "end": "2026-08-22T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA4MjFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-21T12:00:00-03:00",
+    "end": "2026-08-21T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-08-21T17:00:00-03:00",
+    "end": "2026-08-21T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA4MjFUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-21T18:00:00-03:00",
+    "end": "2026-08-21T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  }
+]

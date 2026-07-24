@@ -1,0 +1,440 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Painel Takai</title>
+<style>
+  :root {
+    --surface: #f3f5f4;
+    --surface-raised: #ffffff;
+    --surface-sunken: #eaeeed;
+    --ink: #12181c;
+    --ink-secondary: #48545a;
+    --ink-muted: #7c8890;
+    --border: #dde3e2;
+    --accent-agenda: #0f8f76;
+    --accent-agenda-tint: #e2f3ef;
+    --accent-tasks: #5b4b9e;
+    --accent-tasks-tint: #ece7f8;
+    --status-critical: #c0392b;
+    --status-critical-tint: #fbe7e4;
+    --status-warning: #a8721f;
+    --status-warning-tint: #f7ecd8;
+    --shadow: 0 1px 2px rgba(18, 24, 28, 0.06), 0 8px 24px -12px rgba(18, 24, 28, 0.18);
+    color-scheme: light;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --surface: #12161a;
+      --surface-raised: #1a2126;
+      --surface-sunken: #0d1114;
+      --ink: #eaedee;
+      --ink-secondary: #aeb8bc;
+      --ink-muted: #7c8890;
+      --border: #2a3238;
+      --accent-agenda: #1fa98d;
+      --accent-agenda-tint: rgba(31, 169, 141, 0.16);
+      --accent-tasks: #8a6fe8;
+      --accent-tasks-tint: rgba(138, 111, 232, 0.18);
+      --status-critical: #ff8770;
+      --status-critical-tint: rgba(255, 135, 112, 0.16);
+      --status-warning: #e3a83e;
+      --status-warning-tint: rgba(227, 168, 62, 0.16);
+      --shadow: 0 1px 2px rgba(0, 0, 0, 0.3), 0 8px 24px -12px rgba(0, 0, 0, 0.5);
+      color-scheme: dark;
+    }
+  }
+  :root[data-theme="dark"] {
+    --surface: #12161a;
+    --surface-raised: #1a2126;
+    --surface-sunken: #0d1114;
+    --ink: #eaedee;
+    --ink-secondary: #aeb8bc;
+    --ink-muted: #7c8890;
+    --border: #2a3238;
+    --accent-agenda: #1fa98d;
+    --accent-agenda-tint: rgba(31, 169, 141, 0.16);
+    --accent-tasks: #8a6fe8;
+    --accent-tasks-tint: rgba(138, 111, 232, 0.18);
+    --status-critical: #ff8770;
+    --status-critical-tint: rgba(255, 135, 112, 0.16);
+    --status-warning: #e3a83e;
+    --status-warning-tint: rgba(227, 168, 62, 0.16);
+    color-scheme: dark;
+  }
+  :root[data-theme="light"] {
+    --surface: #f3f5f4;
+    --surface-raised: #ffffff;
+    --surface-sunken: #eaeeed;
+    --ink: #12181c;
+    --ink-secondary: #48545a;
+    --ink-muted: #7c8890;
+    --border: #dde3e2;
+    --accent-agenda: #0f8f76;
+    --accent-agenda-tint: #e2f3ef;
+    --accent-tasks: #5b4b9e;
+    --accent-tasks-tint: #ece7f8;
+    --status-critical: #c0392b;
+    --status-critical-tint: #fbe7e4;
+    --status-warning: #a8721f;
+    --status-warning-tint: #f7ecd8;
+    color-scheme: light;
+  }
+
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body {
+    background: var(--surface);
+    color: var(--ink);
+    font-family: ui-sans-serif, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .page {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 28px 24px 64px;
+    display: flex;
+    flex-direction: column;
+    gap: 22px;
+  }
+
+  .topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 16px;
+    flex-wrap: wrap;
+  }
+  .brand { display: flex; align-items: center; gap: 14px; }
+  .brand-mark {
+    width: 42px; height: 42px; border-radius: 11px;
+    background: linear-gradient(155deg, var(--accent-agenda), var(--accent-tasks));
+    color: #fff;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: 700; font-size: 14px; letter-spacing: 0.02em;
+    flex-shrink: 0;
+  }
+  h1 { margin: 0; font-size: 21px; font-weight: 700; letter-spacing: -0.01em; }
+  .subtitle { margin: 2px 0 0; color: var(--ink-secondary); font-size: 13.5px; }
+  .meta { text-align: right; display: flex; flex-direction: column; gap: 3px; }
+  .updated { font-size: 12.5px; color: var(--ink-secondary); font-variant-numeric: tabular-nums; }
+  .updated strong { color: var(--ink); font-weight: 600; }
+  .hint { font-size: 12px; color: var(--ink-muted); max-width: 320px; }
+
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 10px;
+  }
+  .stat-tile {
+    background: var(--surface-raised);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 14px 16px;
+    box-shadow: var(--shadow);
+  }
+  .stat-tile .n { font-size: 26px; font-weight: 700; font-variant-numeric: tabular-nums; line-height: 1.1; }
+  .stat-tile .l { margin-top: 4px; font-size: 12px; color: var(--ink-secondary); }
+  .stat-tile.agenda .n { color: var(--accent-agenda); }
+  .stat-tile.tasks .n { color: var(--accent-tasks); }
+  .stat-tile.critical .n { color: var(--status-critical); }
+  .stat-tile.warning .n { color: var(--status-warning); }
+
+  .columns {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    align-items: start;
+  }
+  @media (max-width: 900px) {
+    .columns { grid-template-columns: 1fr; }
+  }
+
+  .panel {
+    background: var(--surface-raised);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    box-shadow: var(--shadow);
+    display: flex;
+    flex-direction: column;
+    max-height: 78vh;
+    overflow: hidden;
+  }
+  .panel-head {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 12px; padding: 16px 18px 12px; flex-wrap: wrap;
+  }
+  .panel-head h2 { margin: 0; font-size: 15px; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+  .dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; }
+  .dot-agenda { background: var(--accent-agenda); }
+  .dot-tasks { background: var(--accent-tasks); }
+
+  .toggle { display: flex; align-items: center; gap: 6px; font-size: 12.5px; color: var(--ink-secondary); cursor: pointer; user-select: none; }
+  .toggle input { accent-color: var(--accent-agenda); }
+
+  .agenda-list { overflow-y: auto; padding: 0 18px 18px; }
+  .day-group { margin-bottom: 14px; }
+  .day-head {
+    position: sticky; top: 0;
+    background: var(--surface-raised);
+    font-size: 11.5px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em;
+    color: var(--ink-muted); padding: 8px 0 6px; border-bottom: 1px solid var(--border);
+  }
+  .event-row {
+    display: flex; gap: 10px; padding: 9px 0; border-bottom: 1px dashed var(--border);
+    align-items: baseline;
+  }
+  .event-row:last-child { border-bottom: none; }
+  .event-time {
+    flex: 0 0 90px; font-size: 12px; font-variant-numeric: tabular-nums;
+    color: var(--ink-muted);
+  }
+  .event-body { flex: 1; min-width: 0; }
+  .event-title { font-size: 13.5px; font-weight: 500; color: var(--ink); }
+  .event-title a { color: inherit; text-decoration: none; }
+  .event-title a:hover { text-decoration: underline; }
+  .event-tags { margin-top: 3px; display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge {
+    display: inline-flex; align-items: center; gap: 4px;
+    font-size: 10.5px; font-weight: 600; padding: 2px 7px; border-radius: 100px;
+    letter-spacing: 0.02em;
+  }
+  .badge-meeting { background: var(--accent-agenda-tint); color: var(--accent-agenda); }
+  .badge-internal { background: var(--surface-sunken); color: var(--ink-muted); }
+
+  .filters { display: flex; gap: 8px; padding: 0 18px 12px; flex-wrap: wrap; align-items: center; }
+  .chips { display: flex; gap: 6px; flex-wrap: wrap; }
+  .chip {
+    font-size: 12px; font-weight: 600; padding: 5px 11px; border-radius: 100px;
+    border: 1px solid var(--border); background: var(--surface-sunken); color: var(--ink-secondary);
+    cursor: pointer;
+  }
+  .chip.active { background: var(--accent-tasks); border-color: var(--accent-tasks); color: #fff; }
+  #taskSearch, #listFilter {
+    font: inherit; font-size: 12.5px; padding: 6px 10px; border-radius: 8px;
+    border: 1px solid var(--border); background: var(--surface); color: var(--ink);
+  }
+  #taskSearch { flex: 1; min-width: 140px; }
+
+  .task-table-wrap { overflow: auto; padding: 0 18px 18px; }
+  table.task-table { width: 100%; border-collapse: collapse; font-size: 12.8px; }
+  .task-table thead th {
+    position: sticky; top: 0; background: var(--surface-raised);
+    text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--ink-muted); padding: 6px 8px; border-bottom: 1px solid var(--border);
+  }
+  .task-table td { padding: 8px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  .task-table tbody tr:hover { background: var(--surface-sunken); }
+  .task-table tr.overdue td:first-child { box-shadow: inset 3px 0 0 var(--status-critical); }
+  .task-table tr.due-soon td:first-child { box-shadow: inset 3px 0 0 var(--status-warning); }
+  .due-cell { font-variant-numeric: tabular-nums; white-space: nowrap; }
+  tr.overdue .due-cell { color: var(--status-critical); font-weight: 700; }
+  tr.due-soon .due-cell { color: var(--status-warning); font-weight: 700; }
+  .task-name a { color: var(--ink); text-decoration: none; font-weight: 500; }
+  .task-name a:hover { text-decoration: underline; }
+  .task-extra { color: var(--ink-muted); font-size: 11px; margin-top: 2px; }
+  .pill { display: inline-block; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 100px; white-space: nowrap; }
+  .pill-urgent { background: var(--status-critical-tint); color: var(--status-critical); }
+  .pill-high { background: var(--status-warning-tint); color: var(--status-warning); }
+  .pill-normal { background: var(--surface-sunken); color: var(--ink-secondary); }
+  .pill-low { background: var(--surface-sunken); color: var(--ink-muted); }
+  .status-pill { background: var(--accent-tasks-tint); color: var(--accent-tasks); }
+  .status-pill.blocked { background: var(--status-critical-tint); color: var(--status-critical); }
+  .status-pill.done { background: var(--surface-sunken); color: var(--ink-muted); }
+
+  .empty { padding: 0 18px 18px; color: var(--ink-muted); font-size: 13px; }
+
+  .footer { color: var(--ink-muted); font-size: 11.5px; text-align: center; padding-top: 6px; }
+
+  ::-webkit-scrollbar { width: 9px; height: 9px; }
+  ::-webkit-scrollbar-thumb { background: var(--border); border-radius: 100px; }
+</style>
+</head>
+<body>
+  <div class="page">
+    <header class="topbar">
+      <div class="brand">
+        <span class="brand-mark">TK</span>
+        <div>
+          <h1>Painel Takai</h1>
+          <p class="subtitle">Agenda da Takai + tarefas da Karol no ClickUp</p>
+        </div>
+      </div>
+      <div class="meta">
+        <span class="updated">Atualizado em <strong id="generatedAt"></strong></span>
+        <span class="hint">Peça "atualiza o painel" no chat sempre que quiser trazer os dados mais recentes.</span>
+      </div>
+    </header>
+
+    <section class="stats" id="stats"></section>
+
+    <main class="columns">
+      <section class="panel" aria-labelledby="agendaTitle">
+        <div class="panel-head">
+          <h2 id="agendaTitle"><span class="dot dot-agenda"></span>Agenda</h2>
+          <label class="toggle">
+            <input type="checkbox" id="toggleRoutine" />
+            <span>mostrar blocos de rotina</span>
+          </label>
+        </div>
+        <div class="agenda-list" id="agendaList"></div>
+      </section>
+
+      <section class="panel" aria-labelledby="tasksTitle">
+        <div class="panel-head">
+          <h2 id="tasksTitle"><span class="dot dot-tasks"></span>Tarefas — Karol</h2>
+        </div>
+        <div class="filters">
+          <div class="chips" id="dueChips"></div>
+          <input type="search" id="taskSearch" placeholder="Buscar tarefa, lista ou tag…" />
+          <select id="listFilter"></select>
+        </div>
+        <div class="task-table-wrap">
+          <table class="task-table">
+            <thead><tr><th>Prazo</th><th>Tarefa</th><th>Lista</th><th>Prioridade</th><th>Status</th></tr></thead>
+            <tbody id="taskRows"></tbody>
+          </table>
+        </div>
+        <p class="empty" id="taskEmpty" hidden>Nenhuma tarefa encontrada.</p>
+      </section>
+    </main>
+
+    <footer class="footer">
+      Fontes: Google Agenda (takai@somostakai.com.br) e ClickUp (espaço takai). Painel estático gerado por Claude a partir dos dados no momento da atualização.
+    </footer>
+  </div>
+
+<script>
+  const EVENTS = __EVENTS_JSON__;
+  const TASKS = __TASKS_JSON__;
+  const STATS = __STATS_JSON__;
+  const LISTS = __LISTS_JSON__;
+  const GENERATED_AT = __GENERATED_AT__;
+
+  document.getElementById('generatedAt').textContent = GENERATED_AT;
+
+  function esc(s) {
+    return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  // ---- Stats ----
+  const statTiles = [
+    { n: STATS.meetings7d, l: 'Reuniões externas (7 dias)', cls: 'agenda' },
+    { n: STATS.commitments30d, l: 'Compromissos na agenda (30 dias)', cls: 'agenda' },
+    { n: STATS.openTasks, l: 'Tarefas abertas da Karol', cls: 'tasks' },
+    { n: STATS.overdueTasks, l: 'Tarefas atrasadas', cls: 'critical' },
+    { n: STATS.dueSoonTasks, l: 'Vencem nos próx. 7 dias', cls: 'warning' },
+    { n: STATS.noDueTasks, l: 'Sem prazo definido', cls: 'tasks' },
+  ];
+  document.getElementById('stats').innerHTML = statTiles.map(s => `
+    <div class="stat-tile ${s.cls}">
+      <div class="n">${s.n}</div>
+      <div class="l">${esc(s.l)}</div>
+    </div>
+  `).join('');
+
+  // ---- Agenda ----
+  const toggleRoutine = document.getElementById('toggleRoutine');
+  function renderAgenda() {
+    const showRoutine = toggleRoutine.checked;
+    const groups = {};
+    for (const ev of EVENTS) {
+      if (ev.isRoutine && !showRoutine) continue;
+      (groups[ev.dateKey] = groups[ev.dateKey] || []).push(ev);
+    }
+    const keys = Object.keys(groups).sort();
+    if (keys.length === 0) {
+      document.getElementById('agendaList').innerHTML = '<p class="empty">Nada por aqui.</p>';
+      return;
+    }
+    document.getElementById('agendaList').innerHTML = keys.map(k => {
+      const evs = groups[k];
+      const head = `${evs[0].weekday} · ${evs[0].dateLabel}`;
+      const rows = evs.map(ev => `
+        <div class="event-row">
+          <div class="event-time">${esc(ev.timeLabel)}</div>
+          <div class="event-body">
+            <div class="event-title">${ev.htmlLink ? `<a href="${esc(ev.htmlLink)}" target="_blank" rel="noopener">${esc(ev.summary)}</a>` : esc(ev.summary)}</div>
+            ${!ev.isRoutine ? `<div class="event-tags">
+              ${ev.isMeeting ? `<span class="badge badge-meeting">reunião · ${ev.attendeeCount} convidado${ev.attendeeCount === 1 ? '' : 's'}</span>` : `<span class="badge badge-internal">interno</span>`}
+            </div>` : ''}
+          </div>
+        </div>
+      `).join('');
+      return `<div class="day-group"><div class="day-head">${esc(head)}</div>${rows}</div>`;
+    }).join('');
+  }
+  toggleRoutine.addEventListener('change', renderAgenda);
+  renderAgenda();
+
+  // ---- Tasks ----
+  let dueFilter = 'all';
+  const listFilterEl = document.getElementById('listFilter');
+  listFilterEl.innerHTML = '<option value="">Todas as listas</option>' + LISTS.map(l => `<option value="${esc(l)}">${esc(l)}</option>`).join('');
+
+  const chipDefs = [
+    { key: 'all', label: `Todas (${TASKS.filter(t => !t.isDone).length})` },
+    { key: 'overdue', label: `Atrasadas (${STATS.overdueTasks})` },
+    { key: 'soon', label: `Próx. 7 dias (${STATS.dueSoonTasks})` },
+    { key: 'nodue', label: `Sem prazo (${STATS.noDueTasks})` },
+  ];
+  const chipsEl = document.getElementById('dueChips');
+  function renderChips() {
+    chipsEl.innerHTML = chipDefs.map(c => `<button type="button" class="chip ${dueFilter === c.key ? 'active' : ''}" data-key="${c.key}">${esc(c.label)}</button>`).join('');
+    chipsEl.querySelectorAll('.chip').forEach(btn => btn.addEventListener('click', () => {
+      dueFilter = btn.dataset.key;
+      renderChips();
+      renderTasks();
+    }));
+  }
+
+  function priorityPillClass(p) {
+    if (p === 'urgent') return 'pill-urgent';
+    if (p === 'high') return 'pill-high';
+    if (p === 'low') return 'pill-low';
+    return 'pill-normal';
+  }
+  function statusPillClass(status, isDone) {
+    const s = (status || '').toLowerCase();
+    if (isDone || s === 'perdido') return 'status-pill done';
+    if (s === 'bloqueado') return 'status-pill blocked';
+    return 'status-pill';
+  }
+
+  function renderTasks() {
+    const q = document.getElementById('taskSearch').value.trim().toLowerCase();
+    const listSel = listFilterEl.value;
+    let rows = TASKS.filter(t => !t.isDone);
+    if (dueFilter === 'overdue') rows = rows.filter(t => t.overdue);
+    if (dueFilter === 'soon') rows = rows.filter(t => t.dueSoon);
+    if (dueFilter === 'nodue') rows = rows.filter(t => t.dueMs === null);
+    if (listSel) rows = rows.filter(t => t.list === listSel);
+    if (q) rows = rows.filter(t =>
+      t.name.toLowerCase().includes(q) ||
+      t.list.toLowerCase().includes(q) ||
+      t.tags.join(' ').toLowerCase().includes(q)
+    );
+
+    document.getElementById('taskEmpty').hidden = rows.length !== 0;
+    document.getElementById('taskRows').innerHTML = rows.map(t => `
+      <tr class="${t.overdue ? 'overdue' : t.dueSoon ? 'due-soon' : ''}">
+        <td class="due-cell">${esc(t.dueLabel)}</td>
+        <td class="task-name">
+          <a href="${esc(t.url)}" target="_blank" rel="noopener">${esc(t.name)}</a>
+          ${t.extraAssignees.length ? `<div class="task-extra">com ${esc(t.extraAssignees.join(', '))}</div>` : ''}
+        </td>
+        <td>${esc(t.list)}</td>
+        <td><span class="pill ${priorityPillClass(t.priority)}">${esc(t.priorityLabel)}</span></td>
+        <td><span class="pill ${statusPillClass(t.status, t.isDone)}">${esc(t.status || '—')}</span></td>
+      </tr>
+    `).join('');
+  }
+
+  document.getElementById('taskSearch').addEventListener('input', renderTasks);
+  listFilterEl.addEventListener('change', renderTasks);
+  renderChips();
+  renderTasks();
+</script>
+</body>
+</html>
