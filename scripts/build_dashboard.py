@@ -5,6 +5,7 @@ Run this after refreshing the two data files (via the ClickUp / Google Calendar
 MCP tools) to regenerate the static dashboard. See README.md for the full
 refresh workflow.
 """
+import base64
 import json
 from datetime import datetime, timedelta
 from pathlib import Path
@@ -148,6 +149,8 @@ def main():
     statuses = sorted({t["status"] for t in tasks if t["status"]})
 
     generated_label = now.strftime("%d/%m/%Y às %H:%M")
+    logo_bytes = (ROOT / "assets" / "logo-takai.png").read_bytes()
+    logo_data_uri = "data:image/png;base64," + base64.b64encode(logo_bytes).decode("ascii")
 
     template = (ROOT / "scripts" / "template.html").read_text()
     html = (
@@ -158,6 +161,7 @@ def main():
         .replace("__STATS_JSON__", json.dumps(stats, ensure_ascii=False))
         .replace("__LISTS_JSON__", json.dumps(lists, ensure_ascii=False))
         .replace("__STATUSES_JSON__", json.dumps(statuses, ensure_ascii=False))
+        .replace("__LOGO_DATA_URI__", logo_data_uri)
     )
 
     (ROOT / "index.html").write_text(html)

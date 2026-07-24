@@ -139,8 +139,11 @@
     flex-wrap: wrap;
   }
   .brand { display: flex; align-items: center; gap: 14px; }
-  .brand-mark { width: 52px; height: 40px; flex-shrink: 0; }
-  .brand-mark svg { width: 100%; height: 100%; display: block; }
+  .brand-logo-wrap {
+    background: #fbf8f2; border-radius: 10px; padding: 6px 12px; flex-shrink: 0;
+    box-shadow: var(--shadow); display: inline-flex; align-items: center;
+  }
+  .brand-logo { height: 42px; width: auto; display: block; }
   h1 { margin: 0; font-size: 21px; font-weight: 700; letter-spacing: -0.01em; }
   .subtitle { margin: 2px 0 0; color: var(--ink-secondary); font-size: 13.5px; }
   .meta { text-align: right; display: flex; flex-direction: column; gap: 3px; }
@@ -344,16 +347,11 @@
   <div class="page">
     <header class="topbar">
       <div class="brand">
-        <span class="brand-mark" aria-hidden="true">
-          <svg viewBox="0 0 120 90" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="32" cy="34" r="25" fill="var(--accent-tasks)" />
-            <path d="M0,74 C16,74 22,42 38,42 C47,42 45,55 55,55 C67,55 68,17 94,17 C105,17 111,47 120,47"
-                  stroke="var(--accent-agenda)" stroke-width="7" stroke-linecap="round" fill="none" />
-            <circle cx="113" cy="63" r="5.5" fill="var(--accent-tasks)" />
-          </svg>
+        <span class="brand-logo-wrap">
+          <img class="brand-logo" src="__LOGO_DATA_URI__" alt="takai" />
         </span>
         <div>
-          <h1>Painel takai</h1>
+          <h1>Painel</h1>
           <p class="subtitle">Agenda da takai + tarefas da Karol no ClickUp</p>
         </div>
       </div>
