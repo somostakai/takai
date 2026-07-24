@@ -1,49 +1,5 @@
 [
   {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-07-23T13:00:00-03:00",
-    "end": "2026-07-23T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjNUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
-    "summary": " [mentoria] @daniel — transição de carreira",
-    "start": "2026-07-23T15:00:00-03:00",
-    "end": "2026-07-23T16:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "danielmodesto1000@gmail.com",
-      "takai@somostakai.com.br"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MW4yOXBhcnM2dm5jbWNyaWNsNDFlczV1MWVfMjAyNjA3MjNUMTgwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
-    "summary": "[reunião] takai <> joão",
-    "start": "2026-07-23T16:00:00-03:00",
-    "end": "2026-07-23T16:45:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "drjoaovitorabreu@gmail.com",
-      "takai@somostakai.com.br",
-      "tainara.nog@gmail.com",
-      "kaaoay@gmail.com"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=bWl2am5zY28ybWJxcTlsZ3ZkdGpjbTM1dTggdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-07-23T18:00:00-03:00",
-    "end": "2026-07-23T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjNUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
     "summary": "creative day",
     "start": "2026-07-24T00:00:00-03:00",
     "end": "2026-07-25T00:00:00-03:00",
