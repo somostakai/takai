@@ -1,50 +1,5 @@
 [
   {
-    "summary": "creative day",
-    "start": "2026-07-24T00:00:00-03:00",
-    "end": "2026-07-25T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA3MjRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-07-24T12:00:00-03:00",
-    "end": "2026-07-24T13:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
-    "summary": "revisão de métricas e okrs",
-    "start": "2026-07-24T17:00:00-03:00",
-    "end": "2026-07-24T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA3MjRUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-07-24T18:00:00-03:00",
-    "end": "2026-07-24T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
-    "summary": "[produção de vídeo renauguração] @bellacasa",
-    "start": "2026-07-25T14:30:00-03:00",
-    "end": "2026-07-25T16:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MnBhYjU0MnVmczgzcHJzNGt0amZhaHNpYmogdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
-  },
-  {
     "summary": "focus day",
     "start": "2026-07-27T00:00:00-03:00",
     "end": "2026-07-28T00:00:00-03:00",
@@ -91,6 +46,18 @@
       "guilherme.luz@rdstation.com"
     ],
     "htmlLink": "https://www.google.com/calendar/event?eid=NjhsY2d1aDR2c3FjZXJhOGp1aHVrY3NhNm5fMjAyNjA3MjhUMTcwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[reunião] takai <> guilherme",
+    "start": "2026-07-28T15:30:00-03:00",
+    "end": "2026-07-28T16:15:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "tainara.nog@gmail.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NGxjN2RjODhzMTdxYmxudmM2cW9pNDd0anQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
   },
   {
     "summary": "☕️ café da tarde",
@@ -339,7 +306,7 @@
   {
     "summary": "[workshop] claude do zero",
     "start": "2026-08-02T10:00:00-03:00",
-    "end": "2026-08-02T17:00:00-03:00",
+    "end": "2026-08-02T18:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -757,5 +724,77 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[inauguração] @bellacasa",
+    "start": "2026-08-22T08:00:00-03:00",
+    "end": "2026-08-22T12:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=OGE3YnBraHJuZDNmdHA2ZGU1b29rcTVnOGMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-08-24T00:00:00-03:00",
+    "end": "2026-08-25T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MjRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-24T12:00:00-03:00",
+    "end": "2026-08-24T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-24T18:00:00-03:00",
+    "end": "2026-08-24T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-25T12:00:00-03:00",
+    "end": "2026-08-25T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjVUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-25T18:00:00-03:00",
+    "end": "2026-08-25T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjVUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-08-26T12:00:00-03:00",
+    "end": "2026-08-26T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjZUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-08-26T18:00:00-03:00",
+    "end": "2026-08-26T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjZUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
   }
 ]
