@@ -154,6 +154,12 @@
     border: 1px solid var(--border);
   }
 
+  .stats-wrap { display: flex; flex-direction: column; gap: 10px; }
+  .stats-today {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
   .stats {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -378,7 +384,10 @@
       </div>
     </header>
 
-    <section class="stats" id="stats"></section>
+    <div class="stats-wrap">
+      <section class="stats-today" id="statsToday"></section>
+      <section class="stats" id="stats"></section>
+    </div>
 
     <main class="columns">
       <section class="panel" aria-labelledby="agendaTitle">
@@ -448,8 +457,11 @@
   }
 
   // ---- Stats ----
-  const statTiles = [
+  const statTilesToday = [
     { n: STATS.commitmentsToday, l: 'Compromissos na agenda hoje', cls: 'agenda' },
+    { n: STATS.dueTodayTasks, l: 'Tarefas para hoje', cls: 'tasks' },
+  ];
+  const statTiles = [
     { n: STATS.commitments7d, l: 'Compromissos na agenda em 7 dias', cls: 'agenda' },
     { n: STATS.commitments30d, l: 'Compromissos na agenda em 30 dias', cls: 'agenda' },
     { n: STATS.openTasks, l: 'Tarefas abertas da Karol', cls: 'tasks' },
@@ -457,12 +469,14 @@
     { n: STATS.dueSoonTasks, l: 'Vencem nos próx. 7 dias', cls: 'warning' },
     { n: STATS.noDueTasks, l: 'Sem prazo definido', cls: 'tasks' },
   ];
-  document.getElementById('stats').innerHTML = statTiles.map(s => `
+  const tileHtml = s => `
     <div class="stat-tile ${s.cls}">
       <div class="n">${s.n}</div>
       <div class="l">${esc(s.l)}</div>
     </div>
-  `).join('');
+  `;
+  document.getElementById('statsToday').innerHTML = statTilesToday.map(tileHtml).join('');
+  document.getElementById('stats').innerHTML = statTiles.map(tileHtml).join('');
 
   // ---- Agenda ----
   function renderAgenda() {
