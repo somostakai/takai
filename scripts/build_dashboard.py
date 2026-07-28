@@ -148,14 +148,16 @@ def main():
     lists = sorted({t["list"] for t in tasks})
     statuses = sorted({t["status"] for t in tasks if t["status"]})
 
-    generated_label = now.strftime("%d/%m/%Y")
+    generated_date = now.strftime("%d/%m/%Y")
+    generated_time = now.strftime("%H:%M")
     logo_bytes = (ROOT / "assets" / "logo-takai.png").read_bytes()
     logo_data_uri = "data:image/png;base64," + base64.b64encode(logo_bytes).decode("ascii")
 
     template = (ROOT / "scripts" / "template.html").read_text()
     html = (
         template
-        .replace("__GENERATED_AT__", json.dumps(generated_label, ensure_ascii=False))
+        .replace("__GENERATED_DATE__", json.dumps(generated_date, ensure_ascii=False))
+        .replace("__GENERATED_TIME__", json.dumps(generated_time, ensure_ascii=False))
         .replace("__EVENTS_JSON__", json.dumps(events, ensure_ascii=False))
         .replace("__TASKS_JSON__", json.dumps(tasks, ensure_ascii=False))
         .replace("__STATS_JSON__", json.dumps(stats, ensure_ascii=False))

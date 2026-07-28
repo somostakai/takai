@@ -148,10 +148,16 @@
   .subtitle { margin: 2px 0 0; color: var(--ink-secondary); font-size: 13.5px; }
   .meta { display: flex; align-items: flex-start; }
   .updated-tag {
-    display: inline-flex; align-items: center; gap: 5px;
-    font-size: 11.5px; font-weight: 600; padding: 5px 12px; border-radius: 100px;
-    background: var(--surface-sunken); color: var(--ink-secondary); font-variant-numeric: tabular-nums;
-    border: 1px solid var(--border);
+    display: inline-flex; flex-direction: column; align-items: flex-end; gap: 2px;
+    padding: 6px 12px; border-radius: 10px;
+    background: var(--surface-sunken); border: 1px solid var(--border);
+  }
+  .updated-tag .updated-label {
+    font-size: 10px; font-weight: 600; text-transform: uppercase; letter-spacing: 0.04em;
+    color: var(--ink-muted);
+  }
+  .updated-tag .updated-value {
+    font-size: 12.5px; font-weight: 700; color: var(--ink); font-variant-numeric: tabular-nums;
   }
 
   .stats-wrap { display: flex; flex-direction: column; gap: 10px; }
@@ -380,7 +386,10 @@
         </div>
       </div>
       <div class="meta">
-        <span class="updated-tag">Atualizado em <span id="generatedAt"></span></span>
+        <span class="updated-tag">
+          <span class="updated-label">Atualizado em</span>
+          <span class="updated-value" id="generatedAt"></span>
+        </span>
       </div>
     </header>
 
@@ -448,9 +457,10 @@
   const TASKS = __TASKS_JSON__;
   const STATS = __STATS_JSON__;
   const LISTS = __LISTS_JSON__;
-  const GENERATED_AT = __GENERATED_AT__;
+  const GENERATED_DATE = __GENERATED_DATE__;
+  const GENERATED_TIME = __GENERATED_TIME__;
 
-  document.getElementById('generatedAt').textContent = GENERATED_AT;
+  document.getElementById('generatedAt').textContent = `${GENERATED_DATE} • ⏰ ${GENERATED_TIME}`;
 
   function esc(s) {
     return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
