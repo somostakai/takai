@@ -766,21 +766,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbd6eu7",
-      "name": "[análise de linkedin] @talita belfiore",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd6eu7",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "linkedin"
-      ],
-      "due_date": "1785222000000",
-      "list": "linkedin"
-    },
-    {
       "id": "wdwmbd6ep7",
       "name": "[branding de marca] @talita belfiore",
       "status": "em progresso",
@@ -795,51 +780,6 @@
       ],
       "due_date": "1785222000000",
       "list": "branding de marca"
-    },
-    {
-      "id": "wdwmbd5nn1",
-      "name": "[compartilhar material comentado] @takai conecta",
-      "status": "não iniciado",
-      "url": "https://app.clickup.com/t/wdwmbd5nn1",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1785222000000",
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbd5ncn",
-      "name": "[mentoria] @guilherme — evolução profissional",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd5ncn",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1785222000000",
-      "list": "mentorias"
-    },
-    {
-      "id": "wdwmbd54mw",
-      "name": "[mentoria] @daniel — transição de carreira",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd54mw",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1785222000000",
-      "list": "mentorias"
     },
     {
       "id": "86aj2zdhx",
@@ -892,7 +832,7 @@
     {
       "id": "86af45319",
       "name": "[tutoria] @ebac",
-      "status": "priorizado",
+      "status": "em progresso",
       "url": "https://app.clickup.com/t/86af45319",
       "priority": "high",
       "assignees": [
@@ -979,6 +919,21 @@
       ],
       "due_date": "1785308400000",
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbd54mw",
+      "name": "[mentoria] @daniel — transição de carreira",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbd54mw",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "mentoria"
+      ],
+      "due_date": "1785394800000",
+      "list": "mentorias"
     },
     {
       "id": "86aj1htqa",
@@ -1254,6 +1209,51 @@
       ],
       "due_date": "1785740400000",
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbd6eu7",
+      "name": "[análise de linkedin] @talita belfiore",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbd6eu7",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "linkedin"
+      ],
+      "due_date": "1785826800000",
+      "list": "linkedin"
+    },
+    {
+      "id": "wdwmbd5nn1",
+      "name": "[compartilhar material comentado] @takai conecta",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbd5nn1",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1785826800000",
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbd5ncn",
+      "name": "[mentoria] @guilherme — evolução profissional",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbd5ncn",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "mentoria"
+      ],
+      "due_date": "1785826800000",
+      "list": "mentorias"
     },
     {
       "id": "86aj39dpw",
