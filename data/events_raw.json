@@ -1,44 +1,5 @@
 [
   {
-    "summary": "[gravação oto] @dr. samuel",
-    "start": "2026-07-29T09:30:00-03:00",
-    "end": "2026-07-29T12:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NWNsaTIyMDF2OXY2YjljZHF2dWVkODJ1MXAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-07-29T12:30:00-03:00",
-    "end": "2026-07-29T13:45:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MjlUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
-    "summary": "[reunião mensal] takai <> cassandra von zuben",
-    "start": "2026-07-29T14:30:00-03:00",
-    "end": "2026-07-29T15:15:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "cassandravonzuben@gmail.com",
-      "takai@somostakai.com.br"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=cGh2NXU3Z3U5Z2Nwa2o0azFnMmFsbWFiYmsgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-07-29T18:00:00-03:00",
-    "end": "2026-07-29T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA3MjlUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
-  },
-  {
     "summary": "[reunião de kickoff] takai <> talita belfiore",
     "start": "2026-07-30T10:00:00-03:00",
     "end": "2026-07-30T10:45:00-03:00",
@@ -60,6 +21,18 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA3MzBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": " [reunião mensal] takai <> murilo tudéia",
+    "start": "2026-07-30T14:00:00-03:00",
+    "end": "2026-07-30T14:45:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "murilotudeiago@outlook.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=cHJyZTdrZHFrM3Y5ZjR2a2R1bzRydjhlZnMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
   },
   {
     "summary": " [mentoria] @daniel — transição de carreira",
@@ -442,6 +415,15 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MTdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
   },
   {
+    "summary": "[cobertura de evento] curso de oto • dia 1",
+    "start": "2026-08-17T08:00:00-03:00",
+    "end": "2026-08-17T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mm5ucWhpdmxzMnIxOXFhdTFqMThyODFidTQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
+  },
+  {
     "summary": "🫕 almoço e descanso",
     "start": "2026-08-17T12:00:00-03:00",
     "end": "2026-08-17T14:00:00-03:00",
@@ -458,6 +440,15 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[cobertura de evento] curso de oto • dia 2",
+    "start": "2026-08-18T08:00:00-03:00",
+    "end": "2026-08-18T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=bGh1djNnZDh1N3VjazJhOGxxNGczbWRpYmMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -699,5 +690,14 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjhUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg"
+  },
+  {
+    "summary": "[exposição] ateliê casa",
+    "start": "2026-08-29T00:00:00Z",
+    "end": "2026-08-30T00:00:00Z",
+    "allDay": true,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MXZkMnVhNHBkcDQ0Z2s3aWYwZnMybDZjajAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI"
   }
 ]

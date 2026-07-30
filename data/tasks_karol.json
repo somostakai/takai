@@ -721,144 +721,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbd977v",
-      "name": "[vídeos e fotos] @guilherme henrique",
-      "status": "proposta",
-      "url": "https://app.clickup.com/t/wdwmbd977v",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1785308400000",
-      "list": "crm"
-    },
-    {
-      "id": "wdwmbd976q",
-      "name": "[site] @ana prevatto",
-      "status": "fechamento",
-      "url": "https://app.clickup.com/t/wdwmbd976q",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1785308400000",
-      "list": "crm"
-    },
-    {
-      "id": "wdwmbd8ett",
-      "name": "[social media] @joão abreu",
-      "status": "follow-up",
-      "url": "https://app.clickup.com/t/wdwmbd8ett",
-      "priority": "urgent",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1785308400000",
-      "list": "crm"
-    },
-    {
-      "id": "wdwmbd62kq",
-      "name": "mapear aplicativos e saas que usamos",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbd62kq",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "documentação"
-      ],
-      "due_date": "1785308400000",
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbd5nn6",
-      "name": "[sessão de aprofundamento mensal] @takai continua",
-      "status": "não iniciado",
-      "url": "https://app.clickup.com/t/wdwmbd5nn6",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1785308400000",
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbd5nn2",
-      "name": "[check-in com mentorados] @takai continua",
-      "status": "não iniciado",
-      "url": "https://app.clickup.com/t/wdwmbd5nn2",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1785308400000",
-      "list": "tarefas"
-    },
-    {
-      "id": "86ahrw421",
-      "name": "[criação de conteúdos] @stela maris",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86ahrw421",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1785308400000",
-      "list": "stela maris"
-    },
-    {
-      "id": "86ahmcy8w",
-      "name": "[branding de marca] @tatiana simionato",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86ahmcy8w",
-      "priority": "urgent",
-      "assignees": [
-        "Talita Dovigo",
-        "Tainara Nogueira",
-        "Karol"
-      ],
-      "tags": [
-        "identidade"
-      ],
-      "due_date": "1785308400000",
-      "list": "branding de marca"
-    },
-    {
-      "id": "86af45319",
-      "name": "[tutoria] @ebac",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86af45319",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1785308400000",
-      "list": "mentorias"
-    },
-    {
       "id": "86aj1gue4",
       "name": "[branding de marca] @cristiane reis",
       "status": "perdido",
@@ -875,11 +737,27 @@
       "list": "crm"
     },
     {
+      "id": "wdwmbd8ett",
+      "name": "[vídeos institucionais] @joão abreu",
+      "status": "contrato",
+      "url": "https://app.clickup.com/t/wdwmbd8ett",
+      "priority": "urgent",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1785394800000",
+      "list": "crm"
+    },
+    {
       "id": "wdwmbd6ep7",
       "name": "[branding de marca] @talita belfiore",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbd6ep7",
-      "priority": "high",
+      "priority": "urgent",
       "assignees": [
         "Karol",
         "Talita Dovigo"
@@ -891,11 +769,26 @@
       "list": "branding de marca"
     },
     {
+      "id": "wdwmbd62kq",
+      "name": "mapear aplicativos e saas que usamos",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbd62kq",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "documentação"
+      ],
+      "due_date": "1785394800000",
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbd54mw",
       "name": "[mentoria] @daniel — transição de carreira",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbd54mw",
-      "priority": "normal",
+      "priority": "high",
       "assignees": [
         "Karol"
       ],
@@ -904,6 +797,22 @@
       ],
       "due_date": "1785394800000",
       "list": "mentorias"
+    },
+    {
+      "id": "86aj2zdhx",
+      "name": "[branding de marca] @bellacasa",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86aj2zdhx",
+      "priority": "urgent",
+      "assignees": [
+        "Karol",
+        "Talita Dovigo"
+      ],
+      "tags": [
+        "identidade"
+      ],
+      "due_date": "1785394800000",
+      "list": "branding de marca"
     },
     {
       "id": "86aj1huj1",
@@ -921,35 +830,66 @@
       "list": "tarefas"
     },
     {
-      "id": "86aj1htqa",
-      "name": "levar proposta de webinar/workshop para @ebac",
-      "status": "não iniciado",
-      "url": "https://app.clickup.com/t/86aj1htqa",
-      "priority": "low",
+      "id": "86ahrw421",
+      "name": "[criação de conteúdos] @stela maris",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86ahrw421",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1785394800000",
+      "list": "stela maris"
+    },
+    {
+      "id": "86ahmcy8w",
+      "name": "[branding de marca] @tatiana simionato",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86ahmcy8w",
+      "priority": "urgent",
+      "assignees": [
+        "Talita Dovigo",
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "identidade"
+      ],
+      "due_date": "1785394800000",
+      "list": "branding de marca"
+    },
+    {
+      "id": "wdwmbd977v",
+      "name": "[vídeos e fotos] @guilherme henrique",
+      "status": "proposta",
+      "url": "https://app.clickup.com/t/wdwmbd977v",
+      "priority": "high",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "comercial"
       ],
-      "due_date": "1785394800000",
-      "list": "tarefas"
+      "due_date": "1785481200000",
+      "list": "crm"
     },
     {
-      "id": "86abawwr6",
-      "name": "repaginar o curso de transição de carreira e divulgar",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/86abawwr6",
+      "id": "wdwmbd976q",
+      "name": "[site] @ana prevatto",
+      "status": "contrato",
+      "url": "https://app.clickup.com/t/wdwmbd976q",
       "priority": "high",
       "assignees": [
-        "Karol",
-        "Tainara Nogueira"
+        "Karol"
       ],
       "tags": [
-        "conteúdo"
+        "comercial"
       ],
-      "due_date": "1785394800000",
-      "list": "tarefas"
+      "due_date": "1785481200000",
+      "list": "crm"
     },
     {
       "id": "wdwmbd88ed",
@@ -1271,6 +1211,36 @@
       "list": "tarefas"
     },
     {
+      "id": "wdwmbd5nn2",
+      "name": "[check-in com mentorados] @takai continua",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbd5nn2",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1785913200000",
+      "list": "tarefas"
+    },
+    {
+      "id": "86aj1htqa",
+      "name": "levar proposta de webinar/workshop para @ebac",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/86aj1htqa",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1785913200000",
+      "list": "tarefas"
+    },
+    {
       "id": "86ahm47ku",
       "name": "criar planilha de clientes (aniversário, datas importantes, reuniões presenciais trimestrais)",
       "status": "priorizado",
@@ -1296,6 +1266,22 @@
       ],
       "tags": [
         "documentação"
+      ],
+      "due_date": "1785999600000",
+      "list": "tarefas"
+    },
+    {
+      "id": "86abawwr6",
+      "name": "repaginar o curso de transição de carreira e divulgar",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/86abawwr6",
+      "priority": "high",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
       ],
       "due_date": "1785999600000",
       "list": "tarefas"
@@ -1359,6 +1345,21 @@
       ],
       "due_date": "1787554800000",
       "list": "gladys ribeiro"
+    },
+    {
+      "id": "wdwmbd5nn6",
+      "name": "[sessão de aprofundamento mensal] @takai continua",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbd5nn6",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1787727600000",
+      "list": "tarefas"
     },
     {
       "id": "86ahm4812",
@@ -1484,22 +1485,6 @@
       ],
       "due_date": null,
       "list": "tarefas"
-    },
-    {
-      "id": "86aj2zdhx",
-      "name": "[branding de marca] @bellacasa",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86aj2zdhx",
-      "priority": "urgent",
-      "assignees": [
-        "Karol",
-        "Talita Dovigo"
-      ],
-      "tags": [
-        "identidade"
-      ],
-      "due_date": null,
-      "list": "branding de marca"
     },
     {
       "id": "86aj154vb",
