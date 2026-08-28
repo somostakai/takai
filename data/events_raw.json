@@ -1,488 +1,30 @@
 [
   {
-    "summary": "focus day",
-    "start": "2026-08-10T00:00:00-03:00",
-    "end": "2026-08-11T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MTBUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-10T12:00:00-03:00",
-    "end": "2026-08-10T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-10T18:00:00-03:00",
-    "end": "2026-08-10T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTBUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-11T12:00:00-03:00",
-    "end": "2026-08-11T13:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "montar curso do samuel",
-    "start": "2026-08-11T13:30:00-03:00",
-    "end": "2026-08-11T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=N2l2Y2pydHI2MnFwb2x0NzE0dWUwM2FvazMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-11T18:00:00-03:00",
-    "end": "2026-08-11T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[mentoria] @ronan — evolução profissional",
-    "start": "2026-08-11T18:30:00-03:00",
-    "end": "2026-08-11T19:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "takai@somostakai.com.br",
-      "turbogames12@gmail.com",
-      "ronan0400@outlook.com"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=cjJwNzkzNDVwNnQ3dGc5MHQ2NnUzaGc0Z2xfMjAyNjA4MDRUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-12T12:00:00-03:00",
-    "end": "2026-08-12T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTJUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-12T18:00:00-03:00",
-    "end": "2026-08-12T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTJUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-13T12:00:00-03:00",
-    "end": "2026-08-13T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTNUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-13T18:00:00-03:00",
-    "end": "2026-08-13T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTNUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "creative day",
-    "start": "2026-08-14T00:00:00-03:00",
-    "end": "2026-08-15T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA4MTRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-14T12:00:00-03:00",
-    "end": "2026-08-14T13:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "revisão de métricas e okrs",
-    "start": "2026-08-14T16:00:00-03:00",
-    "end": "2026-08-14T17:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA4MTRUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-14T17:00:00-03:00",
-    "end": "2026-08-14T17:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "focus day",
-    "start": "2026-08-17T00:00:00-03:00",
-    "end": "2026-08-18T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MTdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[cobertura de evento] curso de oto • dia 1",
-    "start": "2026-08-17T08:00:00-03:00",
-    "end": "2026-08-17T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=Mm5ucWhpdmxzMnIxOXFhdTFqMThyODFidTQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-17T12:00:00-03:00",
-    "end": "2026-08-17T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-17T18:00:00-03:00",
-    "end": "2026-08-17T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[cobertura de evento] curso de oto • dia 2",
-    "start": "2026-08-18T08:00:00-03:00",
-    "end": "2026-08-18T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=bGh1djNnZDh1N3VjazJhOGxxNGczbWRpYmMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-18T12:00:00-03:00",
-    "end": "2026-08-18T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MThUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-18T18:00:00-03:00",
-    "end": "2026-08-18T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MThUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[mentoria] @ronan — evolução profissional",
-    "start": "2026-08-18T18:30:00-03:00",
-    "end": "2026-08-18T19:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "takai@somostakai.com.br",
-      "turbogames12@gmail.com",
-      "ronan0400@outlook.com"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=cjJwNzkzNDVwNnQ3dGc5MHQ2NnUzaGc0Z2xfMjAyNjA4MThUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-19T12:00:00-03:00",
-    "end": "2026-08-19T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MTlUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[mentoria] @guilherme — evolução profissional",
-    "start": "2026-08-19T16:00:00-03:00",
-    "end": "2026-08-19T17:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "takai@somostakai.com.br",
-      "guilherme.luz@rdstation.com"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjhsY2d1aDR2c3FjZXJhOGp1aHVrY3NhNm5fMjAyNjA3MjhUMTcwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-19T18:00:00-03:00",
-    "end": "2026-08-19T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MTlUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "Portfólio Night: UX/UI Design com Lucas Bittencourt, Karolayne Takai, Milena Kosciuk e Marçal Arruda",
-    "start": "2026-08-19T19:00:00-03:00",
-    "end": "2026-08-19T20:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "kelly.valerio@ebaconline.com.br",
-      "takai@somostakai.com.br",
-      "marcal.arruda94@gmail.com",
-      "dkmilena@gmail.com",
-      "olucasbittencourt@gmail.com"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NGc2Y2M5cXJpMm42MjVhMmNqMmJpMnQ2ajQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[gravação de conteúdo] @dr. joão abreu",
-    "start": "2026-08-20T09:00:00-03:00",
-    "end": "2026-08-20T13:00:00-03:00",
-    "allDay": false,
-    "location": "Peron Estúdio Fotográfico, Rua Coronel - R. Cel Joaquim José de Oliveira, 621 - Parque Taquaral, Campinas - SP, 13076-627, Brasil",
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjhobWc1Y2lxMnVpb3RxNjlkc3BqNzU0MGcgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-20T13:45:00-03:00",
-    "end": "2026-08-20T15:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-20T18:00:00-03:00",
-    "end": "2026-08-20T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjBUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "creative day",
-    "start": "2026-08-21T00:00:00-03:00",
-    "end": "2026-08-22T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA4MjFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-21T12:00:00-03:00",
-    "end": "2026-08-21T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "revisão de métricas e okrs",
-    "start": "2026-08-21T17:00:00-03:00",
-    "end": "2026-08-21T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA4MjFUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-21T18:00:00-03:00",
-    "end": "2026-08-21T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "day off",
-    "start": "2026-08-24T00:00:00-03:00",
-    "end": "2026-08-25T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MjRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-24T12:00:00-03:00",
-    "end": "2026-08-24T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-24T18:00:00-03:00",
-    "end": "2026-08-24T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-25T12:00:00-03:00",
-    "end": "2026-08-25T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjVUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-25T18:00:00-03:00",
-    "end": "2026-08-25T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjVUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-26T12:00:00-03:00",
-    "end": "2026-08-26T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjZUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-26T18:00:00-03:00",
-    "end": "2026-08-26T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjZUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-27T12:00:00-03:00",
-    "end": "2026-08-27T13:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[gravação de conteúdos] @dr. murilo",
-    "start": "2026-08-27T13:30:00-03:00",
-    "end": "2026-08-27T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=M2xhcDhycDk5NzQzN2NuaXR0N2hvZ212bGggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-27T18:00:00-03:00",
-    "end": "2026-08-27T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "creative day",
+    "summary": "off",
     "start": "2026-08-28T00:00:00-03:00",
-    "end": "2026-08-29T00:00:00-03:00",
+    "end": "2026-09-01T00:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA4MjhUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-28T12:00:00-03:00",
-    "end": "2026-08-28T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MjhUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "revisão de métricas e okrs",
-    "start": "2026-08-28T17:00:00-03:00",
-    "end": "2026-08-28T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA4MjhUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-28T18:00:00-03:00",
-    "end": "2026-08-28T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MjhUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXJxZjR2cWtkbWhubjRqczgza3JrY2x0dmsgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[exposição] ateliê casa",
-    "start": "2026-08-29T00:00:00Z",
-    "end": "2026-08-30T00:00:00Z",
-    "allDay": true,
+    "start": "2026-08-29T15:00:00-03:00",
+    "end": "2026-08-29T20:00:00-03:00",
+    "allDay": false,
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=MXZkMnVhNHBkcDQ0Z2s3aWYwZnMybDZjajAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
-    "summary": "focus day",
-    "start": "2026-08-31T00:00:00-03:00",
-    "end": "2026-09-01T00:00:00-03:00",
+    "summary": "[planejamento] q4",
+    "start": "2026-09-01T00:00:00-03:00",
+    "end": "2026-09-02T00:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA4MzFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-08-31T12:00:00-03:00",
-    "end": "2026-08-31T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA4MzFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-08-31T18:00:00-03:00",
-    "end": "2026-08-31T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA4MzFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=MHJiaW1oYjVncjVlMGkxam92Z2pwb2luMjIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -491,7 +33,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MDFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "☕️ café da tarde",
@@ -500,7 +42,19 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MDFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "[reunião mensal] takai <> cassandra",
+    "start": "2026-09-02T10:00:00-03:00",
+    "end": "2026-09-02T10:45:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "cassandravonzuben@gmail.com",
+      "takai@somostakai.com.br"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -509,7 +63,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MDJUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "☕️ café da tarde",
@@ -518,7 +72,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MDJUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -527,7 +81,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MDNUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "☕️ café da tarde",
@@ -536,7 +90,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MDNUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "creative day",
@@ -545,7 +99,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA5MDRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -554,16 +108,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MDRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[planejamento] q4",
-    "start": "2026-09-04T14:00:00-03:00",
-    "end": "2026-09-04T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MHJqdW1pOTc5OWEzNnByZGZyYXRsaW5ia2ggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "☕️ café da tarde",
@@ -572,7 +117,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MDRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "emenda de feriado",
@@ -581,16 +126,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NGdiY2hlNWpnZzBqbml2NTdzM2hoazFwYm0gdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "focus day",
-    "start": "2026-09-07T00:00:00-03:00",
-    "end": "2026-09-08T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA5MDdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -599,7 +135,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MDdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "☕️ café da tarde",
@@ -608,7 +144,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MDdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -617,7 +153,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MDhUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   },
   {
     "summary": "☕️ café da tarde",
@@ -626,6 +162,339 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MDhUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-09T12:00:00-03:00",
+    "end": "2026-09-09T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-09T18:00:00-03:00",
+    "end": "2026-09-09T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-10T12:00:00-03:00",
+    "end": "2026-09-10T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-10T18:00:00-03:00",
+    "end": "2026-09-10T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-09-11T00:00:00-03:00",
+    "end": "2026-09-12T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-11T12:00:00-03:00",
+    "end": "2026-09-11T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-09-11T17:00:00-03:00",
+    "end": "2026-09-11T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-11T18:00:00-03:00",
+    "end": "2026-09-11T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "reinauguração bellacasa",
+    "start": "2026-09-12T08:00:00-03:00",
+    "end": "2026-09-12T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "campinas innovation week",
+    "start": "2026-09-14T00:00:00Z",
+    "end": "2026-09-19T00:00:00Z",
+    "allDay": true,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-09-14T00:00:00-03:00",
+    "end": "2026-09-15T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-14T12:00:00-03:00",
+    "end": "2026-09-14T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-14T18:00:00-03:00",
+    "end": "2026-09-14T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "[gravação de conteúdo] @talita belfiore",
+    "start": "2026-09-15T08:00:00-03:00",
+    "end": "2026-09-15T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-15T12:00:00-03:00",
+    "end": "2026-09-15T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-15T18:00:00-03:00",
+    "end": "2026-09-15T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-16T12:00:00-03:00",
+    "end": "2026-09-16T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-16T18:00:00-03:00",
+    "end": "2026-09-16T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-17T12:00:00-03:00",
+    "end": "2026-09-17T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-17T18:00:00-03:00",
+    "end": "2026-09-17T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-09-18T00:00:00-03:00",
+    "end": "2026-09-19T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-18T12:00:00-03:00",
+    "end": "2026-09-18T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-09-18T17:00:00-03:00",
+    "end": "2026-09-18T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-18T18:00:00-03:00",
+    "end": "2026-09-18T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-09-21T00:00:00-03:00",
+    "end": "2026-09-22T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-21T12:00:00-03:00",
+    "end": "2026-09-21T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-21T18:00:00-03:00",
+    "end": "2026-09-21T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-22T12:00:00-03:00",
+    "end": "2026-09-22T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-22T18:00:00-03:00",
+    "end": "2026-09-22T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-23T12:00:00-03:00",
+    "end": "2026-09-23T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-23T18:00:00-03:00",
+    "end": "2026-09-23T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-24T12:00:00-03:00",
+    "end": "2026-09-24T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-24T18:00:00-03:00",
+    "end": "2026-09-24T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-09-25T00:00:00-03:00",
+    "end": "2026-09-26T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-25T12:00:00-03:00",
+    "end": "2026-09-25T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "revisão de métricas e okrs",
+    "start": "2026-09-25T17:00:00-03:00",
+    "end": "2026-09-25T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-25T18:00:00-03:00",
+    "end": "2026-09-25T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=x"
   }
 ]
