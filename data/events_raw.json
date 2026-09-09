@@ -1,177 +1,12 @@
 [
   {
-    "summary": "off",
-    "start": "2026-08-28T00:00:00-03:00",
-    "end": "2026-09-01T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXJxZjR2cWtkbWhubjRqczgza3JrY2x0dmsgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[exposição] ateliê casa",
-    "start": "2026-08-29T15:00:00-03:00",
-    "end": "2026-08-29T20:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MXZkMnVhNHBkcDQ0Z2s3aWYwZnMybDZjajAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[planejamento] q4",
-    "start": "2026-09-01T00:00:00-03:00",
-    "end": "2026-09-02T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MHJiaW1oYjVncjVlMGkxam92Z2pwb2luMjIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-01T12:00:00-03:00",
-    "end": "2026-09-01T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-01T18:00:00-03:00",
-    "end": "2026-09-01T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "[reunião mensal] takai <> cassandra",
-    "start": "2026-09-02T10:00:00-03:00",
-    "end": "2026-09-02T10:45:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "cassandravonzuben@gmail.com",
-      "takai@somostakai.com.br"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-02T12:00:00-03:00",
-    "end": "2026-09-02T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-02T18:00:00-03:00",
-    "end": "2026-09-02T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-03T12:00:00-03:00",
-    "end": "2026-09-03T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-03T18:00:00-03:00",
-    "end": "2026-09-03T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "creative day",
-    "start": "2026-09-04T00:00:00-03:00",
-    "end": "2026-09-05T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-04T12:00:00-03:00",
-    "end": "2026-09-04T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-04T18:00:00-03:00",
-    "end": "2026-09-04T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "emenda de feriado",
-    "start": "2026-09-05T00:00:00-03:00",
-    "end": "2026-09-08T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-07T12:00:00-03:00",
-    "end": "2026-09-07T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-07T18:00:00-03:00",
-    "end": "2026-09-07T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-08T12:00:00-03:00",
-    "end": "2026-09-08T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-08T18:00:00-03:00",
-    "end": "2026-09-08T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
-  },
-  {
     "summary": "🫕 almoço e descanso",
     "start": "2026-09-09T12:00:00-03:00",
     "end": "2026-09-09T14:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -180,7 +15,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -189,7 +24,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -198,7 +33,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "creative day",
@@ -207,7 +42,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -216,16 +51,16 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
-    "summary": "revisão de métricas e okrs",
+    "summary": "[okrs] revisão semanal",
     "start": "2026-09-11T17:00:00-03:00",
     "end": "2026-09-11T18:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -234,16 +69,16 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "reinauguração bellacasa",
     "start": "2026-09-12T08:00:00-03:00",
-    "end": "2026-09-12T18:00:00-03:00",
+    "end": "2026-09-12T14:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "campinas innovation week",
@@ -252,7 +87,7 @@
     "allDay": true,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "focus day",
@@ -261,7 +96,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -270,7 +105,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -279,7 +114,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "[gravação de conteúdo] @talita belfiore",
@@ -288,7 +123,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -297,7 +132,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -306,7 +141,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -315,7 +150,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -324,7 +159,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -333,7 +168,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -342,7 +177,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "creative day",
@@ -351,7 +186,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -360,16 +195,16 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
-    "summary": "revisão de métricas e okrs",
+    "summary": "[okrs] revisão semanal",
     "start": "2026-09-18T17:00:00-03:00",
     "end": "2026-09-18T18:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -378,7 +213,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "focus day",
@@ -387,7 +222,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -396,7 +231,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -405,7 +240,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -414,7 +249,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -423,7 +258,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -432,7 +267,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -441,7 +276,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -450,7 +285,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -459,7 +294,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "creative day",
@@ -468,7 +303,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -477,16 +312,16 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
-    "summary": "revisão de métricas e okrs",
+    "summary": "[okrs] revisão semanal",
     "start": "2026-09-25T17:00:00-03:00",
     "end": "2026-09-25T18:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
   },
   {
     "summary": "☕️ café da tarde",
@@ -495,6 +330,204 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=x"
+    "htmlLink": null
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-09-28T00:00:00-03:00",
+    "end": "2026-09-29T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-28T12:00:00-03:00",
+    "end": "2026-09-28T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-28T18:00:00-03:00",
+    "end": "2026-09-28T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-29T12:00:00-03:00",
+    "end": "2026-09-29T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-29T18:00:00-03:00",
+    "end": "2026-09-29T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-09-30T12:00:00-03:00",
+    "end": "2026-09-30T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-09-30T18:00:00-03:00",
+    "end": "2026-09-30T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-01T12:00:00-03:00",
+    "end": "2026-10-01T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-01T18:00:00-03:00",
+    "end": "2026-10-01T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-10-02T00:00:00-03:00",
+    "end": "2026-10-03T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-02T12:00:00-03:00",
+    "end": "2026-10-02T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "[okrs] revisão semanal",
+    "start": "2026-10-02T17:00:00-03:00",
+    "end": "2026-10-02T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-02T18:00:00-03:00",
+    "end": "2026-10-02T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-10-05T00:00:00-03:00",
+    "end": "2026-10-06T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-05T12:00:00-03:00",
+    "end": "2026-10-05T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-05T18:00:00-03:00",
+    "end": "2026-10-05T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-06T12:00:00-03:00",
+    "end": "2026-10-06T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-06T18:00:00-03:00",
+    "end": "2026-10-06T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-07T12:00:00-03:00",
+    "end": "2026-10-07T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-07T18:00:00-03:00",
+    "end": "2026-10-07T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-08T12:00:00-03:00",
+    "end": "2026-10-08T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-08T18:00:00-03:00",
+    "end": "2026-10-08T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
   }
 ]
