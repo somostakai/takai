@@ -964,63 +964,29 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdhw3b",
+      "id": "wdwmbdhzzm",
+      "custom_id": null,
+      "name": "[mentoria de evolução] @thomaz soares",
+      "status": "perdido",
+      "url": "https://app.clickup.com/t/wdwmbdhzzm",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1788937200000",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdj29e",
       "custom_id": null,
       "name": "[tutoria] @ebac",
       "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdhw3b",
+      "url": "https://app.clickup.com/t/wdwmbdj29e",
       "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1788937200000",
-      "date_closed": null,
-      "list": "mentorias"
-    },
-    {
-      "id": "wdwmbd6eu7",
-      "custom_id": null,
-      "name": "[análise de linkedin] @talita belfiore",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd6eu7",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "linkedin"
-      ],
-      "due_date": "1788937200000",
-      "date_closed": null,
-      "list": "linkedin"
-    },
-    {
-      "id": "wdwmbd6etz",
-      "custom_id": null,
-      "name": "[captação mobile] @talita belfiore",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd6etz",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1788937200000",
-      "date_closed": null,
-      "list": "fotografia & vídeo"
-    },
-    {
-      "id": "wdwmbdhyk0",
-      "custom_id": null,
-      "name": "[análise de linkedin • mentoria] @talita belfiore",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdhyk0",
-      "priority": "normal",
       "assignees": [
         "Karol"
       ],
@@ -1029,7 +995,7 @@
       ],
       "due_date": "1789023600000",
       "date_closed": null,
-      "list": "linkedin"
+      "list": "mentorias"
     },
     {
       "id": "wdwmbdhbh8",
@@ -1064,23 +1030,6 @@
       "due_date": "1789023600000",
       "date_closed": null,
       "list": "crm"
-    },
-    {
-      "id": "wdwmbdgeff",
-      "custom_id": null,
-      "name": "responder o formulário de transição de carreira",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdgeff",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1789023600000",
-      "date_closed": null,
-      "list": "tarefas"
     },
     {
       "id": "wdwmbdfuma",
@@ -1140,7 +1089,7 @@
       "name": "[branding de marca] @talita belfiore",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbd6ep7",
-      "priority": "urgent",
+      "priority": "high",
       "assignees": [
         "Karol"
       ],
@@ -1226,7 +1175,7 @@
       "name": "[criação de conteúdos] @murilo tudéia",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/86ahrzh97",
-      "priority": "normal",
+      "priority": "urgent",
       "assignees": [
         "Tainara Nogueira",
         "Karol"
@@ -1394,6 +1343,74 @@
       "list": "tarefas"
     },
     {
+      "id": "wdwmbdj04p",
+      "custom_id": null,
+      "name": "[mentoria em grupo] @andré lopes",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdj04p",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdj049",
+      "custom_id": null,
+      "name": "[mentoria em grupo] @kathleen ribeiro",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdj049",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdj03z",
+      "custom_id": null,
+      "name": "[mentoria em grupo] @maria ribeiro",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdj03z",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbd6etz",
+      "custom_id": null,
+      "name": "[captação mobile] @talita belfiore",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbd6etz",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "fotografia & vídeo"
+    },
+    {
       "id": "wdwmbd62jv",
       "custom_id": null,
       "name": "materiais físicos de marca",
@@ -1464,6 +1481,23 @@
       "list": "tarefas"
     },
     {
+      "id": "wdwmbdhyk0",
+      "custom_id": null,
+      "name": "[análise de linkedin • mentoria] @talita belfiore",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdhyk0",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "mentoria"
+      ],
+      "due_date": "1789628400000",
+      "date_closed": null,
+      "list": "linkedin"
+    },
+    {
       "id": "86aj1htqa",
       "custom_id": null,
       "name": "levar proposta de webinar/workshop para @ebac",
@@ -1511,6 +1545,23 @@
         "organização"
       ],
       "due_date": "1789714800000",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdj29m",
+      "custom_id": null,
+      "name": "[criar termo de encerramento do projeto] @bellacasa",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbdj29m",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "documentação"
+      ],
+      "due_date": "1790146800000",
       "date_closed": null,
       "list": "tarefas"
     },

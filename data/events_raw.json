@@ -1,30 +1,12 @@
 [
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-09T12:00:00-03:00",
-    "end": "2026-09-09T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-09T18:00:00-03:00",
-    "end": "2026-09-09T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "🫕 almoço e descanso",
     "start": "2026-09-10T12:00:00-03:00",
     "end": "2026-09-10T14:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MTBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -33,7 +15,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MTBUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "creative day",
@@ -42,7 +24,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA5MTFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -51,7 +33,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MTFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[okrs] revisão semanal",
@@ -60,7 +42,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA5MTFUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -69,7 +51,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MTFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "reinauguração bellacasa",
@@ -78,7 +60,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=MTBwdTB1aThnZmYxMThmNjF0Ym1lcWcyMDUgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "campinas innovation week",
@@ -87,7 +69,7 @@
     "allDay": true,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NDA2ODBjcmFzN3RuZHBzZmNkdmg1bnRhMmggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "focus day",
@@ -96,7 +78,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA5MTRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -105,7 +87,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MTRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -114,7 +96,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MTRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[gravação de conteúdo] @talita belfiore",
@@ -123,7 +105,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NWtvdmx2YTFtc3E0YWNxbjZ0NjBzbHJubW8gdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -132,7 +114,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MTVUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -141,7 +123,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MTVUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -150,7 +132,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MTZUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -159,7 +141,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MTZUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -168,7 +150,19 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MTdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[mentoria de linkedin] takai <> @talita belfiore",
+    "start": "2026-09-17T15:00:00-03:00",
+    "end": "2026-09-17T15:45:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "talitabelfiore17@gmail.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=ZWx1bDc3MW1vcTUyZHNiZGZwMWh2cTZodDAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -177,7 +171,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MTdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "creative day",
@@ -186,7 +180,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA5MThUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -195,7 +189,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MThUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[okrs] revisão semanal",
@@ -204,7 +198,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA5MThUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -213,7 +207,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MThUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "focus day",
@@ -222,7 +216,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA5MjFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -231,7 +225,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MjFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -240,7 +234,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MjFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -249,7 +243,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MjJUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -258,7 +252,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MjJUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -267,7 +261,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MjNUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -276,7 +270,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MjNUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -285,7 +279,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MjRUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -294,7 +288,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MjRUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "creative day",
@@ -303,7 +297,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjA5MjVUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -312,7 +306,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MjVUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[okrs] revisão semanal",
@@ -321,7 +315,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjA5MjVUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -330,7 +324,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MjVUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "focus day",
@@ -339,7 +333,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjA5MjhUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -348,7 +342,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MjhUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -357,7 +351,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MjhUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -366,7 +360,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MjlUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -375,7 +369,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MjlUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -384,7 +378,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjA5MzBUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -393,7 +387,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjA5MzBUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -402,7 +396,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjEwMDFUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -411,7 +405,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjEwMDFUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "creative day",
@@ -420,7 +414,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjEwMDJUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -429,7 +423,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjEwMDJUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[okrs] revisão semanal",
@@ -438,7 +432,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjEwMDJUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -447,7 +441,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjEwMDJUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "focus day",
@@ -456,7 +450,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEwMDVUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -465,7 +459,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjEwMDVUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -474,7 +468,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjEwMDVUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -483,7 +477,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjEwMDZUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -492,7 +486,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjEwMDZUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -501,7 +495,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjEwMDdUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -510,7 +504,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjEwMDdUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
@@ -519,7 +513,7 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjEwMDhUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -528,6 +522,42 @@
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": null
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjEwMDhUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-10-09T00:00:00-03:00",
+    "end": "2026-10-10T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjEwMDlUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-09T12:00:00-03:00",
+    "end": "2026-10-09T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXRxYTU3OTAzbmk4djY0ZzJsNWwyb2EzYW9fMjAyNjEwMDlUMTUwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[okrs] revisão semanal",
+    "start": "2026-10-09T17:00:00-03:00",
+    "end": "2026-10-09T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=Mmt0aGJvcG1qMXI2aDg5ZWlhcjFwZzdiMXNfMjAyNjEwMDlUMjAwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-09T18:00:00-03:00",
+    "end": "2026-10-09T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a2E5ZjRpMDhzNnI2NHZxZnNiZTBvNnM1c2dfMjAyNjEwMDlUMjEwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   }
 ]
