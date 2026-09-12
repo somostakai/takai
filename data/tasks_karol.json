@@ -981,6 +981,58 @@
       "list": "crm"
     },
     {
+      "id": "86aj320zx",
+      "custom_id": null,
+      "name": "[cobertura de evento] @bellacasa",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86aj320zx",
+      "priority": "high",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "evento"
+      ],
+      "due_date": "1789196400000",
+      "date_closed": null,
+      "list": "fotografia & vídeo"
+    },
+    {
+      "id": "wdwmbdjc9x",
+      "custom_id": null,
+      "name": "[vídeos profissionais] @gisela meschiatte",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdjc9x",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdjc9f",
+      "custom_id": null,
+      "name": "[vídeos profissionais] @bruna begossi",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdjc9f",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
       "id": "wdwmbdj8m1",
       "custom_id": null,
       "name": "[tutoria] @ebac",
@@ -993,148 +1045,9 @@
       "tags": [
         "mentoria"
       ],
-      "due_date": "1789110000000",
+      "due_date": "1789369200000",
       "date_closed": null,
       "list": "mentorias"
-    },
-    {
-      "id": "wdwmbddj8t",
-      "custom_id": null,
-      "name": "carta de carreira para segunda",
-      "status": "em andamento",
-      "url": "https://app.clickup.com/t/wdwmbddj8t",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdbrdx",
-      "custom_id": null,
-      "name": "[branding de marca] @ana prevatto",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdbrdx",
-      "priority": "high",
-      "assignees": [
-        "Karol",
-        "Talita Dovigo"
-      ],
-      "tags": [
-        "identidade"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "branding de marca"
-    },
-    {
-      "id": "86ahxjck1",
-      "custom_id": null,
-      "name": "revisão de métricas e análise dos okrs",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/86ahxjck1",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "86ahxjc7b",
-      "custom_id": null,
-      "name": "estudo semanal",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/86ahxjc7b",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estudo"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "estudos"
-    },
-    {
-      "id": "86ahrzh97",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @murilo tudéia",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86ahrzh97",
-      "priority": "urgent",
-      "assignees": [
-        "Tainara Nogueira",
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "murilo tudéia"
-    },
-    {
-      "id": "86af4h2eb",
-      "custom_id": null,
-      "name": "organização do conteúdo da semana (instagram e linkedin)",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/86af4h2eb",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "86af46ztv",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/86af46ztv",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "86abawwr6",
-      "custom_id": null,
-      "name": "repaginar o curso de transição de carreira e divulgar",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/86abawwr6",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1789110000000",
-      "date_closed": null,
-      "list": "tarefas"
     },
     {
       "id": "wdwmbdj04p",
@@ -1205,27 +1118,10 @@
       "list": "olhar da diversidade"
     },
     {
-      "id": "wdwmbdgf3v",
-      "custom_id": null,
-      "name": "[branding e fotos profissionais] @karina lopes",
-      "status": "follow-up",
-      "url": "https://app.clickup.com/t/wdwmbdgf3v",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1789369200000",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
       "id": "wdwmbdfuma",
       "custom_id": null,
       "name": "[branding e fotos profissionais] @ramon schwenck",
-      "status": "follow-up",
+      "status": "perdido",
       "url": "https://app.clickup.com/t/wdwmbdfuma",
       "priority": "normal",
       "assignees": [
@@ -1237,6 +1133,24 @@
       "due_date": "1789369200000",
       "date_closed": null,
       "list": "crm"
+    },
+    {
+      "id": "wdwmbdbrdx",
+      "custom_id": null,
+      "name": "[branding de marca] @ana prevatto",
+      "status": "bloqueado",
+      "url": "https://app.clickup.com/t/wdwmbdbrdx",
+      "priority": "high",
+      "assignees": [
+        "Karol",
+        "Talita Dovigo"
+      ],
+      "tags": [
+        "identidade"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "branding de marca"
     },
     {
       "id": "wdwmbd924b",
@@ -1430,6 +1344,23 @@
       "list": "tarefas"
     },
     {
+      "id": "wdwmbdjedw",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdjedw",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1789455600000",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbdhyk0",
       "custom_id": null,
       "name": "[análise de linkedin • mentoria] @talita belfiore",
@@ -1515,6 +1446,57 @@
       "list": "tarefas"
     },
     {
+      "id": "wdwmbdjedx",
+      "custom_id": null,
+      "name": "revisão de métricas e análise dos okrs",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdjedx",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1789714800000",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbddj8t",
+      "custom_id": null,
+      "name": "carta de carreira para segunda",
+      "status": "em andamento",
+      "url": "https://app.clickup.com/t/wdwmbddj8t",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1789714800000",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "86ahxjc7b",
+      "custom_id": null,
+      "name": "estudo semanal",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/86ahxjc7b",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estudo"
+      ],
+      "due_date": "1789714800000",
+      "date_closed": null,
+      "list": "estudos"
+    },
+    {
       "id": "86ahk8h4y",
       "custom_id": null,
       "name": "realizar o pagamento do simples nacional e da contadora",
@@ -1526,6 +1508,23 @@
       ],
       "tags": [
         "organização"
+      ],
+      "due_date": "1789714800000",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "86af4h2eb",
+      "custom_id": null,
+      "name": "organização do conteúdo da semana (instagram e linkedin)",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/86af4h2eb",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
       ],
       "due_date": "1789714800000",
       "date_closed": null,
@@ -1547,6 +1546,41 @@
       "due_date": "1789714800000",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "86abawwr6",
+      "custom_id": null,
+      "name": "repaginar o curso de transição de carreira e divulgar",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/86abawwr6",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1789714800000",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdgf3v",
+      "custom_id": null,
+      "name": "[branding e fotos profissionais] @karina lopes",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdgf3v",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1789974000000",
+      "date_closed": null,
+      "list": "crm"
     },
     {
       "id": "wdwmbdj29m",
@@ -1639,7 +1673,7 @@
       "id": "wdwmbdgyzn",
       "custom_id": null,
       "name": "[mentoria de transição] @ronan emiliano",
-      "status": "qualificação",
+      "status": "proposta",
       "url": "https://app.clickup.com/t/wdwmbdgyzn",
       "priority": "normal",
       "assignees": [
