@@ -1,14 +1,5 @@
 [
   {
-    "summary": "[cobertura de evento] reinauguração bellacasa",
-    "start": "2026-09-12T09:00:00-03:00",
-    "end": "2026-09-12T12:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
     "summary": "campinas innovation week",
     "start": "2026-09-14T00:00:00Z",
     "end": "2026-09-19T00:00:00Z",
@@ -513,6 +504,33 @@
     "summary": "☕️ café da tarde",
     "start": "2026-10-09T18:00:00-03:00",
     "end": "2026-10-09T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-10-12T00:00:00-03:00",
+    "end": "2026-10-13T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-12T12:00:00-03:00",
+    "end": "2026-10-12T14:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-12T18:00:00-03:00",
+    "end": "2026-10-12T18:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
