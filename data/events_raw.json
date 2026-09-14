@@ -1,14 +1,5 @@
 [
   {
-    "summary": "campinas innovation week",
-    "start": "2026-09-14T00:00:00Z",
-    "end": "2026-09-19T00:00:00Z",
-    "allDay": true,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
     "summary": "focus day",
     "start": "2026-09-14T00:00:00-03:00",
     "end": "2026-09-15T00:00:00-03:00",
@@ -19,8 +10,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-14T12:00:00-03:00",
-    "end": "2026-09-14T14:00:00-03:00",
+    "start": "2026-09-14T12:30:00-03:00",
+    "end": "2026-09-14T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -28,7 +19,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-14T18:00:00-03:00",
+    "start": "2026-09-14T17:30:00-03:00",
     "end": "2026-09-14T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -46,8 +37,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-15T12:00:00-03:00",
-    "end": "2026-09-15T14:00:00-03:00",
+    "start": "2026-09-16T12:30:00-03:00",
+    "end": "2026-09-16T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -55,25 +46,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-15T18:00:00-03:00",
-    "end": "2026-09-15T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-16T12:00:00-03:00",
-    "end": "2026-09-16T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-16T18:00:00-03:00",
+    "start": "2026-09-16T17:30:00-03:00",
     "end": "2026-09-16T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -82,8 +55,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-17T12:00:00-03:00",
-    "end": "2026-09-17T14:00:00-03:00",
+    "start": "2026-09-17T12:30:00-03:00",
+    "end": "2026-09-17T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -103,7 +76,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-17T18:00:00-03:00",
+    "start": "2026-09-17T17:30:00-03:00",
     "end": "2026-09-17T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -120,27 +93,9 @@
     "htmlLink": null
   },
   {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-09-18T12:00:00-03:00",
-    "end": "2026-09-18T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "[okrs] revisão semanal",
-    "start": "2026-09-18T17:00:00-03:00",
-    "end": "2026-09-18T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-09-18T18:00:00-03:00",
-    "end": "2026-09-18T18:30:00-03:00",
+    "summary": "[evento] campinas innovation week",
+    "start": "2026-09-18T10:00:00-03:00",
+    "end": "2026-09-18T16:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -157,8 +112,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-21T12:00:00-03:00",
-    "end": "2026-09-21T14:00:00-03:00",
+    "start": "2026-09-21T12:30:00-03:00",
+    "end": "2026-09-21T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -166,7 +121,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-21T18:00:00-03:00",
+    "start": "2026-09-21T17:30:00-03:00",
     "end": "2026-09-21T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -187,8 +142,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-22T12:00:00-03:00",
-    "end": "2026-09-22T14:00:00-03:00",
+    "start": "2026-09-22T12:30:00-03:00",
+    "end": "2026-09-22T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -196,7 +151,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-22T18:00:00-03:00",
+    "start": "2026-09-22T17:30:00-03:00",
     "end": "2026-09-22T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -205,8 +160,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-23T12:00:00-03:00",
-    "end": "2026-09-23T14:00:00-03:00",
+    "start": "2026-09-23T12:30:00-03:00",
+    "end": "2026-09-23T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -214,7 +169,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-23T18:00:00-03:00",
+    "start": "2026-09-23T17:30:00-03:00",
     "end": "2026-09-23T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -223,8 +178,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-24T12:00:00-03:00",
-    "end": "2026-09-24T14:00:00-03:00",
+    "start": "2026-09-24T12:30:00-03:00",
+    "end": "2026-09-24T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -232,7 +187,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-24T18:00:00-03:00",
+    "start": "2026-09-24T17:30:00-03:00",
     "end": "2026-09-24T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -250,17 +205,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-25T12:00:00-03:00",
-    "end": "2026-09-25T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "[okrs] revisão semanal",
-    "start": "2026-09-25T17:00:00-03:00",
-    "end": "2026-09-25T18:00:00-03:00",
+    "start": "2026-09-25T12:30:00-03:00",
+    "end": "2026-09-25T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -268,7 +214,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-25T18:00:00-03:00",
+    "start": "2026-09-25T17:30:00-03:00",
     "end": "2026-09-25T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -286,8 +232,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-28T12:00:00-03:00",
-    "end": "2026-09-28T14:00:00-03:00",
+    "start": "2026-09-28T12:30:00-03:00",
+    "end": "2026-09-28T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -295,7 +241,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-28T18:00:00-03:00",
+    "start": "2026-09-28T17:30:00-03:00",
     "end": "2026-09-28T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -304,8 +250,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-29T12:00:00-03:00",
-    "end": "2026-09-29T14:00:00-03:00",
+    "start": "2026-09-29T12:30:00-03:00",
+    "end": "2026-09-29T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -313,7 +259,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-29T18:00:00-03:00",
+    "start": "2026-09-29T17:30:00-03:00",
     "end": "2026-09-29T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -322,8 +268,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-09-30T12:00:00-03:00",
-    "end": "2026-09-30T14:00:00-03:00",
+    "start": "2026-09-30T12:30:00-03:00",
+    "end": "2026-09-30T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -331,7 +277,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-09-30T18:00:00-03:00",
+    "start": "2026-09-30T17:30:00-03:00",
     "end": "2026-09-30T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -340,8 +286,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-01T12:00:00-03:00",
-    "end": "2026-10-01T14:00:00-03:00",
+    "start": "2026-10-01T12:30:00-03:00",
+    "end": "2026-10-01T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -349,7 +295,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-01T18:00:00-03:00",
+    "start": "2026-10-01T17:30:00-03:00",
     "end": "2026-10-01T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -367,17 +313,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-02T12:00:00-03:00",
-    "end": "2026-10-02T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "[okrs] revisão semanal",
-    "start": "2026-10-02T17:00:00-03:00",
-    "end": "2026-10-02T18:00:00-03:00",
+    "start": "2026-10-02T12:30:00-03:00",
+    "end": "2026-10-02T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -385,7 +322,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-02T18:00:00-03:00",
+    "start": "2026-10-02T17:30:00-03:00",
     "end": "2026-10-02T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -403,8 +340,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-05T12:00:00-03:00",
-    "end": "2026-10-05T14:00:00-03:00",
+    "start": "2026-10-05T12:30:00-03:00",
+    "end": "2026-10-05T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -412,7 +349,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-05T18:00:00-03:00",
+    "start": "2026-10-05T17:30:00-03:00",
     "end": "2026-10-05T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -421,8 +358,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-06T12:00:00-03:00",
-    "end": "2026-10-06T14:00:00-03:00",
+    "start": "2026-10-06T12:30:00-03:00",
+    "end": "2026-10-06T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -430,7 +367,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-06T18:00:00-03:00",
+    "start": "2026-10-06T17:30:00-03:00",
     "end": "2026-10-06T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -439,8 +376,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-07T12:00:00-03:00",
-    "end": "2026-10-07T14:00:00-03:00",
+    "start": "2026-10-07T12:30:00-03:00",
+    "end": "2026-10-07T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -448,7 +385,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-07T18:00:00-03:00",
+    "start": "2026-10-07T17:30:00-03:00",
     "end": "2026-10-07T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -457,8 +394,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-08T12:00:00-03:00",
-    "end": "2026-10-08T14:00:00-03:00",
+    "start": "2026-10-08T12:30:00-03:00",
+    "end": "2026-10-08T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -466,7 +403,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-08T18:00:00-03:00",
+    "start": "2026-10-08T17:30:00-03:00",
     "end": "2026-10-08T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -484,17 +421,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-09T12:00:00-03:00",
-    "end": "2026-10-09T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": null
-  },
-  {
-    "summary": "[okrs] revisão semanal",
-    "start": "2026-10-09T17:00:00-03:00",
-    "end": "2026-10-09T18:00:00-03:00",
+    "start": "2026-10-09T12:30:00-03:00",
+    "end": "2026-10-09T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -502,7 +430,7 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-09T18:00:00-03:00",
+    "start": "2026-10-09T17:30:00-03:00",
     "end": "2026-10-09T18:30:00-03:00",
     "allDay": false,
     "location": null,
@@ -520,8 +448,8 @@
   },
   {
     "summary": "🫕 almoço e descanso",
-    "start": "2026-10-12T12:00:00-03:00",
-    "end": "2026-10-12T14:00:00-03:00",
+    "start": "2026-10-12T12:30:00-03:00",
+    "end": "2026-10-12T13:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
@@ -529,8 +457,26 @@
   },
   {
     "summary": "☕️ café da tarde",
-    "start": "2026-10-12T18:00:00-03:00",
+    "start": "2026-10-12T17:30:00-03:00",
     "end": "2026-10-12T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-10-13T12:30:00-03:00",
+    "end": "2026-10-13T13:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": null
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-10-13T17:30:00-03:00",
+    "end": "2026-10-13T18:30:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],

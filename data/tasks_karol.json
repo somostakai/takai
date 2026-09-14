@@ -981,24 +981,6 @@
       "list": "crm"
     },
     {
-      "id": "86aj320zx",
-      "custom_id": null,
-      "name": "[cobertura de evento] @bellacasa",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86aj320zx",
-      "priority": "high",
-      "assignees": [
-        "Tainara Nogueira",
-        "Karol"
-      ],
-      "tags": [
-        "evento"
-      ],
-      "due_date": "1789196400000",
-      "date_closed": null,
-      "list": "fotografia & vídeo"
-    },
-    {
       "id": "wdwmbdjc9x",
       "custom_id": null,
       "name": "[vídeos profissionais] @gisela meschiatte",
@@ -1237,6 +1219,24 @@
       "due_date": "1789369200000",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "86aj320zx",
+      "custom_id": null,
+      "name": "[cobertura de evento] @bellacasa",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86aj320zx",
+      "priority": "high",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "evento"
+      ],
+      "due_date": "1789369200000",
+      "date_closed": null,
+      "list": "fotografia & vídeo"
     },
     {
       "id": "86ahutae3",
