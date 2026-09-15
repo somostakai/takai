@@ -981,40 +981,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdjedw",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdjedw",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1789369200000",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdj8m1",
-      "custom_id": null,
-      "name": "[tutoria] @ebac",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdj8m1",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1789369200000",
-      "date_closed": null,
-      "list": "mentorias"
-    },
-    {
       "id": "wdwmbdfuma",
       "custom_id": null,
       "name": "[branding e fotos profissionais] @ramon schwenck",
@@ -1037,7 +1003,7 @@
       "name": "[captação mobile] @talita belfiore",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbd6etz",
-      "priority": "normal",
+      "priority": "urgent",
       "assignees": [
         "Karol",
         "Tainara Nogueira"
@@ -1045,62 +1011,26 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1789369200000",
+      "due_date": "1789455600000",
       "date_closed": null,
       "list": "fotografia & vídeo"
     },
     {
-      "id": "86ahrw421",
+      "id": "wdwmbdjt88",
       "custom_id": null,
-      "name": "[criação de conteúdos] @stela maris",
+      "name": "[tutoria] @ebac",
       "status": "priorizado",
-      "url": "https://app.clickup.com/t/86ahrw421",
+      "url": "https://app.clickup.com/t/wdwmbdjt88",
       "priority": "normal",
       "assignees": [
         "Karol"
       ],
       "tags": [
-        "conteúdo"
+        "mentoria"
       ],
-      "due_date": "1789369200000",
+      "due_date": "1789542000000",
       "date_closed": null,
-      "list": "stela maris"
-    },
-    {
-      "id": "86ahadk2g",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @gladys ribeiro",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86ahadk2g",
-      "priority": "high",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1789369200000",
-      "date_closed": null,
-      "list": "gladys ribeiro"
-    },
-    {
-      "id": "86ag0002f",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @cassandra",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86ag0002f",
-      "priority": "high",
-      "assignees": [
-        "Tainara Nogueira",
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1789369200000",
-      "date_closed": null,
-      "list": "cassandra"
+      "list": "mentorias"
     },
     {
       "id": "wdwmbdjkrj",
@@ -1341,6 +1271,76 @@
       "due_date": "1789542000000",
       "date_closed": null,
       "list": "site institucional"
+    },
+    {
+      "id": "86ahrw421",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @stela maris",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/86ahrw421",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1789542000000",
+      "date_closed": null,
+      "list": "stela maris"
+    },
+    {
+      "id": "86ahadk2g",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @gladys ribeiro",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86ahadk2g",
+      "priority": "high",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1789542000000",
+      "date_closed": null,
+      "list": "gladys ribeiro"
+    },
+    {
+      "id": "86ag0002f",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @cassandra",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86ag0002f",
+      "priority": "high",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1789542000000",
+      "date_closed": null,
+      "list": "cassandra"
+    },
+    {
+      "id": "wdwmbdjme6",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdjme6",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1789628400000",
+      "date_closed": null,
+      "list": "tarefas"
     },
     {
       "id": "wdwmbdhyk0",
