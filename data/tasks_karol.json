@@ -998,24 +998,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbd6etz",
-      "custom_id": null,
-      "name": "[captação mobile] @talita belfiore",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd6etz",
-      "priority": "urgent",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1789455600000",
-      "date_closed": null,
-      "list": "fotografia & vídeo"
-    },
-    {
       "id": "wdwmbdjt88",
       "custom_id": null,
       "name": "[tutoria] @ebac",
@@ -1358,6 +1340,24 @@
       "due_date": "1789628400000",
       "date_closed": null,
       "list": "linkedin"
+    },
+    {
+      "id": "wdwmbd6etz",
+      "custom_id": null,
+      "name": "[captação mobile] @talita belfiore",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbd6etz",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1789628400000",
+      "date_closed": null,
+      "list": "fotografia & vídeo"
     },
     {
       "id": "wdwmbd5nn4",
