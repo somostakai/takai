@@ -1372,25 +1372,6 @@
       "list": "linkedin"
     },
     {
-      "id": "wdwmbdgf3v",
-      "custom_id": null,
-      "name": "[branding e social media] @karina lopes",
-      "status": "follow-up",
-      "url": "https://app.clickup.com/t/wdwmbdgf3v",
-      "priority": "urgent",
-      "assignees": [
-        "Karol",
-        "takai"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1790146800000",
-      "date_updated": "1790126249977",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
       "id": "wdwmbdbrdx",
       "custom_id": null,
       "name": "[branding de marca] @ana prevatto",
@@ -1499,6 +1480,25 @@
       "date_updated": "1789857426848",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdgf3v",
+      "custom_id": null,
+      "name": "[branding e social media] @karina lopes",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdgf3v",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "takai"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1790319600000",
+      "date_updated": "1790164202989",
+      "date_closed": null,
+      "list": "crm"
     },
     {
       "id": "wdwmbddj8t",
