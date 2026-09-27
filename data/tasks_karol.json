@@ -1191,25 +1191,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdkvb5",
-      "custom_id": null,
-      "name": "comentar nas publicações dos clientes",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdkvb5",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1790319600000",
-      "date_updated": "1790257264146",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
       "id": "wdwmbdkjft",
       "custom_id": null,
       "name": "revisão de métricas e análise dos okrs",
@@ -1745,6 +1726,25 @@
       "list": "gladys ribeiro"
     },
     {
+      "id": "wdwmbdmqf1",
+      "custom_id": null,
+      "name": "comentar nas publicações dos clientes",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdmqf1",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1790751600000",
+      "date_updated": "1790434614955",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbdmppu",
       "custom_id": null,
       "name": "[acompanhamento instagram] @stela maris",
@@ -1770,8 +1770,8 @@
       "url": "https://app.clickup.com/t/wdwmbdknt5",
       "priority": "urgent",
       "assignees": [
-        "Karol",
-        "Tainara Nogueira"
+        "Tainara Nogueira",
+        "Karol"
       ],
       "tags": [
         "conteúdo"
