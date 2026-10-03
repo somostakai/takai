@@ -1,45 +1,5 @@
 [
   {
-    "summary": "creative day",
-    "start": "2026-10-02T00:00:00-03:00",
-    "end": "2026-10-03T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjEwMDJUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[reunião] trio parada dura",
-    "start": "2026-10-02T11:30:00-03:00",
-    "end": "2026-10-02T12:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "talitadovigo12@gmail.com",
-      "takai@somostakai.com.br",
-      "tainara.nog@gmail.com"
-    ],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MW1ua3E1bzdkZ2Zibm1kZnFhOGFwNnY4b3UgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-10-02T12:30:00-03:00",
-    "end": "2026-10-02T13:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjEwMDJUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-10-02T17:30:00-03:00",
-    "end": "2026-10-02T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjEwMDJUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
     "summary": "focus day",
     "start": "2026-10-05T00:00:00-03:00",
     "end": "2026-10-06T00:00:00-03:00",
@@ -163,6 +123,15 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjEwMDhUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[aula online] arte, IA e memória",
+    "start": "2026-10-08T19:30:00-03:00",
+    "end": "2026-10-08T21:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=MTczMXRiM3ZpamlwbGFrcXBxbXRhajBjb3EgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "creative day",
@@ -424,6 +393,15 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjEwMjNUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[gravação de conteúdo] @stela store",
+    "start": "2026-10-23T17:00:00-03:00",
+    "end": "2026-10-23T17:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=ZTBvM3YwNHRicTRwNWJ1dnVwbjJmYWMzNTAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
