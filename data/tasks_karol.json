@@ -1209,24 +1209,6 @@
       "list": "tarefas"
     },
     {
-      "id": "wdwmbdmbuk",
-      "custom_id": null,
-      "name": "[aula de otomodelação] @samuel thobias",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdmbuk",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1791010800000",
-      "date_updated": "1790987898040",
-      "date_closed": null,
-      "list": "samuel thobias"
-    },
-    {
       "id": "86af473r0",
       "custom_id": null,
       "name": "criação de conteúdo para o instagram",
@@ -1379,8 +1361,8 @@
       "url": "https://app.clickup.com/t/wdwmbdnd15",
       "priority": "low",
       "assignees": [
-        "Karol",
-        "Tainara Nogueira"
+        "Tainara Nogueira",
+        "Karol"
       ],
       "tags": [
         "estratégia"
@@ -1465,6 +1447,25 @@
       "list": "branding de marca"
     },
     {
+      "id": "wdwmbdmbuk",
+      "custom_id": null,
+      "name": "[aula de otomodelação] @samuel thobias",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdmbuk",
+      "priority": "urgent",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1791183600000",
+      "date_updated": "1791057714541",
+      "date_closed": null,
+      "list": "samuel thobias"
+    },
+    {
       "id": "wdwmbdknt5",
       "custom_id": null,
       "name": "[criação de conteúdos] @cassandra",
@@ -1472,8 +1473,8 @@
       "url": "https://app.clickup.com/t/wdwmbdknt5",
       "priority": "normal",
       "assignees": [
-        "Tainara Nogueira",
-        "Karol"
+        "Karol",
+        "Tainara Nogueira"
       ],
       "tags": [
         "conteúdo"
@@ -1971,8 +1972,8 @@
       "url": "https://app.clickup.com/t/wdwmbdn7kn",
       "priority": "normal",
       "assignees": [
-        "Karol",
-        "Tainara Nogueira"
+        "Tainara Nogueira",
+        "Karol"
       ],
       "tags": [
         "conteúdo"
