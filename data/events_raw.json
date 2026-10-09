@@ -1,50 +1,5 @@
 [
   {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-10-08T12:00:00-03:00",
-    "end": "2026-10-08T12:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjEwMDhUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[reunião] visitar sala comercial",
-    "start": "2026-10-08T13:00:00-03:00",
-    "end": "2026-10-08T14:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=M3MxcW9udjhuZ3EzbjJhNTFqaTI3a2hyMzAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[gravação de conteúdo] @bellacasa",
-    "start": "2026-10-08T14:00:00-03:00",
-    "end": "2026-10-08T18:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NTk2NHJwaWFxNTRvNjZyMWkxcXRhZzc4YWUgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-10-08T18:00:00-03:00",
-    "end": "2026-10-08T19:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjEwMDhUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[aula online] arte, IA e memória",
-    "start": "2026-10-08T19:30:00-03:00",
-    "end": "2026-10-08T21:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MTczMXRiM3ZpamlwbGFrcXBxbXRhajBjb3EgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
     "summary": "creative day",
     "start": "2026-10-09T00:00:00-03:00",
     "end": "2026-10-10T00:00:00-03:00",
@@ -79,33 +34,6 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjEwMDlUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "focus day",
-    "start": "2026-10-12T00:00:00-03:00",
-    "end": "2026-10-13T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEwMTJUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-10-12T12:30:00-03:00",
-    "end": "2026-10-12T13:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjEwMTJUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-10-12T17:30:00-03:00",
-    "end": "2026-10-12T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjEwMTJUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "🫕 almoço e descanso",
