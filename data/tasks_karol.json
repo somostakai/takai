@@ -284,6 +284,70 @@
       "list": "crm"
     },
     {
+      "id": "86afnnfbz",
+      "custom_id": null,
+      "name": "[tl] Luiza — Fotografia artística",
+      "status": "perdido",
+      "url": "https://app.clickup.com/t/86afnnfbz",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": "1772694000000",
+      "date_updated": "1772721382758",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "86ag1gaa8",
+      "custom_id": null,
+      "name": "[tl] Giorgia — Pacote de posts para o instagram",
+      "status": "perdido",
+      "url": "https://app.clickup.com/t/86ag1gaa8",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": "1773212400000",
+      "date_updated": "1773084231653",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "86afqbmak",
+      "custom_id": null,
+      "name": "[tl] Fabiana Fiuza — Vídeos",
+      "status": "perdido",
+      "url": "https://app.clickup.com/t/86afqbmak",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": "1773298800000",
+      "date_updated": "1773267104910",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "86afyaytp",
+      "custom_id": null,
+      "name": "[tp] Glauber — Projeto de branding",
+      "status": "perdido",
+      "url": "https://app.clickup.com/t/86afyaytp",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": "1773385200000",
+      "date_updated": "1773405227397",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
       "id": "86ag1x8yb",
       "custom_id": null,
       "name": "[tp] Mariana — Mentoria de evolução profissional",
@@ -1145,28 +1209,10 @@
       "list": "mentorias"
     },
     {
-      "id": "wdwmbdpn24",
-      "custom_id": null,
-      "name": "[projeto com ia] @pedro turra",
-      "status": "proposta",
-      "url": "https://app.clickup.com/t/wdwmbdpn24",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1791529200000",
-      "date_updated": "1791506671988",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
       "id": "wdwmbdpj5x",
       "custom_id": null,
       "name": "[vídeos] @cecília odo",
-      "status": "qualificação",
+      "status": "perdido",
       "url": "https://app.clickup.com/t/wdwmbdpj5x",
       "priority": "urgent",
       "assignees": [
@@ -1176,61 +1222,7 @@
         "comercial"
       ],
       "due_date": "1791529200000",
-      "date_updated": "1791511371666",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
-      "id": "wdwmbdpdpy",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdpdpy",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1791529200000",
-      "date_updated": "1791511330037",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdp89z",
-      "custom_id": null,
-      "name": "revisão de métricas e análise dos okrs",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdp89z",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1791529200000",
-      "date_updated": "1791511319766",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdp639",
-      "custom_id": null,
-      "name": "[branding] @marcella maia",
-      "status": "follow-up",
-      "url": "https://app.clickup.com/t/wdwmbdp639",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1791529200000",
-      "date_updated": "1791506747639",
+      "date_updated": "1791551380103",
       "date_closed": null,
       "list": "crm"
     },
@@ -1252,24 +1244,6 @@
       "date_updated": "1791475215354",
       "date_closed": null,
       "list": "bellacasa"
-    },
-    {
-      "id": "wdwmbdgyzn",
-      "custom_id": null,
-      "name": "[mentoria de transição] @ronan emiliano",
-      "status": "follow-up",
-      "url": "https://app.clickup.com/t/wdwmbdgyzn",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1791529200000",
-      "date_updated": "1791511344450",
-      "date_closed": null,
-      "list": "crm"
     },
     {
       "id": "86af4h2eb",
@@ -1305,6 +1279,24 @@
       ],
       "due_date": "1791529200000",
       "date_updated": "1791511561804",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdqyya",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdqyya",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1791874800000",
+      "date_updated": "1791570725006",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -1363,6 +1355,43 @@
       "list": "bellacasa"
     },
     {
+      "id": "wdwmbdpn24",
+      "custom_id": null,
+      "name": "[projeto com ia] @pedro turra",
+      "status": "onboarding",
+      "url": "https://app.clickup.com/t/wdwmbdpn24",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "takai"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1791874800000",
+      "date_updated": "1791578960709",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdp639",
+      "custom_id": null,
+      "name": "[branding] @marcella maia",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdp639",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1791874800000",
+      "date_updated": "1791549247932",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
       "id": "wdwmbdp5gh",
       "custom_id": null,
       "name": "confirmar aluguel do studio",
@@ -1418,25 +1447,6 @@
       "list": "branding de marca"
     },
     {
-      "id": "wdwmbdktxt",
-      "custom_id": null,
-      "name": "[vídeos] @ksdy sousa",
-      "status": "proposta",
-      "url": "https://app.clickup.com/t/wdwmbdktxt",
-      "priority": "urgent",
-      "assignees": [
-        "Karol",
-        "takai"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1791874800000",
-      "date_updated": "1791507273123",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
       "id": "wdwmbdknt5",
       "custom_id": null,
       "name": "[criação de conteúdos] @cassandra",
@@ -1454,6 +1464,25 @@
       "date_updated": "1791227382651",
       "date_closed": null,
       "list": "cassandra"
+    },
+    {
+      "id": "wdwmbdgyzn",
+      "custom_id": null,
+      "name": "[mentoria de transição] @ronan emiliano",
+      "status": "fechamento",
+      "url": "https://app.clickup.com/t/wdwmbdgyzn",
+      "priority": "high",
+      "assignees": [
+        "Karol",
+        "takai"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1791874800000",
+      "date_updated": "1791550976054",
+      "date_closed": null,
+      "list": "crm"
     },
     {
       "id": "wdwmbdbrdx",
@@ -1603,6 +1632,43 @@
       "date_updated": "1791506542065",
       "date_closed": null,
       "list": "cassandra"
+    },
+    {
+      "id": "wdwmbdktxt",
+      "custom_id": null,
+      "name": "[vídeos] @ksdy sousa",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdktxt",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "takai"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1792047600000",
+      "date_updated": "1791560736098",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdqz2u",
+      "custom_id": null,
+      "name": "revisão de métricas e análise dos okrs",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdqz2u",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792134000000",
+      "date_updated": "1791571868955",
+      "date_closed": null,
+      "list": "tarefas"
     },
     {
       "id": "wdwmbdqmc2",
