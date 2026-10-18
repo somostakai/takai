@@ -11,40 +11,22 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=Zjk3M3A0NXVvMGxrcjI1Z3ZlanVjbTJmaDQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
-    "summary": " [cobertura de evento] @rinara grossi",
-    "start": "2026-10-17T11:40:00-03:00",
-    "end": "2026-10-17T12:20:00-03:00",
+    "summary": "[cobertura de evento] @kaká lobe",
+    "start": "2026-10-18T09:20:00-03:00",
+    "end": "2026-10-18T10:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MTQxNmJiMzN1cjIwNWxyazJobjIxbjgzdTcgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=YXQ4bWNjNDExM3N2OWZraDJxamFob2ZxYWMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
-    "summary": " [cobertura de evento] @josé carlos",
-    "start": "2026-10-17T12:30:00-03:00",
-    "end": "2026-10-17T13:00:00-03:00",
+    "summary": "[cobertura de evento] @michelle procópio",
+    "start": "2026-10-18T10:30:00-03:00",
+    "end": "2026-10-18T11:10:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXNlM2hnZ2dybzI3NzVwYWpodjNtNGIxMnMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[cobertura de evento] @aline kabarite",
-    "start": "2026-10-17T16:40:00-03:00",
-    "end": "2026-10-17T17:20:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=NTVsa2dxa2NpZzhsbnV1dDY5Y2Rnc2p2NGEgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[cobertura de evento] @aline kabarite e @josé carlos",
-    "start": "2026-10-17T17:20:00-03:00",
-    "end": "2026-10-17T18:20:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=MXRya2Q4ZjIzcXVwM2xyamdjbW5yaWZrMHEgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+    "htmlLink": "https://www.google.com/calendar/event?eid=NzVuNWNvYmhwb2NhNDZmOWl1MmZuZjdvNXMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": " [cobertura de evento] @claudia lobo",
@@ -147,6 +129,18 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjEwMjJUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "takai (Karina Lopes)",
+    "start": "2026-10-22T13:45:00-03:00",
+    "end": "2026-10-22T14:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "takai@somostakai.com.br",
+      "karinalopesnutricionista@gmail.com"
+    ],
+    "htmlLink": "https://www.google.com/calendar/event?eid=OGx1OXMxN3QybXBqZzJwcDJudXV1MjdkZGsgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "☕️ café da tarde",
@@ -567,5 +561,32 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjExMTNUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-11-16T00:00:00-03:00",
+    "end": "2026-11-17T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMTZUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-11-16T12:30:00-03:00",
+    "end": "2026-11-16T13:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjExMTZUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-11-16T17:30:00-03:00",
+    "end": "2026-11-16T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjExMTZUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   }
 ]
