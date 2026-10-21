@@ -1245,6 +1245,24 @@
       "list": "crm"
     },
     {
+      "id": "wdwmbdtgzb",
+      "custom_id": null,
+      "name": "[tutoria] @ebac",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtgzb",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "mentoria"
+      ],
+      "due_date": "1792566000000",
+      "date_updated": "1792540681941",
+      "date_closed": null,
+      "list": "mentorias"
+    },
+    {
       "id": "wdwmbdtafj",
       "custom_id": null,
       "name": "[criação de conteúdo das oficinas] @olhar da diversidade",
@@ -1257,173 +1275,10 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1792479600000",
-      "date_updated": "1792466661208",
+      "due_date": "1792566000000",
+      "date_updated": "1792540186527",
       "date_closed": null,
       "list": "olhar da diversidade"
-    },
-    {
-      "id": "wdwmbdtafh",
-      "custom_id": null,
-      "name": "[edição de vídeos] @nicole",
-      "status": "proposta",
-      "url": "https://app.clickup.com/t/wdwmbdtafh",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792466595721",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
-      "id": "wdwmbdtaer",
-      "custom_id": null,
-      "name": "[entregas finais] @inn tea",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtaer",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "evento"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792466050304",
-      "date_closed": null,
-      "list": "fotografia & vídeo"
-    },
-    {
-      "id": "wdwmbdtac2",
-      "custom_id": null,
-      "name": "[tutoria] @ebac",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtac2",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792464592926",
-      "date_closed": null,
-      "list": "mentorias"
-    },
-    {
-      "id": "wdwmbdrwrc",
-      "custom_id": null,
-      "name": "[acompanhamento instagram] @olhar da diversidade",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdrwrc",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792178117466",
-      "date_closed": null,
-      "list": "olhar da diversidade"
-    },
-    {
-      "id": "wdwmbdrwnq",
-      "custom_id": null,
-      "name": "[acompanhamento instagram] @gladys ribeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdrwnq",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792177443790",
-      "date_closed": null,
-      "list": "gladys ribeiro"
-    },
-    {
-      "id": "wdwmbdqmc2",
-      "custom_id": null,
-      "name": "comentar nas publicações dos clientes",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdqmc2",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792200988177",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdmndc",
-      "custom_id": null,
-      "name": "[branding de marca] @rafael suniga",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdmndc",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Talita Dovigo"
-      ],
-      "tags": [
-        "identidade"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792464176646",
-      "date_closed": null,
-      "list": "branding de marca"
-    },
-    {
-      "id": "wdwmbdknt5",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @cassandra von zuben",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdknt5",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792466166107",
-      "date_closed": null,
-      "list": "cassandra"
-    },
-    {
-      "id": "wdwmbdhyk0",
-      "custom_id": null,
-      "name": "[análise de linkedin • mentoria] @talita belfiore",
-      "status": "bloqueado",
-      "url": "https://app.clickup.com/t/wdwmbdhyk0",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1792479600000",
-      "date_updated": "1792165712978",
-      "date_closed": null,
-      "list": "linkedin"
     },
     {
       "id": "wdwmbdtaep",
@@ -1516,25 +1371,6 @@
       "list": "bellacasa"
     },
     {
-      "id": "wdwmbdrqd9",
-      "custom_id": null,
-      "name": "criação de conteúdo para o instagram",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdrqd9",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792204337534",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
       "id": "wdwmbdrg0u",
       "custom_id": null,
       "name": "[criação e envio do relatório mensal]",
@@ -1590,41 +1426,23 @@
       "list": "gladys ribeiro"
     },
     {
-      "id": "wdwmbdp5gh",
+      "id": "wdwmbdmndc",
       "custom_id": null,
-      "name": "alinhamento do aluguel do studio",
-      "status": "em andamento",
-      "url": "https://app.clickup.com/t/wdwmbdp5gh",
+      "name": "[branding de marca] @rafael suniga",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdmndc",
       "priority": "normal",
       "assignees": [
-        "Karol"
+        "Karol",
+        "Talita Dovigo"
       ],
       "tags": [
-        "comercial"
+        "identidade"
       ],
       "due_date": "1792566000000",
-      "date_updated": "1792465896169",
+      "date_updated": "1792540109430",
       "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdn7kn",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @stela store",
-      "status": "backlog",
-      "url": "https://app.clickup.com/t/wdwmbdn7kn",
-      "priority": "normal",
-      "assignees": [
-        "Tainara Nogueira",
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1791896383669",
-      "date_closed": null,
-      "list": "stela store"
+      "list": "branding de marca"
     },
     {
       "id": "wdwmbdktxt",
@@ -1644,6 +1462,24 @@
       "date_updated": "1792464196758",
       "date_closed": null,
       "list": "crm"
+    },
+    {
+      "id": "wdwmbdknt5",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @cassandra von zuben",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdknt5",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1792566000000",
+      "date_updated": "1792541531750",
+      "date_closed": null,
+      "list": "cassandra"
     },
     {
       "id": "wdwmbdbrdx",
@@ -1666,25 +1502,6 @@
       "list": "branding de marca"
     },
     {
-      "id": "wdwmbd6etz",
-      "custom_id": null,
-      "name": "[captação mobile] @talita belfiore",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd6etz",
-      "priority": "high",
-      "assignees": [
-        "Tainara Nogueira",
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792201001473",
-      "date_closed": null,
-      "list": "fotografia & vídeo"
-    },
-    {
       "id": "86ahutae3",
       "custom_id": null,
       "name": "[site institucional] @takai",
@@ -1704,6 +1521,80 @@
       "list": "site institucional"
     },
     {
+      "id": "wdwmbdtgzq",
+      "custom_id": null,
+      "name": "[acompanhamento instagram] @gladys ribeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtgzq",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792541383621",
+      "date_closed": null,
+      "list": "gladys ribeiro"
+    },
+    {
+      "id": "wdwmbdtgzp",
+      "custom_id": null,
+      "name": "[acompanhamento instagram] @olhar da diversidade",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtgzp",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792541264565",
+      "date_closed": null,
+      "list": "olhar da diversidade"
+    },
+    {
+      "id": "wdwmbdtafm",
+      "custom_id": null,
+      "name": "[fotos institucionais] @bruna muniz",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdtafm",
+      "priority": "normal",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol",
+        "takai"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792539381457",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdtafh",
+      "custom_id": null,
+      "name": "[edição de vídeos] @nicole abi-esber",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdtafh",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792536707169",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
       "id": "wdwmbdqp4f",
       "custom_id": null,
       "name": "[branding de marca] @karina lopes",
@@ -1721,6 +1612,25 @@
       "date_updated": "1792465870808",
       "date_closed": null,
       "list": "branding de marca"
+    },
+    {
+      "id": "wdwmbdn7kn",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @stela store",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdn7kn",
+      "priority": "normal",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792540164599",
+      "date_closed": null,
+      "list": "stela store"
     },
     {
       "id": "wdwmbd924b",
@@ -1778,6 +1688,24 @@
       "list": "tarefas"
     },
     {
+      "id": "wdwmbdtgze",
+      "custom_id": null,
+      "name": "comentar nas publicações dos clientes",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtgze",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792738800000",
+      "date_updated": "1792541052672",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbdtag7",
       "custom_id": null,
       "name": "revisão de métricas e análise dos okrs",
@@ -1792,6 +1720,25 @@
       ],
       "due_date": "1792738800000",
       "date_updated": "1792466762511",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdrqd9",
+      "custom_id": null,
+      "name": "criação de conteúdo para o instagram",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdrqd9",
+      "priority": "normal",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1792738800000",
+      "date_updated": "1792540146486",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -1940,6 +1887,43 @@
       "date_updated": "1791511283420",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdp5gh",
+      "custom_id": null,
+      "name": "alinhamento do aluguel do studio",
+      "status": "em andamento",
+      "url": "https://app.clickup.com/t/wdwmbdp5gh",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1792998000000",
+      "date_updated": "1792540137026",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbd6etz",
+      "custom_id": null,
+      "name": "[captação mobile] @talita belfiore",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbd6etz",
+      "priority": "high",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1792998000000",
+      "date_updated": "1792542661198",
+      "date_closed": null,
+      "list": "fotografia & vídeo"
     },
     {
       "id": "wdwmbdq0gt",
