@@ -1245,11 +1245,11 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdtgzb",
+      "id": "wdwmbdtp9q",
       "custom_id": null,
       "name": "[tutoria] @ebac",
       "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtgzb",
+      "url": "https://app.clickup.com/t/wdwmbdtp9q",
       "priority": "normal",
       "assignees": [
         "Karol"
@@ -1257,268 +1257,10 @@
       "tags": [
         "mentoria"
       ],
-      "due_date": "1792566000000",
-      "date_updated": "1792540681941",
+      "due_date": "1792652400000",
+      "date_updated": "1792615734838",
       "date_closed": null,
       "list": "mentorias"
-    },
-    {
-      "id": "wdwmbdtafj",
-      "custom_id": null,
-      "name": "[criação de conteúdo das oficinas] @olhar da diversidade",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtafj",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792540186527",
-      "date_closed": null,
-      "list": "olhar da diversidade"
-    },
-    {
-      "id": "wdwmbdtaep",
-      "custom_id": null,
-      "name": "[acompanhamento instagram] @murilo tudéia",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtaep",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792465879794",
-      "date_closed": null,
-      "list": "murilo tudéia"
-    },
-    {
-      "id": "wdwmbdtaen",
-      "custom_id": null,
-      "name": "[acompanhamento instagram] @cassandra",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtaen",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792465878221",
-      "date_closed": null,
-      "list": "cassandra"
-    },
-    {
-      "id": "wdwmbdtaem",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtaem",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792465819298",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdrych",
-      "custom_id": null,
-      "name": "[acompanhamento instagram] @stela store",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdrych",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792204471267",
-      "date_closed": null,
-      "list": "stela store"
-    },
-    {
-      "id": "wdwmbdrwff",
-      "custom_id": null,
-      "name": "[acompanhamento instagram] @bellacasa",
-      "status": "backlog",
-      "url": "https://app.clickup.com/t/wdwmbdrwff",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792176046887",
-      "date_closed": null,
-      "list": "bellacasa"
-    },
-    {
-      "id": "wdwmbdrg0u",
-      "custom_id": null,
-      "name": "[criação e envio do relatório mensal]",
-      "status": "backlog",
-      "url": "https://app.clickup.com/t/wdwmbdrg0u",
-      "priority": null,
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "documentação"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1791993988256",
-      "date_closed": null,
-      "list": "cassandra"
-    },
-    {
-      "id": "wdwmbdradf",
-      "custom_id": null,
-      "name": "[consultoria com ia] @pedro turra",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdradf",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "documentação"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792466791739",
-      "date_closed": null,
-      "list": "mentorias"
-    },
-    {
-      "id": "wdwmbdq7gj",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @gladys ribeiro",
-      "status": "backlog",
-      "url": "https://app.clickup.com/t/wdwmbdq7gj",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1791916561395",
-      "date_closed": null,
-      "list": "gladys ribeiro"
-    },
-    {
-      "id": "wdwmbdmndc",
-      "custom_id": null,
-      "name": "[branding de marca] @rafael suniga",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdmndc",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Talita Dovigo"
-      ],
-      "tags": [
-        "identidade"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792540109430",
-      "date_closed": null,
-      "list": "branding de marca"
-    },
-    {
-      "id": "wdwmbdktxt",
-      "custom_id": null,
-      "name": "[vídeos e social media] @ksdy sousa",
-      "status": "follow-up",
-      "url": "https://app.clickup.com/t/wdwmbdktxt",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "takai"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792464196758",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
-      "id": "wdwmbdknt5",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @cassandra von zuben",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdknt5",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792541531750",
-      "date_closed": null,
-      "list": "cassandra"
-    },
-    {
-      "id": "wdwmbdbrdx",
-      "custom_id": null,
-      "name": "[branding de marca] @ana prevatto",
-      "status": "bloqueado",
-      "url": "https://app.clickup.com/t/wdwmbdbrdx",
-      "priority": "high",
-      "assignees": [
-        "Karol",
-        "Talita Dovigo",
-        "takai"
-      ],
-      "tags": [
-        "identidade"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792465825344",
-      "date_closed": null,
-      "list": "branding de marca"
-    },
-    {
-      "id": "86ahutae3",
-      "custom_id": null,
-      "name": "[site institucional] @takai",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/86ahutae3",
-      "priority": "high",
-      "assignees": [
-        "Karol",
-        "Talita Dovigo"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792566000000",
-      "date_updated": "1792466175431",
-      "date_closed": null,
-      "list": "site institucional"
     },
     {
       "id": "wdwmbdtgzq",
@@ -1595,6 +1337,42 @@
       "list": "crm"
     },
     {
+      "id": "wdwmbdrg0u",
+      "custom_id": null,
+      "name": "[criação e envio do relatório mensal] @cassandra van zuben",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdrg0u",
+      "priority": null,
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "documentação"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792587017737",
+      "date_closed": null,
+      "list": "cassandra"
+    },
+    {
+      "id": "wdwmbdradf",
+      "custom_id": null,
+      "name": "[consultoria com ia] @pedro turra",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdradf",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "documentação"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792615490884",
+      "date_closed": null,
+      "list": "mentorias"
+    },
+    {
       "id": "wdwmbdqp4f",
       "custom_id": null,
       "name": "[branding de marca] @karina lopes",
@@ -1614,6 +1392,25 @@
       "list": "branding de marca"
     },
     {
+      "id": "wdwmbdq7gj",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @gladys ribeiro",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdq7gj",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792606705584",
+      "date_closed": null,
+      "list": "gladys ribeiro"
+    },
+    {
       "id": "wdwmbdn7kn",
       "custom_id": null,
       "name": "[criação de conteúdos] @stela store",
@@ -1621,8 +1418,8 @@
       "url": "https://app.clickup.com/t/wdwmbdn7kn",
       "priority": "normal",
       "assignees": [
-        "Tainara Nogueira",
-        "Karol"
+        "Karol",
+        "Tainara Nogueira"
       ],
       "tags": [
         "conteúdo"
@@ -1631,6 +1428,44 @@
       "date_updated": "1792540164599",
       "date_closed": null,
       "list": "stela store"
+    },
+    {
+      "id": "wdwmbdmndc",
+      "custom_id": null,
+      "name": "[branding de marca] @rafael suniga",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdmndc",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "Talita Dovigo"
+      ],
+      "tags": [
+        "identidade"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792619422583",
+      "date_closed": null,
+      "list": "branding de marca"
+    },
+    {
+      "id": "wdwmbdktxt",
+      "custom_id": null,
+      "name": "[vídeos e social media] @ksdy sousa",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdktxt",
+      "priority": "urgent",
+      "assignees": [
+        "Karol",
+        "takai"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792622766061",
+      "date_closed": null,
+      "list": "crm"
     },
     {
       "id": "wdwmbd924b",
@@ -1649,6 +1484,25 @@
       "date_updated": "1792465838178",
       "date_closed": null,
       "list": "samuel thobias"
+    },
+    {
+      "id": "86ahutae3",
+      "custom_id": null,
+      "name": "[site institucional] @takai",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/86ahutae3",
+      "priority": "high",
+      "assignees": [
+        "Karol",
+        "Talita Dovigo"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1792652400000",
+      "date_updated": "1792586956584",
+      "date_closed": null,
+      "list": "site institucional"
     },
     {
       "id": "86ahrzdj0",
@@ -1686,6 +1540,60 @@
       "date_updated": "1792466187855",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdtnz7",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtnz7",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1792738800000",
+      "date_updated": "1792612621059",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdtjw0",
+      "custom_id": null,
+      "name": "[acompanhamento instagram] @cassandra",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtjw0",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792738800000",
+      "date_updated": "1792590893648",
+      "date_closed": null,
+      "list": "cassandra"
+    },
+    {
+      "id": "wdwmbdtjvr",
+      "custom_id": null,
+      "name": "[acompanhamento instagram] @murilo tudéia",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtjvr",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792738800000",
+      "date_updated": "1792590749853",
+      "date_closed": null,
+      "list": "murilo tudéia"
     },
     {
       "id": "wdwmbdtgze",
@@ -1759,6 +1667,26 @@
       "date_updated": "1792204343759",
       "date_closed": null,
       "list": "stela store"
+    },
+    {
+      "id": "wdwmbdbrdx",
+      "custom_id": null,
+      "name": "[branding de marca] @ana prevatto",
+      "status": "bloqueado",
+      "url": "https://app.clickup.com/t/wdwmbdbrdx",
+      "priority": "high",
+      "assignees": [
+        "Karol",
+        "Talita Dovigo",
+        "takai"
+      ],
+      "tags": [
+        "identidade"
+      ],
+      "due_date": "1792738800000",
+      "date_updated": "1792593586093",
+      "date_closed": null,
+      "list": "branding de marca"
     },
     {
       "id": "wdwmbd62jv",
@@ -1887,6 +1815,42 @@
       "date_updated": "1791511283420",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdtjxh",
+      "custom_id": null,
+      "name": "[acompanhamento instagram] @stela store",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtjxh",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792998000000",
+      "date_updated": "1792591278055",
+      "date_closed": null,
+      "list": "stela store"
+    },
+    {
+      "id": "wdwmbdtjw9",
+      "custom_id": null,
+      "name": "[acompanhamento instagram] @bellacasa",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdtjw9",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1792998000000",
+      "date_updated": "1792590993405",
+      "date_closed": null,
+      "list": "bellacasa"
     },
     {
       "id": "wdwmbdp5gh",
@@ -2052,6 +2016,24 @@
       "date_updated": "1790895735811",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdtn0p",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @cassandra von zuben",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdtn0p",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1794553200000",
+      "date_updated": "1792606115750",
+      "date_closed": null,
+      "list": "cassandra"
     },
     {
       "id": "86af46wmv",
