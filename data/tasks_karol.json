@@ -1245,80 +1245,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdrqd9",
-      "custom_id": null,
-      "name": "criação de conteúdo para o instagram",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdrqd9",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792738800000",
-      "date_updated": "1792540146486",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdnxdw",
-      "custom_id": null,
-      "name": "[enviar informações da permuta] @stela store",
-      "status": "backlog",
-      "url": "https://app.clickup.com/t/wdwmbdnxdw",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1792738800000",
-      "date_updated": "1792204343759",
-      "date_closed": null,
-      "list": "stela store"
-    },
-    {
-      "id": "wdwmbdn7kn",
-      "custom_id": null,
-      "name": "[criação de conteúdos] @stela store",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdn7kn",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1792738800000",
-      "date_updated": "1792785764935",
-      "date_closed": null,
-      "list": "stela store"
-    },
-    {
-      "id": "86ahm47ku",
-      "custom_id": null,
-      "name": "atualizar o painel dos clientes",
-      "status": "em andamento",
-      "url": "https://app.clickup.com/t/86ahm47ku",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "documentação"
-      ],
-      "due_date": "1792738800000",
-      "date_updated": "1792723282138",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
       "id": "wdwmbdu26f",
       "custom_id": null,
       "name": "[tutoria] @ebac",
@@ -1371,24 +1297,6 @@
       "date_updated": "1792695058511",
       "date_closed": null,
       "list": "olhar da diversidade"
-    },
-    {
-      "id": "wdwmbdtnz7",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdtnz7",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1792998000000",
-      "date_updated": "1792802522009",
-      "date_closed": null,
-      "list": "tarefas"
     },
     {
       "id": "wdwmbdtjxh",
@@ -1630,6 +1538,43 @@
       "list": "ksdy sousa"
     },
     {
+      "id": "wdwmbdtnz7",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdtnz7",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1793084400000",
+      "date_updated": "1792948458469",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdrqd9",
+      "custom_id": null,
+      "name": "criação de conteúdo para o instagram",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdrqd9",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1793084400000",
+      "date_updated": "1792947273460",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbdq7gj",
       "custom_id": null,
       "name": "[criação de conteúdos] @gladys ribeiro",
@@ -1741,6 +1686,43 @@
       "date_updated": "1791896093919",
       "date_closed": null,
       "list": "olhar da diversidade"
+    },
+    {
+      "id": "wdwmbdnxdw",
+      "custom_id": null,
+      "name": "[enviar informações da permuta] @stela store",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdnxdw",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1793170800000",
+      "date_updated": "1792947265548",
+      "date_closed": null,
+      "list": "stela store"
+    },
+    {
+      "id": "wdwmbdn7kn",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @stela store",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdn7kn",
+      "priority": "normal",
+      "assignees": [
+        "Karol",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1793170800000",
+      "date_updated": "1792947258751",
+      "date_closed": null,
+      "list": "stela store"
     },
     {
       "id": "wdwmbdu065",
@@ -1866,6 +1848,24 @@
       ],
       "due_date": "1793343600000",
       "date_updated": "1792722850583",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "86ahm47ku",
+      "custom_id": null,
+      "name": "atualizar o painel dos clientes",
+      "status": "em andamento",
+      "url": "https://app.clickup.com/t/86ahm47ku",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "documentação"
+      ],
+      "due_date": "1793343600000",
+      "date_updated": "1792947189225",
       "date_closed": null,
       "list": "tarefas"
     },
