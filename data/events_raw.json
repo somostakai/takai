@@ -1,41 +1,5 @@
 [
   {
-    "summary": "focus day",
-    "start": "2026-10-26T00:00:00-03:00",
-    "end": "2026-10-27T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEwMjZUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[reunião de trabalho] refinamento do site + definição de brindes",
-    "start": "2026-10-26T09:00:00-03:00",
-    "end": "2026-10-26T12:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=Nm9sOWpjNHBoa3ExZGw0NzRoNm5hMThqNDYgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "🫕 almoço e descanso",
-    "start": "2026-10-26T12:30:00-03:00",
-    "end": "2026-10-26T13:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjEwMjZUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "☕️ café da tarde",
-    "start": "2026-10-26T17:30:00-03:00",
-    "end": "2026-10-26T18:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjEwMjZUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
     "summary": "🫕 almoço e descanso",
     "start": "2026-10-27T12:30:00-03:00",
     "end": "2026-10-27T13:30:00-03:00",
@@ -556,5 +520,23 @@
     "location": null,
     "attendees": [],
     "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjExMjRUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "🫕 almoço e descanso",
+    "start": "2026-11-25T12:30:00-03:00",
+    "end": "2026-11-25T13:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=a25zNmhhOWVvdTVoYmZsYWk5cTRhcm44aDJfMjAyNjExMjVUMTUzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "☕️ café da tarde",
+    "start": "2026-11-25T17:30:00-03:00",
+    "end": "2026-11-25T18:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "htmlLink": "https://www.google.com/calendar/event?eid=aG1zcThiN2Vodm9wbmZiMzAxMGxrbGFrc2ZfMjAyNjExMjVUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   }
 ]
