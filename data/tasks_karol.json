@@ -1245,24 +1245,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdtafh",
-      "custom_id": null,
-      "name": "[edição de vídeos] @nicole abi-esber",
-      "status": "contrato",
-      "url": "https://app.clickup.com/t/wdwmbdtafh",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1793257200000",
-      "date_updated": "1793241904318",
-      "date_closed": null,
-      "list": "crm"
-    },
-    {
       "id": "wdwmbdradf",
       "custom_id": null,
       "name": "[consultoria com ia] @pedro turra",
@@ -1318,44 +1300,6 @@
       "list": "stela store"
     },
     {
-      "id": "wdwmbdmndc",
-      "custom_id": null,
-      "name": "[branding de marca] @rafael suniga",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdmndc",
-      "priority": "urgent",
-      "assignees": [
-        "Karol",
-        "Talita Dovigo",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "identidade"
-      ],
-      "due_date": "1793257200000",
-      "date_updated": "1793304751361",
-      "date_closed": null,
-      "list": "branding de marca"
-    },
-    {
-      "id": "wdwmbd924b",
-      "custom_id": null,
-      "name": "[atualização financeira] @samuel thobias",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbd924b",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "documentação"
-      ],
-      "due_date": "1793257200000",
-      "date_updated": "1793307956954",
-      "date_closed": null,
-      "list": "samuel thobias"
-    },
-    {
       "id": "wdwmbduyrt",
       "custom_id": null,
       "name": "[acompanhamento instagram] @cassandra",
@@ -1395,7 +1339,7 @@
       "id": "wdwmbduptt",
       "custom_id": null,
       "name": "organizar evento com os clientes no final do ano",
-      "status": "não iniciado",
+      "status": "em andamento",
       "url": "https://app.clickup.com/t/wdwmbduptt",
       "priority": "normal",
       "assignees": [
@@ -1405,7 +1349,7 @@
         "evento"
       ],
       "due_date": "1793343600000",
-      "date_updated": "1793213517208",
+      "date_updated": "1793389991367",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -1537,6 +1481,24 @@
       "list": "estudos"
     },
     {
+      "id": "wdwmbdtafh",
+      "custom_id": null,
+      "name": "[edição de vídeos] @nicole abi-esber",
+      "status": "contrato",
+      "url": "https://app.clickup.com/t/wdwmbdtafh",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1793343600000",
+      "date_updated": "1793376015619",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
       "id": "wdwmbdrqd9",
       "custom_id": null,
       "name": "criação de conteúdo para o instagram",
@@ -1608,7 +1570,7 @@
         "conteúdo"
       ],
       "due_date": "1793343600000",
-      "date_updated": "1793241895739",
+      "date_updated": "1793405703523",
       "date_closed": null,
       "list": "gladys ribeiro"
     },
@@ -1620,13 +1582,14 @@
       "url": "https://app.clickup.com/t/wdwmbdp5gh",
       "priority": "normal",
       "assignees": [
-        "Karol"
+        "Karol",
+        "Tainara Nogueira"
       ],
       "tags": [
         "comercial"
       ],
       "due_date": "1793343600000",
-      "date_updated": "1793213466542",
+      "date_updated": "1793405649866",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -1685,6 +1648,26 @@
       "list": "tarefas"
     },
     {
+      "id": "wdwmbdmndc",
+      "custom_id": null,
+      "name": "[branding de marca] @rafael suniga",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdmndc",
+      "priority": "urgent",
+      "assignees": [
+        "Karol",
+        "Talita Dovigo",
+        "Tainara Nogueira"
+      ],
+      "tags": [
+        "identidade"
+      ],
+      "due_date": "1793343600000",
+      "date_updated": "1793405768154",
+      "date_closed": null,
+      "list": "branding de marca"
+    },
+    {
       "id": "wdwmbd6etz",
       "custom_id": null,
       "name": "[captação mobile] @talita belfiore",
@@ -1718,7 +1701,7 @@
         "estratégia"
       ],
       "due_date": "1793343600000",
-      "date_updated": "1793068438335",
+      "date_updated": "1793405868109",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -1886,6 +1869,42 @@
       "date_updated": "1790691875105",
       "date_closed": null,
       "list": "cassandra"
+    },
+    {
+      "id": "wdwmbdv0n0",
+      "custom_id": null,
+      "name": "[branding] @diana rios",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdv0n0",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1793689200000",
+      "date_updated": "1793375745047",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdv0km",
+      "custom_id": null,
+      "name": "[mentoria de transição] @gabriela mafra",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdv0km",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1793689200000",
+      "date_updated": "1793375561904",
+      "date_closed": null,
+      "list": "crm"
     },
     {
       "id": "wdwmbduyrw",
@@ -2106,6 +2125,24 @@
       "date_updated": "1792606115750",
       "date_closed": null,
       "list": "cassandra"
+    },
+    {
+      "id": "wdwmbdv0nk",
+      "custom_id": null,
+      "name": "[atualização financeira] @samuel thobias",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdv0nk",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "documentação"
+      ],
+      "due_date": "1795676400000",
+      "date_updated": "1793376004203",
+      "date_closed": null,
+      "list": "samuel thobias"
     },
     {
       "id": "86af46wmv",
