@@ -1816,24 +1816,6 @@
       "list": "tarefas"
     },
     {
-      "id": "wdwmbduuu8",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbduuu8",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1793602800000",
-      "date_updated": "1793282672096",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
       "id": "wdwmbdutc2",
       "custom_id": null,
       "name": "comentar nas publicações dos clientes",
@@ -1941,6 +1923,24 @@
       "date_updated": "1793329219526",
       "date_closed": null,
       "list": "stela store"
+    },
+    {
+      "id": "wdwmbduuu8",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbduuu8",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1793689200000",
+      "date_updated": "1793542797065",
+      "date_closed": null,
+      "list": "tarefas"
     },
     {
       "id": "wdwmbdu066",
