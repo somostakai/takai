@@ -119,6 +119,8 @@ h1{font-family:var(--serif);font-weight:400;font-size:clamp(38px,6vw,62px);line-
   padding:4px 10px;border-radius:999px;border:1px solid var(--linha-forte);color:var(--suave);
 }
 .badge-meeting{color:var(--terracota);border-color:rgba(184,106,74,.4)}
+.badge-online{color:var(--oliva);border-color:rgba(95,103,82,.4)}
+.badge-presencial{color:var(--suave)}
 
 /* ---------- filtros ---------- */
 .filtros{display:flex;flex-wrap:wrap;gap:10px;padding:14px 24px;border-bottom:1px solid var(--borda);align-items:center}
@@ -424,6 +426,7 @@ tr.due-soon .due-cell{color:var(--ocre)}
             <div class="event-title">${esc(ev.summary)}</div>
             <div class="event-tags">
               ${ev.isMeeting ? `<span class="badge badge-meeting">reunião · ${ev.attendeeCount} convidado${ev.attendeeCount === 1 ? '' : 's'}</span>` : `<span class="badge">compromisso</span>`}
+              ${ev.isOnline ? `<span class="badge badge-online">📞 online</span>` : `<span class="badge badge-presencial">👥 presencial</span>`}
             </div>
           </div>
         </div>

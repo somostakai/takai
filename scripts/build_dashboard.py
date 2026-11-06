@@ -55,6 +55,7 @@ def process_events(raw_events):
         external = [a for a in attendees if a.lower() != OWNER_EMAIL]
         is_routine = summary in ROUTINE_TITLES
         is_meeting = len(external) > 0
+        is_online = bool(ev.get("hasMeet"))
         date_key = start.date().isoformat()
         out.append({
             "summary": summary,
@@ -69,6 +70,7 @@ def process_events(raw_events):
             "attendees": external,
             "isRoutine": is_routine,
             "isMeeting": is_meeting,
+            "isOnline": is_online,
             "htmlLink": ev.get("htmlLink"),
         })
     out.sort(key=lambda e: e["startIso"])
