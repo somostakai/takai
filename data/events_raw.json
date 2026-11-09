@@ -222,5 +222,15 @@
 "attendees": [],
 "hasMeet": false,
 "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEyMDdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+},
+{
+"summary": "[cobertura de evento] aula de ozônio @samuel",
+"start": "2026-12-09T07:00:00-03:00",
+"end": "2026-12-09T18:30:00-03:00",
+"allDay": false,
+"location": "Instituto Dra. Michelle Miqueleti",
+"attendees": [],
+"hasMeet": false,
+"htmlLink": "https://www.google.com/calendar/event?eid=M3Zsa3I4dWpsa2hoMDZhdmR1OTQ1OXY3bXUgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
 }
 ]
