@@ -1,25 +1,5 @@
 [
 {
-"summary": "focus day",
-"start": "2026-11-09T00:00:00-03:00",
-"end": "2026-11-10T00:00:00-03:00",
-"allDay": false,
-"location": null,
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMDlUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
-"summary": "[gravação de conteúdos do mês] @samuel thobias",
-"start": "2026-11-09T14:30:00-03:00",
-"end": "2026-11-09T18:30:00-03:00",
-"allDay": false,
-"location": "Clínica Belafacci",
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=NWZjNmMxNHIxbTdybHV2N3RjZGxhOTR1aWEgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-},
-{
 "summary": "[reunião de definição] takai <> ana amélia prevatto",
 "start": "2026-11-11T10:30:00-03:00",
 "end": "2026-11-11T11:15:00-03:00",
@@ -40,7 +20,8 @@
 "allDay": false,
 "location": null,
 "attendees": [
-"yasminguerra@institutopriorit.com.br"
+"yasminguerra@institutopriorit.com.br",
+"tainara.nog@gmail.com"
 ],
 "hasMeet": true,
 "htmlLink": "https://www.google.com/calendar/event?eid=M2Z2MnB0Ymc5bDBzOWZzamhjbWptNGFyMzIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
@@ -56,6 +37,16 @@
 ],
 "hasMeet": true,
 "htmlLink": "https://www.google.com/calendar/event?eid=MmJjamkyOWRyMGo0M3VsbDJ1cW9pNzQxdjRfMjAyNjExMTJUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+},
+{
+"summary": "[gravação de conteúdo] @murilo tudéia",
+"start": "2026-11-13",
+"end": "2026-11-14",
+"allDay": true,
+"location": null,
+"attendees": [],
+"hasMeet": false,
+"htmlLink": "https://www.google.com/calendar/event?eid=M2tjaWwzdTRuaDFnMm12am8xbnUwdmJsMGggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
 },
 {
 "summary": "creative day",
@@ -214,6 +205,16 @@
 "htmlLink": "https://www.google.com/calendar/event?eid=NjJtaThkdm44ZmJoOXI3ZWo0ZXZ1MzAyMG5fMjAyNjEyMDRUMjAxNTAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
 },
 {
+"summary": "visita da @tia bia",
+"start": "2026-12-06T11:00:00-03:00",
+"end": "2026-12-06T12:00:00-03:00",
+"allDay": false,
+"location": null,
+"attendees": [],
+"hasMeet": false,
+"htmlLink": "https://www.google.com/calendar/event?eid=cTRnaG5nYW9idHRiZmFobTNzMWJwYWZndDAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+},
+{
 "summary": "focus day",
 "start": "2026-12-07T00:00:00-03:00",
 "end": "2026-12-08T00:00:00-03:00",
@@ -232,5 +233,15 @@
 "attendees": [],
 "hasMeet": false,
 "htmlLink": "https://www.google.com/calendar/event?eid=M3Zsa3I4dWpsa2hoMDZhdmR1OTQ1OXY3bXUgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+},
+{
+"summary": "creative day",
+"start": "2026-12-11T00:00:00-03:00",
+"end": "2026-12-12T00:00:00-03:00",
+"allDay": false,
+"location": null,
+"attendees": [],
+"hasMeet": false,
+"htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjEyMTFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
 }
 ]
