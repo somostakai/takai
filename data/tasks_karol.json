@@ -4,7 +4,7 @@
       "id": "wdwmbdwgh4",
       "custom_id": null,
       "name": "[visual template] @prioriti",
-      "status": "novo lead",
+      "status": "qualificação",
       "url": "https://app.clickup.com/t/wdwmbdwgh4",
       "priority": "low",
       "assignees": [
@@ -14,8 +14,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1794380400000",
-      "date_updated": "1794349821739",
+      "due_date": "1795590000000",
+      "date_updated": "1794425993188",
       "date_closed": null,
       "list": "crm"
     },
@@ -32,8 +32,8 @@
       "tags": [
         "mentoria"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794349377693",
+      "due_date": "1794553200000",
+      "date_updated": "1794437048424",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -284,8 +284,8 @@
       "tags": [
         "organização"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794196621299",
+      "due_date": "1794553200000",
+      "date_updated": "1794435819502",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -295,17 +295,37 @@
       "name": "organizar evento com os clientes no final do ano",
       "status": "em andamento",
       "url": "https://app.clickup.com/t/wdwmbduptt",
-      "priority": "urgent",
+      "priority": "high",
       "assignees": [
-        "Karol"
+        "Karol",
+        "Tainara Nogueira"
       ],
       "tags": [
         "evento"
       ],
       "due_date": "1794466800000",
-      "date_updated": "1794349100877",
+      "date_updated": "1794437468053",
       "date_closed": null,
       "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdubr6",
+      "custom_id": null,
+      "name": "[criação de conteúdos] @bellacasa",
+      "status": "em progresso",
+      "url": "https://app.clickup.com/t/wdwmbdubr6",
+      "priority": "normal",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1794466800000",
+      "date_updated": "1794412184995",
+      "date_closed": null,
+      "list": "samuel thobias"
     },
     {
       "id": "wdwmbdua3g",
@@ -321,8 +341,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794262747988",
+      "due_date": "1794553200000",
+      "date_updated": "1794435813289",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -340,8 +360,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794196644969",
+      "due_date": "1794553200000",
+      "date_updated": "1794436219793",
       "date_closed": null,
       "list": "crm"
     },
@@ -369,15 +389,15 @@
       "name": "[criação de conteúdos] @ksdy sousa",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdu066",
-      "priority": "high",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794349295181",
+      "due_date": "1794553200000",
+      "date_updated": "1794436893683",
       "date_closed": null,
       "list": "ksdy sousa"
     },
@@ -394,8 +414,8 @@
       "tags": [
         "estratégia"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794262851305",
+      "due_date": "1794553200000",
+      "date_updated": "1794437053793",
       "date_closed": null,
       "list": "ksdy sousa"
     },
@@ -413,8 +433,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1794380400000",
-      "date_updated": "1794349052373",
+      "due_date": "1794466800000",
+      "date_updated": "1794436861545",
       "date_closed": null,
       "list": "murilo tudéia"
     },
@@ -432,7 +452,7 @@
         "estudo"
       ],
       "due_date": "1795762800000",
-      "date_updated": "1794196853340",
+      "date_updated": "1794428438662",
       "date_closed": null,
       "list": "estudos"
     },
@@ -449,8 +469,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794349093973",
+      "due_date": "1794553200000",
+      "date_updated": "1794435811343",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -521,8 +541,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1794380400000",
-      "date_updated": "1794349283964",
+      "due_date": "1794466800000",
+      "date_updated": "1794436858221",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -540,8 +560,8 @@
       "tags": [
         "identidade"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794349340335",
+      "due_date": "1795417200000",
+      "date_updated": "1794436212407",
       "date_closed": null,
       "list": "branding de marca"
     },
@@ -612,8 +632,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1794380400000",
-      "date_updated": "1794349073493",
+      "due_date": "1794553200000",
+      "date_updated": "1794437077547",
       "date_closed": null,
       "list": "larissa lopes"
     },
@@ -702,8 +722,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1794466800000",
-      "date_updated": "1794349331025",
+      "due_date": "1794553200000",
+      "date_updated": "1794436197009",
       "date_closed": null,
       "list": "stela store"
     },
@@ -949,7 +969,7 @@
       "id": "wdwmbdbrdx",
       "custom_id": null,
       "name": "[branding de marca] @ana prevatto",
-      "status": "bloqueado",
+      "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdbrdx",
       "priority": "high",
       "assignees": [
@@ -960,8 +980,8 @@
       "tags": [
         "identidade"
       ],
-      "due_date": "1794380400000",
-      "date_updated": "1794195311983",
+      "due_date": "1794466800000",
+      "date_updated": "1794436230082",
       "date_closed": null,
       "list": "branding de marca"
     },
