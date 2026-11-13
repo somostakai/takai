@@ -1,17 +1,5 @@
 [
 {
-"summary": "[mentoria de evolução profissional] @ronan emiliano",
-"start": "2026-11-12T18:30:00-03:00",
-"end": "2026-11-12T19:30:00-03:00",
-"allDay": false,
-"location": null,
-"attendees": [
-"ronan0400@outlook.com"
-],
-"hasMeet": true,
-"htmlLink": "https://www.google.com/calendar/event?eid=MmJjamkyOWRyMGo0M3VsbDJ1cW9pNzQxdjRfMjAyNjExMTJUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
 "summary": "creative day",
 "start": "2026-11-13T00:00:00-03:00",
 "end": "2026-11-14T00:00:00-03:00",
@@ -50,16 +38,6 @@
 "attendees": [],
 "hasMeet": false,
 "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjExMjBUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
-"summary": "[organização] café + planejamento semanal",
-"start": "2026-11-20T17:15:00-03:00",
-"end": "2026-11-20T18:30:00-03:00",
-"allDay": false,
-"location": null,
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=NjJtaThkdm44ZmJoOXI3ZWo0ZXZ1MzAyMG5fMjAyNjExMjBUMjAxNTAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
 },
 {
 "summary": "focus day",
@@ -186,6 +164,16 @@
 "attendees": [],
 "hasMeet": false,
 "htmlLink": "https://www.google.com/calendar/event?eid=cTRnaG5nYW9idHRiZmFobTNzMWJwYWZndDAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+},
+{
+"summary": "[fotografia e vídeo] @macth4you",
+"start": "2026-12-07",
+"end": "2026-12-08",
+"allDay": true,
+"location": null,
+"attendees": [],
+"hasMeet": false,
+"htmlLink": "https://www.google.com/calendar/event?eid=N291MmZlZ210NXBhMDloZHI1OHQ3M21maGQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
 },
 {
 "summary": "focus day",
