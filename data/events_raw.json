@@ -1,45 +1,5 @@
 [
 {
-"summary": "creative day",
-"start": "2026-11-13T00:00:00-03:00",
-"end": "2026-11-14T00:00:00-03:00",
-"allDay": false,
-"location": null,
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjExMTNUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
-"summary": "[organização] café + planejamento semanal",
-"start": "2026-11-13T17:15:00-03:00",
-"end": "2026-11-13T18:30:00-03:00",
-"allDay": false,
-"location": null,
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=NjJtaThkdm44ZmJoOXI3ZWo0ZXZ1MzAyMG5fMjAyNjExMTNUMjAxNTAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
-"summary": "focus day",
-"start": "2026-11-16T00:00:00-03:00",
-"end": "2026-11-17T00:00:00-03:00",
-"allDay": false,
-"location": null,
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMTZUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
-"summary": "creative day",
-"start": "2026-11-20T00:00:00-03:00",
-"end": "2026-11-21T00:00:00-03:00",
-"allDay": false,
-"location": null,
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjExMjBUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
 "summary": "focus day",
 "start": "2026-11-23T00:00:00-03:00",
 "end": "2026-11-24T00:00:00-03:00",
@@ -48,6 +8,16 @@
 "attendees": [],
 "hasMeet": false,
 "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMjNUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+},
+{
+"summary": "[gravação de conteúdo] @murilo tudéia",
+"start": "2026-11-25T09:00:00-03:00",
+"end": "2026-11-25T12:00:00-03:00",
+"allDay": false,
+"location": null,
+"attendees": [],
+"hasMeet": false,
+"htmlLink": "https://www.google.com/calendar/event?eid=M2tjaWwzdTRuaDFnMm12am8xbnUwdmJsMGggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
 },
 {
 "summary": "[criação de aula de ozônio] @samuel",
@@ -84,16 +54,6 @@
 ],
 "hasMeet": true,
 "htmlLink": "https://www.google.com/calendar/event?eid=MmJjamkyOWRyMGo0M3VsbDJ1cW9pNzQxdjRfMjAyNjExMjZUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-},
-{
-"summary": "[gravação de conteúdo] @murilo tudéia",
-"start": "2026-11-27",
-"end": "2026-11-28",
-"allDay": true,
-"location": null,
-"attendees": [],
-"hasMeet": false,
-"htmlLink": "https://www.google.com/calendar/event?eid=M2tjaWwzdTRuaDFnMm12am8xbnUwdmJsMGggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
 },
 {
 "summary": "creative day",
@@ -214,5 +174,15 @@
 "attendees": [],
 "hasMeet": false,
 "htmlLink": "https://www.google.com/calendar/event?eid=NjJtaThkdm44ZmJoOXI3ZWo0ZXZ1MzAyMG5fMjAyNjEyMTFUMjAxNTAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+},
+{
+"summary": "focus day",
+"start": "2026-12-14T00:00:00-03:00",
+"end": "2026-12-15T00:00:00-03:00",
+"allDay": false,
+"location": null,
+"attendees": [],
+"hasMeet": false,
+"htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEyMTRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
 }
 ]

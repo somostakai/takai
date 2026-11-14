@@ -1,10 +1,82 @@
 {
   "tasks": [
     {
+      "id": "wdwmbdx1f6",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdx1f6",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1795417200000",
+      "date_updated": "1794653150156",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdx1c7",
+      "custom_id": null,
+      "name": "[criação de peças gráficas] @stela store",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdx1c7",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1796022000000",
+      "date_updated": "1794629220491",
+      "date_closed": null,
+      "list": "stela store"
+    },
+    {
+      "id": "wdwmbdx179",
+      "custom_id": null,
+      "name": "[criação de peças gráficas] @laface concept",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdx179",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1795676400000",
+      "date_updated": "1794620674933",
+      "date_closed": null,
+      "list": "laface concept"
+    },
+    {
+      "id": "wdwmbdx176",
+      "custom_id": null,
+      "name": "[criação de peças gráficas] @ksdy sousa",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdx176",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1795762800000",
+      "date_updated": "1794620291435",
+      "date_closed": null,
+      "list": "ksdy sousa"
+    },
+    {
       "id": "wdwmbdwv7r",
       "custom_id": null,
       "name": "[criação de peças gráficas] @bellacasa",
-      "status": "priorizado",
+      "status": "backlog",
       "url": "https://app.clickup.com/t/wdwmbdwv7r",
       "priority": "normal",
       "assignees": [
@@ -14,8 +86,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1798009200000",
-      "date_updated": "1794535119925",
+      "due_date": "1795417200000",
+      "date_updated": "1794620818052",
       "date_closed": null,
       "list": "bellacasa"
     },
@@ -23,9 +95,9 @@
       "id": "wdwmbdwucm",
       "custom_id": null,
       "name": "[criação de peças gráficas] @murilo tudéia",
-      "status": "priorizado",
+      "status": "backlog",
       "url": "https://app.clickup.com/t/wdwmbdwucm",
-      "priority": "low",
+      "priority": "normal",
       "assignees": [
         "Karol",
         "Tainara Nogueira"
@@ -34,7 +106,7 @@
         "conteúdo"
       ],
       "due_date": "1795762800000",
-      "date_updated": "1794534996368",
+      "date_updated": "1794620895705",
       "date_closed": null,
       "list": "murilo tudéia"
     },
@@ -81,7 +153,7 @@
       "name": "[criação de peças gráficas] @gladys ribeiro",
       "status": "backlog",
       "url": "https://app.clickup.com/t/wdwmbdvxpj",
-      "priority": "low",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
@@ -89,7 +161,7 @@
         "conteúdo"
       ],
       "due_date": "1795417200000",
-      "date_updated": "1794534935844",
+      "date_updated": "1794620761108",
       "date_closed": null,
       "list": "gladys ribeiro"
     },
@@ -133,9 +205,9 @@
       "id": "wdwmbdvv0b",
       "custom_id": null,
       "name": "[criação de peças gráficas] @olhar da diversidade",
-      "status": "priorizado",
+      "status": "backlog",
       "url": "https://app.clickup.com/t/wdwmbdvv0b",
-      "priority": "low",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
@@ -143,7 +215,7 @@
         "conteúdo"
       ],
       "due_date": "1795762800000",
-      "date_updated": "1794535047977",
+      "date_updated": "1794620881650",
       "date_closed": null,
       "list": "olhar da diversidade"
     },
@@ -187,7 +259,7 @@
       "id": "wdwmbdvdaf",
       "custom_id": null,
       "name": "[moderação do instagram] @bellacasa",
-      "status": "backlog",
+      "status": "priorizado",
       "url": "https://app.clickup.com/t/wdwmbdvdaf",
       "priority": "low",
       "assignees": [
@@ -197,7 +269,7 @@
         "estratégia"
       ],
       "due_date": "1795590000000",
-      "date_updated": "1794535098518",
+      "date_updated": "1794621443958",
       "date_closed": null,
       "list": "bellacasa"
     },
@@ -294,7 +366,7 @@
     {
       "id": "wdwmbduyrv",
       "custom_id": null,
-      "name": "[acompanhamento instagram] @stela store",
+      "name": "[moderação do instagram] @stela store",
       "status": "priorizado",
       "url": "https://app.clickup.com/t/wdwmbduyrv",
       "priority": "low",
@@ -305,27 +377,9 @@
         "estratégia"
       ],
       "due_date": "1795762800000",
-      "date_updated": "1794196897787",
+      "date_updated": "1794621433553",
       "date_closed": null,
       "list": "stela store"
-    },
-    {
-      "id": "wdwmbduuu8",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbduuu8",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1794553200000",
-      "date_updated": "1794535272711",
-      "date_closed": null,
-      "list": "tarefas"
     },
     {
       "id": "wdwmbduptt",
@@ -403,24 +457,6 @@
       "list": "tarefas"
     },
     {
-      "id": "wdwmbdu066",
-      "custom_id": null,
-      "name": "[criação de peças gráficas] @ksdy sousa",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdu066",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1794553200000",
-      "date_updated": "1794535181836",
-      "date_closed": null,
-      "list": "ksdy sousa"
-    },
-    {
       "id": "wdwmbdu065",
       "custom_id": null,
       "name": "[moderação do instagram] @ksdy sousa",
@@ -480,7 +516,7 @@
       "name": "[criação de peças gráficas] @cassandra von zuben",
       "status": "backlog",
       "url": "https://app.clickup.com/t/wdwmbdtn0p",
-      "priority": "low",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
@@ -488,7 +524,7 @@
         "conteúdo"
       ],
       "due_date": "1795417200000",
-      "date_updated": "1794534782223",
+      "date_updated": "1794620747956",
       "date_closed": null,
       "list": "cassandra"
     },
@@ -620,27 +656,9 @@
       "list": "stela store"
     },
     {
-      "id": "wdwmbdnwtq",
-      "custom_id": null,
-      "name": "[criação de peças gráficas] @larissa lopes",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdnwtq",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1794553200000",
-      "date_updated": "1794535298670",
-      "date_closed": null,
-      "list": "larissa lopes"
-    },
-    {
       "id": "wdwmbdnwtp",
       "custom_id": null,
-      "name": "[acompanhamento instagram] @larissa lopes",
+      "name": "[moderação do instagram] @laface concept",
       "status": "priorizado",
       "url": "https://app.clickup.com/t/wdwmbdnwtp",
       "priority": "low",
@@ -651,9 +669,9 @@
         "estratégia"
       ],
       "due_date": "1796022000000",
-      "date_updated": "1794196950793",
+      "date_updated": "1794621470644",
       "date_closed": null,
-      "list": "larissa lopes"
+      "list": "laface concept"
     },
     {
       "id": "wdwmbdnwnq",
@@ -708,24 +726,6 @@
       "date_updated": "1794196834225",
       "date_closed": null,
       "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdn7kn",
-      "custom_id": null,
-      "name": "[criação de peças gráficas] @stela store",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdn7kn",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1794553200000",
-      "date_updated": "1794535294050",
-      "date_closed": null,
-      "list": "stela store"
     },
     {
       "id": "wdwmbdkdh1",
@@ -1335,8 +1335,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1795158000000",
-      "date_updated": "1794197002135",
+      "due_date": "1795762800000",
+      "date_updated": "1794629653674",
       "date_closed": null,
       "list": "tarefas"
     },
