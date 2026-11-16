@@ -10,6 +10,18 @@
 "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMjNUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
 },
 {
+"summary": "takai (Henrique Zalaf)",
+"start": "2026-11-24T14:00:00-03:00",
+"end": "2026-11-24T14:45:00-03:00",
+"allDay": false,
+"location": null,
+"attendees": [
+"henrique@cbpz.com.br"
+],
+"hasMeet": true,
+"htmlLink": "https://www.google.com/calendar/event?eid=bG5zdnIyOXRhYnBtbHEwZnFvYzNuMHUyZ3MgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+},
+{
 "summary": "[gravação de conteúdo] @murilo tudéia",
 "start": "2026-11-25T09:00:00-03:00",
 "end": "2026-11-25T12:00:00-03:00",
