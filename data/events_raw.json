@@ -98,6 +98,26 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMzBUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
+    "summary": "[webinar] @ebac dia 1",
+    "start": "2026-12-02T19:00:00-03:00",
+    "end": "2026-12-02T21:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=bDdjN2plMGRnMGJwNWQxb2F0czltMWhoZ2MgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[webinar] @ebac dia 2",
+    "start": "2026-12-03T19:00:00-03:00",
+    "end": "2026-12-03T21:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=anVrMGo4ZGFycmlyMmRoM2IyNW41ODE3dmcgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+  },
+  {
     "summary": "[vídeos institucionais] @bellacasa",
     "start": "2026-12-04",
     "end": "2026-12-05",
