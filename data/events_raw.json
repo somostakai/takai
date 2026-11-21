@@ -246,5 +246,15 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=M2JjOXNyY2ZrdDUydWZ2NXVpNmM2Z3JsNXIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-12-21T00:00:00-03:00",
+    "end": "2026-12-22T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEyMjFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   }
 ]
