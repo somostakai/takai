@@ -138,6 +138,16 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=NjZjdWFodXM2c2J2cHQyazI2MzFyMzVxanNfMjAyNjEyMDRUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
+    "summary": "sobrancelha",
+    "start": "2026-12-04T16:00:00-03:00",
+    "end": "2026-12-04T17:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=dmE5bG81NGQ4cTF2bTAwNmQwajZnZGhrYXMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+  },
+  {
     "summary": "[organização] café + planejamento semanal",
     "start": "2026-12-04T17:15:00-03:00",
     "end": "2026-12-04T18:30:00-03:00",
@@ -256,5 +266,25 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEyMjFUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "cílios",
+    "start": "2026-12-21T15:30:00-03:00",
+    "end": "2026-12-21T17:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=cWEzODRqODdxYzB1YjcyOWg0aWlkdWFlMGMgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "sobrancelha",
+    "start": "2026-12-21T17:00:00-03:00",
+    "end": "2026-12-21T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnE5a2lpdjVlbGJjbTZmcmlkOXQ2Y2owcTAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   }
 ]
