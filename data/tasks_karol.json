@@ -1,6 +1,76 @@
 {
   "tasks": [
     {
+      "id": "wdwmbdy371",
+      "custom_id": null,
+      "name": "inscrição no curso de design gráfico",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbdy371",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": null,
+      "date_updated": "1795401480007",
+      "date_closed": null,
+      "list": "estudos"
+    },
+    {
+      "id": "wdwmbdy36x",
+      "custom_id": null,
+      "name": "emitir notas fiscais pendentes",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdy36x",
+      "priority": "urgent",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "documentação"
+      ],
+      "due_date": "1795417200000",
+      "date_updated": "1795401272798",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdy36w",
+      "custom_id": null,
+      "name": "subir novos leads no crm",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdy36w",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1795417200000",
+      "date_updated": "1795401290352",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdy2mm",
+      "custom_id": null,
+      "name": "pensar em um novo método de mentoria",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbdy2mm",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1799650800000",
+      "date_updated": "1795354443888",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbdx1f6",
       "custom_id": null,
       "name": "atualizar o caixa financeiro",
