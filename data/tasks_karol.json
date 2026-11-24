@@ -1,6 +1,60 @@
 {
   "tasks": [
     {
+      "id": "wdwmbdy8zp",
+      "custom_id": null,
+      "name": "buscar eventos dos próximos dois meses para captar",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdy8zp",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1796022000000",
+      "date_updated": "1795468529325",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdy5cc",
+      "custom_id": null,
+      "name": "[tutoria] @ebac",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdy5cc",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "mentoria"
+      ],
+      "due_date": "1795503600000",
+      "date_updated": "1795481079621",
+      "date_closed": null,
+      "list": "mentorias"
+    },
+    {
+      "id": "wdwmbdy4eh",
+      "custom_id": null,
+      "name": "atualizar o caixa financeiro",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdy4eh",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "organização"
+      ],
+      "due_date": "1795590000000",
+      "date_updated": "1795442072754",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
       "id": "wdwmbdy371",
       "custom_id": null,
       "name": "inscrição no curso de design gráfico",
@@ -17,38 +71,20 @@
       "list": "estudos"
     },
     {
-      "id": "wdwmbdy36x",
-      "custom_id": null,
-      "name": "emitir notas fiscais pendentes",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdy36x",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "documentação"
-      ],
-      "due_date": "1795417200000",
-      "date_updated": "1795401272798",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
       "id": "wdwmbdy36w",
       "custom_id": null,
       "name": "subir novos leads no crm",
       "status": "priorizado",
       "url": "https://app.clickup.com/t/wdwmbdy36w",
-      "priority": "high",
+      "priority": "urgent",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "organização"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1795401290352",
+      "due_date": "1795503600000",
+      "date_updated": "1795480967243",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -67,24 +103,6 @@
       ],
       "due_date": "1799650800000",
       "date_updated": "1795354443888",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdx1f6",
-      "custom_id": null,
-      "name": "atualizar o caixa financeiro",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdx1f6",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1795417200000",
-      "date_updated": "1794653150156",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -143,25 +161,6 @@
       "list": "ksdy sousa"
     },
     {
-      "id": "wdwmbdwv7r",
-      "custom_id": null,
-      "name": "[criação de peças gráficas] @bellacasa",
-      "status": "backlog",
-      "url": "https://app.clickup.com/t/wdwmbdwv7r",
-      "priority": "normal",
-      "assignees": [
-        "Karol",
-        "Tainara Nogueira"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1795417200000",
-      "date_updated": "1794620818052",
-      "date_closed": null,
-      "list": "bellacasa"
-    },
-    {
       "id": "wdwmbdwucm",
       "custom_id": null,
       "name": "[criação de peças gráficas] @murilo tudéia",
@@ -200,24 +199,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdwgfz",
-      "custom_id": null,
-      "name": "[tutoria] @ebac",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdwgfz",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1795417200000",
-      "date_updated": "1794535521371",
-      "date_closed": null,
-      "list": "mentorias"
-    },
-    {
       "id": "wdwmbdvxpj",
       "custom_id": null,
       "name": "[criação de peças gráficas] @gladys ribeiro",
@@ -230,8 +211,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1794620761108",
+      "due_date": "1795590000000",
+      "date_updated": "1795481004034",
       "date_closed": null,
       "list": "gladys ribeiro"
     },
@@ -356,8 +337,8 @@
       "tags": [
         "estratégia"
       ],
-      "due_date": "1795503600000",
-      "date_updated": "1794196919551",
+      "due_date": "1795590000000",
+      "date_updated": "1795481120814",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -428,8 +409,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1794196911711",
+      "due_date": "1795590000000",
+      "date_updated": "1795481135396",
       "date_closed": null,
       "list": "crm"
     },
@@ -465,8 +446,8 @@
       "tags": [
         "evento"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1794494680954",
+      "due_date": "1795590000000",
+      "date_updated": "1795480954212",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -514,15 +495,15 @@
       "name": "revisão de métricas e análise dos okrs",
       "status": "priorizado",
       "url": "https://app.clickup.com/t/wdwmbdu2w0",
-      "priority": "low",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "estratégia"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1794535531880",
+      "due_date": "1795503600000",
+      "date_updated": "1795480927181",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -575,8 +556,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1794535495731",
+      "due_date": "1795590000000",
+      "date_updated": "1795481090399",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -593,8 +574,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1794620747956",
+      "due_date": "1795676400000",
+      "date_updated": "1795480995837",
       "date_closed": null,
       "list": "cassandra"
     },
@@ -629,8 +610,8 @@
       "tags": [
         "mentoria"
       ],
-      "due_date": "1795503600000",
-      "date_updated": "1794530449621",
+      "due_date": "1795590000000",
+      "date_updated": "1795481111952",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -647,8 +628,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1795503600000",
-      "date_updated": "1794534307479",
+      "due_date": "1795590000000",
+      "date_updated": "1795481102666",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -658,7 +639,7 @@
       "name": "[branding de marca] @karina lopes",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdqp4f",
-      "priority": "normal",
+      "priority": "high",
       "assignees": [
         "Karol",
         "Talita Dovigo"
@@ -666,8 +647,8 @@
       "tags": [
         "identidade"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1795033314004",
+      "due_date": "1795503600000",
+      "date_updated": "1795480894980",
       "date_closed": null,
       "list": "branding de marca"
     },
@@ -767,15 +748,15 @@
       "name": "[social media] @cynthia colbano",
       "status": "qualificação",
       "url": "https://app.clickup.com/t/wdwmbdnrmv",
-      "priority": "normal",
+      "priority": "low",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "comercial"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1794197012590",
+      "due_date": "1795590000000",
+      "date_updated": "1795454667512",
       "date_closed": null,
       "list": "crm"
     },
@@ -1039,9 +1020,9 @@
       "id": "wdwmbdbrdx",
       "custom_id": null,
       "name": "[branding de marca] @ana prevatto",
-      "status": "em progresso",
+      "status": "bloqueado",
       "url": "https://app.clickup.com/t/wdwmbdbrdx",
-      "priority": "urgent",
+      "priority": "high",
       "assignees": [
         "Karol",
         "Talita Dovigo",
@@ -1050,8 +1031,8 @@
       "tags": [
         "identidade"
       ],
-      "due_date": "1795417200000",
-      "date_updated": "1795012857270",
+      "due_date": "1795676400000",
+      "date_updated": "1795468007868",
       "date_closed": null,
       "list": "branding de marca"
     },
@@ -1265,8 +1246,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795503600000",
-      "date_updated": "1794535538675",
+      "due_date": "1795762800000",
+      "date_updated": "1795481127562",
       "date_closed": null,
       "list": "site institucional"
     },
@@ -1475,24 +1456,6 @@
       "date_updated": "1781395696750",
       "date_closed": null,
       "list": "crm"
-    },
-    {
-      "id": "86ah36y51",
-      "custom_id": null,
-      "name": "buscar eventos dos próximos dois meses para captar",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/86ah36y51",
-      "priority": "high",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "comercial"
-      ],
-      "due_date": "1795417200000",
-      "date_updated": "1794195368982",
-      "date_closed": null,
-      "list": "tarefas"
     },
     {
       "id": "86ah199a3",

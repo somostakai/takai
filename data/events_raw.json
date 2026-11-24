@@ -1,16 +1,6 @@
 [
   {
-    "summary": "focus day",
-    "start": "2026-11-23T00:00:00-03:00",
-    "end": "2026-11-24T00:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "hasMeet": false,
-    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMjNUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "takai (Henrique Zalaf)",
+    "summary": "[reunião comercial] takai ᨒ henrique zalaf",
     "start": "2026-11-24T14:00:00-03:00",
     "end": "2026-11-24T14:45:00-03:00",
     "allDay": false,
@@ -44,7 +34,7 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=NXZrbWU0dmVpZjBvbTlwNDhxb28yZnBrYmIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
-    "summary": "[consultoria] takai <> pedro turra",
+    "summary": "[consultoria] takai ᨒ pedro turra",
     "start": "2026-11-26T10:30:00-03:00",
     "end": "2026-11-26T11:30:00-03:00",
     "allDay": false,
@@ -56,17 +46,7 @@
     "htmlLink": "https://www.google.com/calendar/event?eid=NDgxcTdubXZxbHNzc21vNmRodWJkanMyNGpfMjAyNjExMjZUMTMzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
-    "summary": "[consulta online] gastro beatriz barreto mendes",
-    "start": "2026-11-26T12:20:00-03:00",
-    "end": "2026-11-26T12:50:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "hasMeet": false,
-    "htmlLink": "https://www.google.com/calendar/event?eid=Nmp2ODVxYTQ1OGdjdnRhZ2VsNmg3djJnOTQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[mentoria de evolução profissional] @ronan emiliano",
+    "summary": "[mentoria de evolução profissional] takai ᨒ ronan emiliano",
     "start": "2026-11-26T18:30:00-03:00",
     "end": "2026-11-26T19:30:00-03:00",
     "allDay": false,
@@ -106,6 +86,18 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMzBUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[reunião] controladoria da takai",
+    "start": "2026-12-02T10:30:00-03:00",
+    "end": "2026-12-02T11:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "tainara.nog@gmail.com"
+    ],
+    "hasMeet": true,
+    "htmlLink": "https://www.google.com/calendar/event?eid=N2l2dmR2YTJ1ZjNxZWdpMzhiYnFqcGk3dmkgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[webinar] @ebac dia 1",
@@ -286,5 +278,17 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=YnE5a2lpdjVlbGJjbTZmcmlkOXQ2Y2owcTAgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[consultoria] takai <> pedro turra",
+    "start": "2026-12-23T10:30:00-03:00",
+    "end": "2026-12-23T11:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "pedro@pedroturra.com"
+    ],
+    "hasMeet": true,
+    "htmlLink": "https://www.google.com/calendar/event?eid=NDgxcTdubXZxbHNzc21vNmRodWJkanMyNGpfMjAyNjEyMjRUMTMzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   }
 ]
