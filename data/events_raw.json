@@ -1,22 +1,10 @@
 [
   {
-    "summary": "[reunião comercial] takai ᨒ henrique zalaf",
-    "start": "2026-11-24T14:00:00-03:00",
-    "end": "2026-11-24T14:45:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "henrique@cbpz.com.br"
-    ],
-    "hasMeet": true,
-    "htmlLink": "https://www.google.com/calendar/event?eid=bG5zdnIyOXRhYnBtbHEwZnFvYzNuMHUyZ3MgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
     "summary": "[gravação de conteúdo] @murilo tudéia",
-    "start": "2026-11-25T09:00:00-03:00",
-    "end": "2026-11-25T12:00:00-03:00",
+    "start": "2026-11-25T14:00:00-03:00",
+    "end": "2026-11-25T18:00:00-03:00",
     "allDay": false,
-    "location": null,
+    "location": "MedPlex Campinas",
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=M2tjaWwzdTRuaDFnMm12am8xbnUwdmJsMGggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
@@ -44,6 +32,16 @@
     ],
     "hasMeet": true,
     "htmlLink": "https://www.google.com/calendar/event?eid=NDgxcTdubXZxbHNzc21vNmRodWJkanMyNGpfMjAyNjExMjZUMTMzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[cobertura de evento] @femea fábrica",
+    "start": "2026-11-26T18:30:00-03:00",
+    "end": "2026-11-26T20:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=MGswbG1ycmFxZmYybGl2bXF2ZHRyaHQ5c2ogdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[mentoria de evolução profissional] takai ᨒ ronan emiliano",
@@ -290,5 +288,15 @@
     ],
     "hasMeet": true,
     "htmlLink": "https://www.google.com/calendar/event?eid=NDgxcTdubXZxbHNzc21vNmRodWJkanMyNGpfMjAyNjEyMjRUMTMzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "creative day",
+    "start": "2026-12-25T08:30:00-03:00",
+    "end": "2026-12-25T17:30:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=aTNmNGUzdnZnMG1nOTgxMDd0cHIzc2NyNWtfMjAyNjEyMjVUMTEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   }
 ]

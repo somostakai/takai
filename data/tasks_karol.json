@@ -1,6 +1,97 @@
 {
   "tasks": [
     {
+      "id": "wdwmbdyevn",
+      "custom_id": null,
+      "name": "revisão de métricas e análise dos okrs",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdyevn",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1795762800000",
+      "date_updated": "1795555371140",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdyedt",
+      "custom_id": null,
+      "name": "[tutoria] @ebac",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdyedt",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "mentoria"
+      ],
+      "due_date": "1795590000000",
+      "date_updated": "1795551810376",
+      "date_closed": null,
+      "list": "mentorias"
+    },
+    {
+      "id": "wdwmbdybvn",
+      "custom_id": null,
+      "name": "[gravação de conteúdos] @murilo tudéia",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdybvn",
+      "priority": "urgent",
+      "assignees": [
+        "Tainara Nogueira",
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1795590000000",
+      "date_updated": "1795558671034",
+      "date_closed": null,
+      "list": "murilo tudéia"
+    },
+    {
+      "id": "wdwmbdyb44",
+      "custom_id": null,
+      "name": "[growth] @henrique zalaf",
+      "status": "follow-up",
+      "url": "https://app.clickup.com/t/wdwmbdyb44",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1795676400000",
+      "date_updated": "1795556384577",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
+      "id": "wdwmbdyb33",
+      "custom_id": null,
+      "name": "[growth e branding] @studio 19.62",
+      "status": "qualificação",
+      "url": "https://app.clickup.com/t/wdwmbdyb33",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1795676400000",
+      "date_updated": "1795527171476",
+      "date_closed": null,
+      "list": "crm"
+    },
+    {
       "id": "wdwmbdy8zp",
       "custom_id": null,
       "name": "buscar eventos dos próximos dois meses para captar",
@@ -17,24 +108,6 @@
       "date_updated": "1795468529325",
       "date_closed": null,
       "list": "tarefas"
-    },
-    {
-      "id": "wdwmbdy5cc",
-      "custom_id": null,
-      "name": "[tutoria] @ebac",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdy5cc",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1795503600000",
-      "date_updated": "1795481079621",
-      "date_closed": null,
-      "list": "mentorias"
     },
     {
       "id": "wdwmbdy4eh",
@@ -69,24 +142,6 @@
       "date_updated": "1795401480007",
       "date_closed": null,
       "list": "estudos"
-    },
-    {
-      "id": "wdwmbdy36w",
-      "custom_id": null,
-      "name": "subir novos leads no crm",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdy36w",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "organização"
-      ],
-      "due_date": "1795503600000",
-      "date_updated": "1795480967243",
-      "date_closed": null,
-      "list": "tarefas"
     },
     {
       "id": "wdwmbdy2mm",
@@ -258,7 +313,7 @@
       "name": "[criação de peças gráficas] @olhar da diversidade",
       "status": "backlog",
       "url": "https://app.clickup.com/t/wdwmbdvv0b",
-      "priority": "normal",
+      "priority": "urgent",
       "assignees": [
         "Karol"
       ],
@@ -266,7 +321,7 @@
         "conteúdo"
       ],
       "due_date": "1795762800000",
-      "date_updated": "1794620881650",
+      "date_updated": "1795551682135",
       "date_closed": null,
       "list": "olhar da diversidade"
     },
@@ -446,8 +501,8 @@
       "tags": [
         "evento"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795480954212",
+      "due_date": "1795762800000",
+      "date_updated": "1795558108909",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -488,24 +543,6 @@
       "date_updated": "1794535458195",
       "date_closed": null,
       "list": "crm"
-    },
-    {
-      "id": "wdwmbdu2w0",
-      "custom_id": null,
-      "name": "revisão de métricas e análise dos okrs",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdu2w0",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1795503600000",
-      "date_updated": "1795480927181",
-      "date_closed": null,
-      "list": "tarefas"
     },
     {
       "id": "wdwmbdu065",
@@ -637,7 +674,7 @@
       "id": "wdwmbdqp4f",
       "custom_id": null,
       "name": "[branding de marca] @karina lopes",
-      "status": "em progresso",
+      "status": "bloqueado",
       "url": "https://app.clickup.com/t/wdwmbdqp4f",
       "priority": "high",
       "assignees": [
@@ -647,8 +684,8 @@
       "tags": [
         "identidade"
       ],
-      "due_date": "1795503600000",
-      "date_updated": "1795480894980",
+      "due_date": "1795762800000",
+      "date_updated": "1795526765365",
       "date_closed": null,
       "list": "branding de marca"
     },
