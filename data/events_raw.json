@@ -1,27 +1,5 @@
 [
   {
-    "summary": "[gravação de conteúdo] @murilo tudéia",
-    "start": "2026-11-25T14:00:00-03:00",
-    "end": "2026-11-25T18:00:00-03:00",
-    "allDay": false,
-    "location": "MedPlex Campinas",
-    "attendees": [],
-    "hasMeet": false,
-    "htmlLink": "https://www.google.com/calendar/event?eid=M2tjaWwzdTRuaDFnMm12am8xbnUwdmJsMGggdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[criação de aula de ozônio] @samuel thobias",
-    "start": "2026-11-26T09:00:00-03:00",
-    "end": "2026-11-26T10:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "drsamuelthobias@gmail.com"
-    ],
-    "hasMeet": true,
-    "htmlLink": "https://www.google.com/calendar/event?eid=NXZrbWU0dmVpZjBvbTlwNDhxb28yZnBrYmIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
     "summary": "[consultoria] takai ᨒ pedro turra",
     "start": "2026-11-26T10:30:00-03:00",
     "end": "2026-11-26T11:30:00-03:00",
@@ -35,25 +13,13 @@
   },
   {
     "summary": "[cobertura de evento] @femea fábrica",
-    "start": "2026-11-26T18:30:00-03:00",
-    "end": "2026-11-26T20:30:00-03:00",
+    "start": "2026-11-26T18:00:00-03:00",
+    "end": "2026-11-26T20:00:00-03:00",
     "allDay": false,
     "location": null,
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=MGswbG1ycmFxZmYybGl2bXF2ZHRyaHQ5c2ogdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[mentoria de evolução profissional] takai ᨒ ronan emiliano",
-    "start": "2026-11-26T18:30:00-03:00",
-    "end": "2026-11-26T19:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "ronan0400@outlook.com"
-    ],
-    "hasMeet": true,
-    "htmlLink": "https://www.google.com/calendar/event?eid=MmJjamkyOWRyMGo0M3VsbDJ1cW9pNzQxdjRfMjAyNjExMjZUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "creative day",
@@ -64,6 +30,18 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=aTNmNGUzdnZnMG1nOTgxMDd0cHIzc2NyNWtfMjAyNjExMjdUMTEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[criação de aula de ozônio] @samuel thobias",
+    "start": "2026-11-27T09:00:00-03:00",
+    "end": "2026-11-27T12:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "drsamuelthobias@gmail.com"
+    ],
+    "hasMeet": true,
+    "htmlLink": "https://www.google.com/calendar/event?eid=NXZrbWU0dmVpZjBvbTlwNDhxb28yZnBrYmIgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[organização] café + planejamento semanal",
@@ -84,6 +62,18 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjExMzBUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[mentoria de evolução profissional] takai ᨒ ronan emiliano",
+    "start": "2026-12-01T18:00:00-03:00",
+    "end": "2026-12-01T19:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [
+      "ronan0400@outlook.com"
+    ],
+    "hasMeet": true,
+    "htmlLink": "https://www.google.com/calendar/event?eid=MmJjamkyOWRyMGo0M3VsbDJ1cW9pNzQxdjRfMjAyNjExMjZUMjEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[reunião] controladoria da takai",
@@ -298,5 +288,15 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=aTNmNGUzdnZnMG1nOTgxMDd0cHIzc2NyNWtfMjAyNjEyMjVUMTEzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "[organização] café + planejamento semanal",
+    "start": "2026-12-25T17:30:00-03:00",
+    "end": "2026-12-25T18:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=MDZwbGoxcXVibjl2OGl0ZjRrZHRhdWRuY3NfMjAyNjEyMjVUMjAzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   }
 ]

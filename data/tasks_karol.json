@@ -1,6 +1,24 @@
 {
   "tasks": [
     {
+      "id": "wdwmbdyj3y",
+      "custom_id": null,
+      "name": "[moderação do instagram] @ksdy sousa",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdyj3y",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1795762800000",
+      "date_updated": "1795622204692",
+      "date_closed": null,
+      "list": "ksdy sousa"
+    },
+    {
       "id": "wdwmbdyevn",
       "custom_id": null,
       "name": "revisão de métricas e análise dos okrs",
@@ -31,8 +49,8 @@
       "tags": [
         "mentoria"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795551810376",
+      "due_date": "1795676400000",
+      "date_updated": "1795615621755",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -122,8 +140,8 @@
       "tags": [
         "organização"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795442072754",
+      "due_date": "1795676400000",
+      "date_updated": "1795615618287",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -223,8 +241,8 @@
       "url": "https://app.clickup.com/t/wdwmbdwucm",
       "priority": "normal",
       "assignees": [
-        "Karol",
-        "Tainara Nogueira"
+        "Tainara Nogueira",
+        "Karol"
       ],
       "tags": [
         "conteúdo"
@@ -248,8 +266,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1794425993188",
+      "due_date": "1795676400000",
+      "date_updated": "1795615613587",
       "date_closed": null,
       "list": "crm"
     },
@@ -257,9 +275,9 @@
       "id": "wdwmbdvxpj",
       "custom_id": null,
       "name": "[criação de peças gráficas] @gladys ribeiro",
-      "status": "backlog",
+      "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdvxpj",
-      "priority": "normal",
+      "priority": "urgent",
       "assignees": [
         "Karol"
       ],
@@ -267,7 +285,7 @@
         "conteúdo"
       ],
       "due_date": "1795590000000",
-      "date_updated": "1795481004034",
+      "date_updated": "1795622215302",
       "date_closed": null,
       "list": "gladys ribeiro"
     },
@@ -302,8 +320,8 @@
       "tags": [
         "estratégia"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1794535072402",
+      "due_date": "1795676400000",
+      "date_updated": "1795615594259",
       "date_closed": null,
       "list": "olhar da diversidade"
     },
@@ -374,8 +392,8 @@
       "tags": [
         "estratégia"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1794621443958",
+      "due_date": "1796022000000",
+      "date_updated": "1795615583687",
       "date_closed": null,
       "list": "bellacasa"
     },
@@ -392,8 +410,8 @@
       "tags": [
         "estratégia"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795481120814",
+      "due_date": "1795676400000",
+      "date_updated": "1795615572509",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -464,8 +482,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795481135396",
+      "due_date": "1795676400000",
+      "date_updated": "1795615576435",
       "date_closed": null,
       "list": "crm"
     },
@@ -545,24 +563,6 @@
       "list": "crm"
     },
     {
-      "id": "wdwmbdu065",
-      "custom_id": null,
-      "name": "[moderação do instagram] @ksdy sousa",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdu065",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1795590000000",
-      "date_updated": "1794535509693",
-      "date_closed": null,
-      "list": "ksdy sousa"
-    },
-    {
       "id": "wdwmbdtx01",
       "custom_id": null,
       "name": "estudo semanal",
@@ -593,8 +593,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795481090399",
+      "due_date": "1795762800000",
+      "date_updated": "1795615534647",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -640,15 +640,15 @@
       "name": "[mentoria de evolução] @ronan emiliano",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdraub",
-      "priority": "low",
+      "priority": "high",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "mentoria"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795481111952",
+      "due_date": "1795676400000",
+      "date_updated": "1795620642585",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -658,15 +658,15 @@
       "name": "[consultoria com ia] @pedro turra",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdradf",
-      "priority": "low",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "documentação"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795481102666",
+      "due_date": "1795676400000",
+      "date_updated": "1795620457956",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -792,8 +792,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795454667512",
+      "due_date": "1795676400000",
+      "date_updated": "1795615565790",
       "date_closed": null,
       "list": "crm"
     },
