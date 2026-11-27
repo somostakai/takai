@@ -1,27 +1,5 @@
 [
   {
-    "summary": "[consultoria] takai ᨒ pedro turra",
-    "start": "2026-11-26T10:30:00-03:00",
-    "end": "2026-11-26T11:30:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [
-      "pedro@pedroturra.com"
-    ],
-    "hasMeet": true,
-    "htmlLink": "https://www.google.com/calendar/event?eid=NDgxcTdubXZxbHNzc21vNmRodWJkanMyNGpfMjAyNjExMjZUMTMzMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
-  },
-  {
-    "summary": "[cobertura de evento] @femea fábrica",
-    "start": "2026-11-26T18:00:00-03:00",
-    "end": "2026-11-26T20:00:00-03:00",
-    "allDay": false,
-    "location": null,
-    "attendees": [],
-    "hasMeet": false,
-    "htmlLink": "https://www.google.com/calendar/event?eid=MGswbG1ycmFxZmYybGl2bXF2ZHRyaHQ5c2ogdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
-  },
-  {
     "summary": "creative day",
     "start": "2026-11-27T08:30:00-03:00",
     "end": "2026-11-27T17:30:00-03:00",
@@ -81,9 +59,7 @@
     "end": "2026-12-02T11:30:00-03:00",
     "allDay": false,
     "location": null,
-    "attendees": [
-      "tainara.nog@gmail.com"
-    ],
+    "attendees": [],
     "hasMeet": true,
     "htmlLink": "https://www.google.com/calendar/event?eid=N2l2dmR2YTJ1ZjNxZWdpMzhiYnFqcGk3dmkgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
   },
@@ -166,6 +142,16 @@
     "attendees": [],
     "hasMeet": false,
     "htmlLink": "https://www.google.com/calendar/event?eid=N291MmZlZ210NXBhMDloZHI1OHQ3M21maGQgdGFrYWlAc29tb3N0YWthaS5jb20uYnI&ctz=America/Sao_Paulo"
+  },
+  {
+    "summary": "focus day",
+    "start": "2026-12-07T00:00:00-03:00",
+    "end": "2026-12-08T00:00:00-03:00",
+    "allDay": false,
+    "location": null,
+    "attendees": [],
+    "hasMeet": false,
+    "htmlLink": "https://www.google.com/calendar/event?eid=YnViaTg0ZzNtcWZ2cXZkZGhzZHZwM2E2MWdfMjAyNjEyMDdUMDMwMDAwWiB0YWthaUBzb21vc3Rha2FpLmNvbS5icg&ctz=America/Sao_Paulo"
   },
   {
     "summary": "[cobertura de evento] aula de ozônio @samuel",

@@ -1,6 +1,78 @@
 {
   "tasks": [
     {
+      "id": "wdwmbdywdr",
+      "custom_id": null,
+      "name": "[moderação do instagram] @murilo tudéia",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdywdr",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1796022000000",
+      "date_updated": "1795782733889",
+      "date_closed": null,
+      "list": "murilo tudéia"
+    },
+    {
+      "id": "wdwmbdyvje",
+      "custom_id": null,
+      "name": "oficina de IA para advogados",
+      "status": "não iniciado",
+      "url": "https://app.clickup.com/t/wdwmbdyvje",
+      "priority": "normal",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "comercial"
+      ],
+      "due_date": "1795762800000",
+      "date_updated": "1795739404574",
+      "date_closed": null,
+      "list": "tarefas"
+    },
+    {
+      "id": "wdwmbdyuzh",
+      "custom_id": null,
+      "name": "[tutoria] @ebac",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdyuzh",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "mentoria"
+      ],
+      "due_date": "1795762800000",
+      "date_updated": "1795724337435",
+      "date_closed": null,
+      "list": "mentorias"
+    },
+    {
+      "id": "wdwmbdyrg0",
+      "custom_id": null,
+      "name": "[moderação do instagram] @olhar da diversidade",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdyrg0",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1796022000000",
+      "date_updated": "1795700495254",
+      "date_closed": null,
+      "list": "olhar da diversidade"
+    },
+    {
       "id": "wdwmbdyj3y",
       "custom_id": null,
       "name": "[moderação do instagram] @ksdy sousa",
@@ -17,6 +89,22 @@
       "date_updated": "1795622204692",
       "date_closed": null,
       "list": "ksdy sousa"
+    },
+    {
+      "id": "wdwmbdyhqc",
+      "custom_id": null,
+      "name": "organização do product camp",
+      "status": "priorizado",
+      "url": "https://app.clickup.com/t/wdwmbdyhqc",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [],
+      "due_date": "1795762800000",
+      "date_updated": "1795782754247",
+      "date_closed": null,
+      "list": "tarefas"
     },
     {
       "id": "wdwmbdyevn",
@@ -37,28 +125,10 @@
       "list": "tarefas"
     },
     {
-      "id": "wdwmbdyedt",
-      "custom_id": null,
-      "name": "[tutoria] @ebac",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdyedt",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "mentoria"
-      ],
-      "due_date": "1795676400000",
-      "date_updated": "1795615621755",
-      "date_closed": null,
-      "list": "mentorias"
-    },
-    {
       "id": "wdwmbdybvn",
       "custom_id": null,
       "name": "[gravação de conteúdos] @murilo tudéia",
-      "status": "priorizado",
+      "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdybvn",
       "priority": "urgent",
       "assignees": [
@@ -68,8 +138,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795558671034",
+      "due_date": "1795762800000",
+      "date_updated": "1795748304266",
       "date_closed": null,
       "list": "murilo tudéia"
     },
@@ -86,8 +156,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795556384577",
+      "due_date": "1796022000000",
+      "date_updated": "1795740591678",
       "date_closed": null,
       "list": "crm"
     },
@@ -97,15 +167,15 @@
       "name": "[growth e branding] @studio 19.62",
       "status": "qualificação",
       "url": "https://app.clickup.com/t/wdwmbdyb33",
-      "priority": "high",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "comercial"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795527171476",
+      "due_date": "1795762800000",
+      "date_updated": "1795740623857",
       "date_closed": null,
       "list": "crm"
     },
@@ -140,8 +210,8 @@
       "tags": [
         "organização"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795615618287",
+      "due_date": "1795762800000",
+      "date_updated": "1795699767930",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -210,8 +280,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1794620674933",
+      "due_date": "1795762800000",
+      "date_updated": "1795699716903",
       "date_closed": null,
       "list": "laface concept"
     },
@@ -241,8 +311,8 @@
       "url": "https://app.clickup.com/t/wdwmbdwucm",
       "priority": "normal",
       "assignees": [
-        "Tainara Nogueira",
-        "Karol"
+        "Karol",
+        "Tainara Nogueira"
       ],
       "tags": [
         "conteúdo"
@@ -266,8 +336,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795615613587",
+      "due_date": "1795762800000",
+      "date_updated": "1795699760784",
       "date_closed": null,
       "list": "crm"
     },
@@ -284,8 +354,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795590000000",
-      "date_updated": "1795622215302",
+      "due_date": "1795762800000",
+      "date_updated": "1795740608489",
       "date_closed": null,
       "list": "gladys ribeiro"
     },
@@ -308,28 +378,10 @@
       "list": "gladys ribeiro"
     },
     {
-      "id": "wdwmbdvv0t",
-      "custom_id": null,
-      "name": "[moderação do instagram] @olhar da diversidade",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdvv0t",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1795676400000",
-      "date_updated": "1795615594259",
-      "date_closed": null,
-      "list": "olhar da diversidade"
-    },
-    {
       "id": "wdwmbdvv0b",
       "custom_id": null,
       "name": "[criação de peças gráficas] @olhar da diversidade",
-      "status": "backlog",
+      "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdvv0b",
       "priority": "urgent",
       "assignees": [
@@ -339,7 +391,7 @@
         "conteúdo"
       ],
       "due_date": "1795762800000",
-      "date_updated": "1795551682135",
+      "date_updated": "1795723696134",
       "date_closed": null,
       "list": "olhar da diversidade"
     },
@@ -360,24 +412,6 @@
       "date_updated": "1794534881854",
       "date_closed": null,
       "list": "cassandra"
-    },
-    {
-      "id": "wdwmbdvdnc",
-      "custom_id": null,
-      "name": "[moderação do instagram] @murilo tudéia",
-      "status": "priorizado",
-      "url": "https://app.clickup.com/t/wdwmbdvdnc",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1795676400000",
-      "date_updated": "1794535006517",
-      "date_closed": null,
-      "list": "murilo tudéia"
     },
     {
       "id": "wdwmbdvdaf",
@@ -410,8 +444,8 @@
       "tags": [
         "estratégia"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795615572509",
+      "due_date": "1795762800000",
+      "date_updated": "1795699772017",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -439,15 +473,15 @@
       "name": "[atualização financeira] @samuel thobias",
       "status": "priorizado",
       "url": "https://app.clickup.com/t/wdwmbdv0nk",
-      "priority": "high",
+      "priority": "normal",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "documentação"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1793376004203",
+      "due_date": "1795762800000",
+      "date_updated": "1795700670843",
       "date_closed": null,
       "list": "samuel thobias"
     },
@@ -482,8 +516,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795615576435",
+      "due_date": "1795762800000",
+      "date_updated": "1795699742566",
       "date_closed": null,
       "list": "crm"
     },
@@ -519,8 +553,8 @@
       "tags": [
         "evento"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795558108909",
+      "due_date": "1796367600000",
+      "date_updated": "1795782779566",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -557,8 +591,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1794535458195",
+      "due_date": "1795762800000",
+      "date_updated": "1795699733472",
       "date_closed": null,
       "list": "crm"
     },
@@ -611,8 +645,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795480995837",
+      "due_date": "1795762800000",
+      "date_updated": "1795699712361",
       "date_closed": null,
       "list": "cassandra"
     },
@@ -647,8 +681,8 @@
       "tags": [
         "mentoria"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795620642585",
+      "due_date": "1796022000000",
+      "date_updated": "1795699683766",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -658,15 +692,15 @@
       "name": "[consultoria com ia] @pedro turra",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdradf",
-      "priority": "normal",
+      "priority": "high",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "documentação"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795620457956",
+      "due_date": "1795762800000",
+      "date_updated": "1795739316680",
       "date_closed": null,
       "list": "mentorias"
     },
@@ -684,8 +718,8 @@
       "tags": [
         "identidade"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795526765365",
+      "due_date": "1796022000000",
+      "date_updated": "1795740564282",
       "date_closed": null,
       "list": "branding de marca"
     },
@@ -783,7 +817,7 @@
       "id": "wdwmbdnrmv",
       "custom_id": null,
       "name": "[social media] @cynthia colbano",
-      "status": "qualificação",
+      "status": "perdido",
       "url": "https://app.clickup.com/t/wdwmbdnrmv",
       "priority": "low",
       "assignees": [
@@ -792,8 +826,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795615565790",
+      "due_date": "1795762800000",
+      "date_updated": "1795782718153",
       "date_closed": null,
       "list": "crm"
     },
@@ -810,8 +844,8 @@
       "tags": [
         "organização"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1794196834225",
+      "due_date": "1796022000000",
+      "date_updated": "1795740664151",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -1068,8 +1102,8 @@
       "tags": [
         "identidade"
       ],
-      "due_date": "1795676400000",
-      "date_updated": "1795468007868",
+      "due_date": "1796022000000",
+      "date_updated": "1795740579810",
       "date_closed": null,
       "list": "branding de marca"
     },
@@ -1407,24 +1441,6 @@
       ],
       "due_date": "1811228400000",
       "date_updated": "1786141210184",
-      "date_closed": null,
-      "list": "tarefas"
-    },
-    {
-      "id": "86ahm47ku",
-      "custom_id": null,
-      "name": "atualizar o painel dos clientes",
-      "status": "em andamento",
-      "url": "https://app.clickup.com/t/86ahm47ku",
-      "priority": "normal",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "documentação"
-      ],
-      "due_date": "1795762800000",
-      "date_updated": "1794629653674",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -2347,8 +2363,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1793932875209",
+      "due_date": "1796367600000",
+      "date_updated": "1795740637421",
       "date_closed": null,
       "list": "tarefas"
     },
