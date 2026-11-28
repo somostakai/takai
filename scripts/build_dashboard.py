@@ -21,6 +21,12 @@ ROUTINE_TITLES = {
     "☕️ café da tarde",
 }
 
+PERSONAL_TITLES = {
+    "sobrancelha",
+    "cílios",
+    "visita da @tia bia",
+}
+
 OWNER_EMAIL = "takai@somostakai.com.br"
 
 WEEKDAYS_PT = [
@@ -48,9 +54,11 @@ def parse_dt(value):
 def process_events(raw_events):
     out = []
     for ev in raw_events:
+        summary = (ev.get("summary") or "(sem título)").strip()
+        if summary in PERSONAL_TITLES:
+            continue
         start = parse_dt(ev["start"])
         end = parse_dt(ev.get("end"))
-        summary = (ev.get("summary") or "(sem título)").strip()
         attendees = [a for a in (ev.get("attendees") or [])]
         external = [a for a in attendees if a.lower() != OWNER_EMAIL]
         is_routine = summary in ROUTINE_TITLES
