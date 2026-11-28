@@ -1,6 +1,42 @@
 {
   "tasks": [
     {
+      "id": "wdwmbdyzng",
+      "custom_id": null,
+      "name": "[moderação do instagram] @ksdy sousa",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdyzng",
+      "priority": "low",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "estratégia"
+      ],
+      "due_date": "1796108400000",
+      "date_updated": "1795833550061",
+      "date_closed": null,
+      "list": "ksdy sousa"
+    },
+    {
+      "id": "wdwmbdyzmp",
+      "custom_id": null,
+      "name": "[criação de peças gráficas] @gladys ribeiro",
+      "status": "backlog",
+      "url": "https://app.clickup.com/t/wdwmbdyzmp",
+      "priority": "high",
+      "assignees": [
+        "Karol"
+      ],
+      "tags": [
+        "conteúdo"
+      ],
+      "due_date": "1796799600000",
+      "date_updated": "1795831553769",
+      "date_closed": null,
+      "list": "gladys ribeiro"
+    },
+    {
       "id": "wdwmbdywdr",
       "custom_id": null,
       "name": "[moderação do instagram] @murilo tudéia",
@@ -22,7 +58,7 @@
       "id": "wdwmbdyvje",
       "custom_id": null,
       "name": "oficina de IA para advogados",
-      "status": "não iniciado",
+      "status": "em andamento",
       "url": "https://app.clickup.com/t/wdwmbdyvje",
       "priority": "normal",
       "assignees": [
@@ -31,8 +67,8 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795739404574",
+      "due_date": "1796022000000",
+      "date_updated": "1795835681607",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -71,24 +107,6 @@
       "date_updated": "1795700495254",
       "date_closed": null,
       "list": "olhar da diversidade"
-    },
-    {
-      "id": "wdwmbdyj3y",
-      "custom_id": null,
-      "name": "[moderação do instagram] @ksdy sousa",
-      "status": "backlog",
-      "url": "https://app.clickup.com/t/wdwmbdyj3y",
-      "priority": "low",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "estratégia"
-      ],
-      "due_date": "1795762800000",
-      "date_updated": "1795622204692",
-      "date_closed": null,
-      "list": "ksdy sousa"
     },
     {
       "id": "wdwmbdyhqc",
@@ -138,8 +156,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795748304266",
+      "due_date": "1796022000000",
+      "date_updated": "1795828437485",
       "date_closed": null,
       "list": "murilo tudéia"
     },
@@ -193,7 +211,7 @@
         "comercial"
       ],
       "due_date": "1796022000000",
-      "date_updated": "1795468529325",
+      "date_updated": "1795833698554",
       "date_closed": null,
       "list": "tarefas"
     },
@@ -336,28 +354,10 @@
       "tags": [
         "comercial"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795699760784",
+      "due_date": "1796108400000",
+      "date_updated": "1795790760532",
       "date_closed": null,
       "list": "crm"
-    },
-    {
-      "id": "wdwmbdvxpj",
-      "custom_id": null,
-      "name": "[criação de peças gráficas] @gladys ribeiro",
-      "status": "em progresso",
-      "url": "https://app.clickup.com/t/wdwmbdvxpj",
-      "priority": "urgent",
-      "assignees": [
-        "Karol"
-      ],
-      "tags": [
-        "conteúdo"
-      ],
-      "due_date": "1795762800000",
-      "date_updated": "1795740608489",
-      "date_closed": null,
-      "list": "gladys ribeiro"
     },
     {
       "id": "wdwmbdvxpg",
@@ -383,15 +383,15 @@
       "name": "[criação de peças gráficas] @olhar da diversidade",
       "status": "em progresso",
       "url": "https://app.clickup.com/t/wdwmbdvv0b",
-      "priority": "urgent",
+      "priority": "high",
       "assignees": [
         "Karol"
       ],
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795723696134",
+      "due_date": "1796022000000",
+      "date_updated": "1795833627808",
       "date_closed": null,
       "list": "olhar da diversidade"
     },
@@ -645,8 +645,8 @@
       "tags": [
         "conteúdo"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795699712361",
+      "due_date": "1796108400000",
+      "date_updated": "1795833617648",
       "date_closed": null,
       "list": "cassandra"
     },
@@ -699,8 +699,8 @@
       "tags": [
         "documentação"
       ],
-      "due_date": "1795762800000",
-      "date_updated": "1795739316680",
+      "due_date": "1797836400000",
+      "date_updated": "1795833527919",
       "date_closed": null,
       "list": "mentorias"
     },
